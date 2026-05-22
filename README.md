@@ -48,7 +48,7 @@ The pipeline has three main stages:
 
 If `assets/Method.png` exists, GitHub will render the method figure below:
 
-![Method](assets/Method.png)
+![Method](assets/system.png)
 
 ## Environment Setup
 
