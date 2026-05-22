@@ -199,15 +199,10 @@ The evaluation script reads result CSV files and computes metrics such as EM, F1
 Model loading utilities are centralized in `utils.py`. Depending on the provider enabled in your local code, you may need to configure API keys and model names in `.env` or environment variables:
 
 ```text
-EMBEDDINGS_MODEL=
-LLM_MODEL=
-CHAT_MODEL_PROVIDER=
 SILICONFLOW_API_KEY=
 SILICONFLOW_BASE_URL=
 SILICONFLOW_MODEL=
-ZHIPUAI_API_KEY=
-ZHIPUAI_EMBEDDINGS_MODEL=
-ZHIPUAI_LLM_MODEL=
+SILICONFLOW_EMBEDDINGS_MODEL =
 ```
 
 The exact variables required depend on the model provider and functions enabled in `utils.py`.
