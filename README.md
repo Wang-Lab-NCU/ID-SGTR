@@ -15,7 +15,6 @@ This repository contains code for hybrid knowledge graph construction and reason
 +-- data_input/             # Raw datasets and training data
 +-- data_output/            # Generated graphs, intermediate files, vectors, and QA files
 +-- models/                 # Local model files
-+-- assets/                 # Figures and project images
 +-- utils.py                # Shared utilities for model loading and structural features
 +-- environment.yml         # Conda environment
 `-- pyproject.toml          # Poetry dependency configuration
