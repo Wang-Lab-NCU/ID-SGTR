@@ -122,8 +122,8 @@ hotpot/build_kg.ipynb
 For other datasets, the notebook may be named:
 
 ```text
-2wiki/bulid_kg.ipynb
-musique/bulid_kg.ipynb
+2wiki/build_kg.ipynb
+musique/build_kg.ipynb
 ```
 
 After running the notebook, check that `data_output/dataset/...` contains files such as `graph.csv`, `chunk.csv`, `qa.csv`, `contextual_proximity.csv`, and the corresponding Parquet vector files.
