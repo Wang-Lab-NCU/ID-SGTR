@@ -1,0 +1,201 @@
+query_id|question|answer|context_id|gold_evidence|gold_supporting_titles|gold_mapping_complete
+hotpot:10|What is the name of the fight song of the university whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area?|Kansas Song|10|['107', '112']|['kansas song', 'university of kansas']|True
+hotpot:23|Which performance act has a higher instrument to person ratio, Badly Drawn Boy or Wolf Alice?|Badly Drawn Boy|23|['236', '242']|['badly drawn boy', 'wolf alice']|True
+hotpot:25|Who was the writer of These Boots Are Made for Walkin' and who died in 2007?|Barton Lee Hazlewood|25|['263', '265']|['lee hazlewood', 'these boots are made for walkin']|True
+hotpot:30|"When was Poison's album ""Shut Up, Make Love"" released?"|2000|30|['303', '307']|['poison american band', 'shut up make love']|True
+hotpot:39|Ralph Hefferline was a psychology professor at a university that is located in what city?|New York City|39|['395', '397']|['columbia university', 'ralph hefferline']|True
+hotpot:44|Alfred Balk served as the secretary of the Committee on the Employment of Minority Groups in the News Media under which United States Vice President?|Nelson Rockefeller|44|['440', '447']|['alfred balk', 'nelson rockefeller']|True
+hotpot:54|Ellie Goulding worked with what other writers on her third studio album, Delirium?|Max Martin, Savan Kotecha and Ilya Salmanzadeh|54|['542', '546']|['delirium ellie goulding album', 'on my mind ellie goulding song']|True
+hotpot:55|Which Australian city founded in 1838 contains a boarding school opened by a Prime Minister of Australia and named after a school in London of the same name.|Marion, South Australia|55|['552', '558']|['marion south australia', 'westminster school adelaide']|True
+hotpot:59|Are both Cypress and Ajuga genera?|no|59|['591', '598']|['ajuga', 'cypress']|True
+hotpot:60|What distinction is held by the former NBA player who was a member of the Charlotte Hornets during their 1992-93 season and was head coach for the WNBA team Charlotte Sting?|shortest player ever to play in the National Basketball Association|60|['601', '607']|['1992 93 charlotte hornets season', 'muggsy bogues']|True
+hotpot:63|What was the Roud Folk Song Index of the nursery rhyme inspiring What Are Little Girls Made Of?|821|63|['637', '638']|['what are little boys made of', 'what are little girls made of']|True
+hotpot:66|Vince Phillips held a junior welterweight title by an organization recognized by what larger Hall of Fame?|International Boxing Hall of Fame|66|['661', '667']|['international boxing federation', 'vince phillips']|True
+hotpot:67|"What is the name of the singer who's song was released as the lead single from the album ""Confessions"", and that had popular song stuck behind for eight consecutive weeks?"|Usher|67|['673', '677']|['i don t wanna know', 'yeah usher song']|True
+hotpot:70|"Which of Tara Strong major voice role in animated series is an American animated television series based on the DC Comics fictional superhero team, the ""Teen Titans""?"|Teen Titans Go!|70|['701', '703']|['tara strong', 'teen titans go tv series']|True
+hotpot:72|What color clothing do people of the Netherlands wear during Oranjegekte or to celebrate the national holiday Koningsdag?|orange|72|['722', '726']|['koningsdag', 'oranjegekte']|True
+hotpot:76|What is the middle name of the actress who plays Bobbi Bacha in Suburban Madness?|Ann|76|['763', '765']|['bobbi bacha', 'sela ward']|True
+hotpot:78|What nationality were social anthropologists Alfred Gell and Edmund Leach?|British|78|['779', '787']|['alfred gell', 'edmund leach']|True
+hotpot:86|"In what year was the novel that Lourenço Mutarelli based ""Nina"" on based first published?"|1866|86|['860', '867']|['crime and punishment', 'lourenço mutarelli']|True
+hotpot:88|How many copies of Roald Dahl's variation on a popular anecdote sold?|250 million|88|['881', '886']|['mrs bixby and the colonel s coat', 'roald dahl']|True
+hotpot:96|Bordan Tkachuk was the CEO of a company that provides what sort of products?|IT products and services|96|['962', '963']|['bordan tkachuk', 'viglen']|True
+hotpot:101|David Huntsinger has worked with this gospel singer born in the month of July?|Larnelle Harris|101|['1011', '1015']|['david huntsinger', 'larnelle harris']|True
+hotpot:107|What type of activity does Owner earnings and Warren Buffett have in common?|business|107|['1073', '1079']|['owner earnings', 'warren buffett']|True
+hotpot:110|Based on a True Story... is an album by which country music star, with the single My Eyes?|Blake Shelton|110|['1101', '1102']|['based on a true story', 'my eyes blake shelton song']|True
+hotpot:120|What major truck road is located in Backford Cross?|The A41|120|['1201', '1209']|['a41 road', 'backford cross']|True
+hotpot:136|The 1974 Texas Tech Raiders football team represented what public research university in Lubbock, Texas?|Texas Tech University|136|['1362', '1363']|['1974 texas tech red raiders football team', 'texas tech university']|True
+hotpot:137|During Siege of Bharatpur, which Commander-in-Chief of Ireland and Commander-in-Chief of India contributed to the storming of the castle?|Lord Combermere|137|['1375', '1377']|['siege of bharatpur', 'stapleton cotton 1st viscount combermere']|True
+hotpot:139|"What year was the film that starred the composer for ""The Naked Brothers Band""?"|2014|139|['1394', '1396']|['nat wolff', 'the fault in our stars film']|True
+hotpot:158|What football club plays in the area between the old tool gates: Brook Bar and Trafford bar?|Manchester United|158|['1581', '1585']|['manchester united f c in european football', 'old trafford greater manchester']|True
+hotpot:168|What was the 58th quadrennial American presidential election held after the 2016 Michigan Democratic primary?|United States presidential election of 2016|168|['1682', '1685']|['michigan democratic primary 2016', 'united states presidential election 2016']|True
+hotpot:174|Which of the city at the south of Shelly Beach, New South Wales is a local government area in the Hunter region of New South Wales, Australia?|City of Newcastle|174|['1747', '1748']|['city of newcastle', 'shelly beach new south wales']|True
+hotpot:184|"What year did the series on CBS, starring the actor who known for his role in ""Rebel Without a Cause,"" air?"|1952|184|['1844', '1848']|['cbs television workshop', 'james dean']|True
+hotpot:198|What amount was the settlement that the character from the Son of al Quada got in 2017?|$10.5 million|198|['1983', '1991']|['omar khadr', 'son of al qaeda']|True
+hotpot:199|Considered the strongest recorded tropical cyclone, which cyclone had a film made about it in 2007?|1999 Odisha cyclone|199|['1993', '1995']|['1999 odisha cyclone', 'kathantara']|True
+hotpot:208|Who has written more than 300 papers, Semyon Aranovich Gershgorin or Pavel Alexandrov?|Pavel Sergeyevich Alexandrov|208|['2084', '2088']|['pavel alexandrov', 'semyon aranovich gershgorin']|True
+hotpot:209|Which post DC Extended Universe actress will also play a role in what is intended to be the fifth installment of the DC Extended Universe?|Gal Gadot|209|['2097', '2099']|['gal gadot', 'justice league film']|True
+hotpot:210|Who was the captain of the only battleship to provide gunfire support during the Vietnam War?|Rear Adm. J. Edward Snyder|210|['2102', '2105']|['j edward snyder', 'uss new jersey bb 62']|True
+hotpot:213|Is the Pakistan fast bowler who joined the Kent County Cricket Club in June, 2011 a left-hand or right-hand batsmans?|right-hand|213|['2139', '2141']|['kent county cricket club in 2011', 'wahab riaz']|True
+hotpot:215|The Tennessee Volunteers football team plays as a member for a conference in what city?|Birmingham, Alabama|215|['2152', '2154']|['1984 tennessee volunteers football team', 'southeastern conference']|True
+hotpot:218|Which suburb is a soap opera featuring a character named Beverly Marshall set in?|Erinsborough|218|['2184', '2189']|['beverly marshall', 'ramsay street']|True
+hotpot:221|"Which television series featured an actor who also performed in ""The Young Ones""?"|"""The Comic Strip Presents..."""|221|['2212', '2220']|['ade edmondson', 'bad news band']|True
+hotpot:235|The Kansas City Wizards have had three home venues in Kansas City in their time.  Which was their first?|Arrowhead Stadium|235|['2349', '2350']|['children s mercy park', 'communityamerica ballpark']|True
+hotpot:237|A scam involving a male calling small town fast-food restaurants and pretending to be a police officer to have them strip search employees was turned into a movie of what name?|Compliance|237|['2368', '2369']|['compliance film', 'strip search phone call scam']|True
+hotpot:244|What class of instrument does Apatim Majumdar play?|strings|244|['2430', '2431']|['apratim majumdar', 'sarod']|True
+hotpot:247|Are  Chrysalis and Look both women's magazines?|yes|247|['2463', '2466']|['chrysalis magazine', 'look uk magazine']|True
+hotpot:254|in 1999, Spirit Halloween LLC was purchased by a mall retailer that has how many stores in the United States and Canada ?|over 600 stores|254|['2534', '2541']|['spencer gifts', 'spirit halloween']|True
+hotpot:256|What year did Roy Rogers and his third wife star in a film directed by Frank McDonald?|1945|256|['2555', '2560']|['along the navajo trail film', 'dale evans']|True
+hotpot:259|which is larger Asante Traditional Buildings or Gulangyu?|Gulangyu|259|['2586', '2587']|['asante traditional buildings', 'gulangyu']|True
+hotpot:260|Armageddon in Retrospect was written by the author who was best known for what 1969 satire novel?|Slaughterhouse-Five|260|['2593', '2602']|['armageddon in retrospect', 'kurt vonnegut']|True
+hotpot:261|Patrick Kennedy is known for his collections of Irish  folktales from a province situated in which part of Ireland ?|the east of Ireland|261|['2603', '2606']|['leinster', 'patrick kennedy folklorist']|True
+hotpot:265|What, known as AAS, is commonly used in bodybuilding?|Anabolic steroids|265|['2649', '2651']|['anabolic steroid', 'steroid use in australia']|True
+hotpot:275|Marion Greene was a health policy analyst for St. Judt Medical company, which had how many principal operations worldwide?|20|275|['2745', '2748']|['marion greene', 'st jude medical']|True
+hotpot:277|In what city was the Italian Baroque composer who composed a set of sonatas, titled Op. 5, born?|Venice|277|['2756', '2762']|['antonio vivaldi', 'six violin sonatas op 5 vivaldi']|True
+hotpot:280|"Flyboys stars which actor who was nominated for an Academy Award for ""127 Hours""?"|James Franco|280|['2785', '2789']|['flyboys film', 'james franco']|True
+hotpot:281|"The English actor Kris Marshall played which character in the highly rated comedy-drama television series ""Death in Paradise""?"|DI Humphrey Goodman|281|['2799', '2802']|['death in paradise tv series', 'kris marshall']|True
+hotpot:289|"Which came to market first, ""Hey Pa! There's a Goat on the Roof"" or ""Poleconomy"""|Hey Pa! There's a Goat on the Roof|289|['2876', '2877']|['hey pa there s a goat on the roof', 'poleconomy']|True
+hotpot:292|What was the nickname of the hitman hired by an Italian American Criminal Organization?|The Crowned Prince of the Philadelphia Mob|292|['2905', '2908']|['philadelphia crime family', 'salvatore testa']|True
+hotpot:294|"Which American music star appeared as a guest in a Will & Grace episode called ""Back Up, Dancer""?"|Janet Damita Jo Jackson|294|['2929', '2934']|['back up dancer', 'janet jackson']|True
+hotpot:296|The Church of the Guanche People was founded in the city that is on the most populated island of what larger area?|Macaronesia|296|['2948', '2952']|['church of the guanche people', 'tenerife']|True
+hotpot:298|The mass killing that took place at Oakland, California on April 2, 2012 was less deadly than the one that took place on October 1, 2015 in which state?|Oregon|298|['2969', '2975']|['oikos university shooting', 'umpqua community college shooting']|True
+hotpot:299|"When did the rock band that sang ""All Join Hands"" rise to prominence?"|early 1970s|299|['2981', '2985']|['all join hands', 'slade']|True
+hotpot:307|What prolific English engineer, who died on 15 December 1857, contributed to the advent of the hot air engine by way of their open cycle devices?|George Cayley|307|['3058', '3062']|['george cayley', 'hot air engine']|True
+hotpot:309|Are Staten Island Catapult and This Is Elvis both documentaries?|yes|309|['3078', '3082']|['staten island catapult', 'this is elvis']|True
+hotpot:310|What is the year of the event that occured first, Making Today a Perfect Day was produced, or Frozen was produced?|2013|310|['3088', '3089']|['frozen fever', 'making today a perfect day']|True
+hotpot:312|Where is the Cocoa Krispies and former Superman sponsor located?|Battle Creek, Michigan|312|['3109', '3115']|['adventures of superman tv series', 'kellogg s']|True
+hotpot:314|How many days did it take the Best New Artist of 2009 to sell 2 million copies of an album in the UK and break a twenty year old record?|29|314|['3132', '3136']|['adele', 'robson amp jerome album']|True
+hotpot:318|Are both Duke Energy and Affiliated Managers Group based in Massachusetts?|no|318|['3172', '3175']|['affiliated managers group', 'duke energy']|True
+hotpot:319|Two positions were filled in The Voice of Ireland b which British-Irish girl group based in London, England?|The Saturdays|319|['3183', '3185']|['the saturdays', 'the voice of ireland series 4']|True
+hotpot:321|What is the international football competition for women that Liu Ailing played in the 1991,1995, 1999 editions?|international football competition|321|['3200', '3205']|['fifa women s world cup', 'liu ailing']|True
+hotpot:327|What studio album did Kanye West record with Roc-A-Fella Records and soul singer Dwele?|My Beautiful Dark Twisted Fantasy|327|['3260', '3266']|['my beautiful dark twisted fantasy', 'power kanye west song']|True
+hotpot:328|Were Enrique Carreras and Lionel Ngakane both filmakers during the 20th century?|yes|328|['3270', '3276']|['enrique carreras', 'lionel ngakane']|True
+hotpot:332|The Ingerophrynus gollum is named after a character in a book that sold how many copies?|150 million copies|332|['3309', '3310']|['ingerophrynus gollum', 'the lord of the rings']|True
+hotpot:346|What was the name of the 19th century foundry which was located in a village directly across the Hudson River from Westpoint in Putnam County, New York?|West Point Iron and Cannon Foundry|346|['3451', '3454']|['cold spring new york', 'robert parker parrott']|True
+hotpot:351|Which playwright lived a longer life, Edward Albee or J. M. Barrie?|Edward Franklin Albee III|351|['3497', '3501']|['edward albee', 'j m barrie']|True
+hotpot:355|Are Phlebodium and Pieris both species of ferns?|no|355|['3539', '3541']|['phlebodium', 'pieris plant']|True
+hotpot:361|Scott Sandelin grew up in a town in what Minnesota county?|Saint Louis County|361|['3601', '3605']|['hibbing minnesota', 'scott sandelin']|True
+hotpot:363|What type of media does J. T. Petty and Outlast have in common?|video game|363|['3619', '3624']|['j t petty', 'outlast']|True
+hotpot:365|What is the latest album of Tim Hecker, the Canadian electronic music maker?|Love Streams|365|['3638', '3643']|['ravedeath 1972', 'tim hecker']|True
+hotpot:370|What type of media does Bitter Jester and Sicko have in common?|documentary|370|['3688', '3695']|['bitter jester', 'sicko']|True
+hotpot:371|What country does Eric A. Sykes and Eccles, Greater Manchester have ion common?|England|371|['3703', '3706']|['eccles greater manchester', 'eric a sykes']|True
+hotpot:377|Jens Risom introduced what type of design, characterized by minimalism and functionality?|Scandinavian design|377|['3758', '3766']|['jens risom', 'scandinavian design']|True
+hotpot:382|What act for Innocent Records achieved Platinum sales and shares its name with a primary color in the RGB color model?|Blue|382|['3809', '3812']|['blue', 'innocent records']|True
+hotpot:408|How large is the shopping mall where KGOT radio station has its studios ?|728,000 ft²|408|['4073', '4076']|['dimond center', 'kgot']|True
+hotpot:411|Jacques Mathou starred in Delicatessen, the 1991 French movie in the style of which celebrated American animator?|Terry Gilliam|411|['4098', '4099']|['delicatessen film', 'jacques mathou']|True
+hotpot:425|Las Vegas Festival Grounds is north of the hotel that is owned by which company?|MGM Resorts International|425|['4242', '4243']|['circus circus las vegas', 'las vegas festival grounds']|True
+hotpot:429|Season 2 of Rick and Morty began with the episode directed by whom?|Wes Archer|429|['4285', '4287']|['a rickle in time', 'rick and morty season 2']|True
+hotpot:432|Who has more scope of profession, Phil Rosen or  Delmer Daves?|Delmer Lawrence Daves|432|['4309', '4313']|['delmer daves', 'phil rosen']|True
+hotpot:436|Where is the school that Tyler Kalinoski went to located?|located in Olathe, Kansas|436|['4351', '4354']|['olathe east high school', 'tyler kalinoski']|True
+hotpot:439|What town host an annual media finance conference that has featured an Australian-born American media mogul?|Sun Valley, Idaho|439|['4381', '4384']|['allen amp company sun valley conference', 'rupert murdoch']|True
+hotpot:445|Mick Carter is the landlord of a public house located at what address?|46 Albert Square, Walford, London E20|445|['4441', '4442']|['mick carter', 'the queen victoria']|True
+hotpot:451|The 1st Virginia Regiment saw action at a battle that led to the departure of what Royal Governor?|Royal Governor Lord Dunmore|451|['4499', '4503']|['1st virginia regiment', 'battle of great bridge']|True
+hotpot:462|When did the game which held three times in  in East Asia first held|in 1896|462|['4612', '4614']|['2008 summer olympics', 'summer olympic games']|True
+hotpot:479|Who programmed a cartridge-based development system made by a company noted for authoring Atari's BASIC?|Kathleen O'Brien|479|['4772', '4773']|['atari assembler editor', 'shepardson microsystems']|True
+hotpot:486|What genre of music was played by both Tappi Tíkarrass and INXS?|rock|486|['4844', '4845']|['inxs', 'tappi tíkarrass']|True
+hotpot:493|After he was contracted by the team that is headquartered in Affalterbach, Baden-Württemberg, Germany, Dario Franchitti competed in what series?|DTM|493|['4919', '4921']|['dario franchitti', 'mercedes amg']|True
+hotpot:494|In which year did this division, where Cleveland Browns placed fourth in 2009, adopt its current name?|2002|494|['4925', '4927']|['2009 cleveland browns season', 'afc north']|True
+hotpot:499|"What type of film are both ""500 Years Later"" and ""Manson""?"|documentary|499|['4975', '4977']|['500 years later', 'manson film']|True
+hotpot:513|What professions did S. Sylvan Simon and Danny Cannon have in common?|director and producer|513|['5114', '5121']|['danny cannon', 's sylvan simon']|True
+hotpot:521|The Government of Canada, which is the federal administration of Canada, is involved in what scandal in the province of Quebec?|The sponsorship scandal|521|['5192', '5196']|['government of canada', 'sponsorship scandal']|True
+hotpot:522|who had to escape nazis, Sigmund Freud or Evelyn Waugh?|Sigmund Freud|522|['5205', '5211']|['evelyn waugh', 'sigmund freud']|True
+hotpot:526|The Duke Steps Out stars an actress who was ranked tenth on a list of greatest female Hollywood stars in what year?|1999|526|['5239', '5243']|['joan crawford', 'the duke steps out']|True
+hotpot:527|What drum machine was introduced in 1989 and allowed 32 notes to be played simultaneously?|The R-8 Human Rhythm Composer|527|['5244', '5247']|['polyphony and monophony in instruments', 'roland r 8']|True
+hotpot:528|Which band was formed first, Wavves or Social Code?|Social Code|528|['5255', '5262']|['social code', 'wavves']|True
+hotpot:529|Iselin Solheim provided vocals in the song released on what date?|3 December|529|['5265', '5268']|['faded alan walker song', 'iselin solheim']|True
+hotpot:534|"In what year did the Guild of Music Supervisors Awards recognize a British-American romantic drama film based on the 1952 romance novel ""The Price of Salt"" starring Cate Blanchett?"|2016|534|['5318', '5321']|['carol film', 'guild of music supervisors awards']|True
+hotpot:542|The Dogwoman telemovies were created by an actress born in what year?|1961|542|['5397', '5399']|['dogwoman', 'magda szubanski']|True
+hotpot:543|Southeastern Illinois College offers an undergraduate academic degree considered to be greater level of education than what?|high school diploma or GED|543|['5405', '5413']|['associate degree', 'southeastern illinois college']|True
+hotpot:548|In the 2012-13 FC Sion they brought in Gennaro Gattuso and a player who now plays for what Scottish team?|Scottish Premiership club Hearts|548|['5456', '5458']|['2012 13 fc sion season', 'kyle lafferty']|True
+hotpot:549|WAVN is a Gospel formatted broadcast radio station tied to which city in DeSoto County, Mississippi?|Southaven, Mississippi|549|['5468', '5471']|['southaven mississippi', 'wavn']|True
+hotpot:554|Woman's Era and Naj are what kind of magazines?|fortnightly women interest magazine|554|['5520', '5523']|['naj', 'woman s era']|True
+hotpot:559|"Who is the psychologist who wrote about the disciple of the person known as the ""Wild Woman of Buttle""?"|James G. Kiernan|559|['5568', '5572']|['james g kiernan', 'mary maclane']|True
+hotpot:570|What city and nation was the location of the 2015 Pacific Games where the Kiribati national basketball team finished with a 0-4 record?|Port Moresby, Papua New Guinea|570|['5678', '5681']|['basketball at the 2015 pacific games', 'kiribati national basketball team']|True
+hotpot:578|Chicagoland Sports Hall of Fame was founded by the company located in what Washington town, near the state capital?|Tumwater, Washington|578|['5758', '5763']|['chicagoland sports hall of fame', 'olympia brewing company']|True
+hotpot:583|Which NCAA record does the quarterback of the Minnesota Vikings hold?|most total touchdowns in NCAA history|583|['5806', '5809']|['case keenum', 'dan lefevour']|True
+hotpot:584|"Which king of Northumbria did The ""Historia"" gives the abbot central place in his election as king"|Guthred or Guthfrith|584|['5818', '5823']|['eadred lulisc', 'guthred']|True
+hotpot:589|Which piece did Ludwig van Beethoven publish in 1801 that was dedicated to Count Moritz von Fries?|Symphony No. 7|589|['5865', '5869']|['symphony no 7 beethoven', 'violin sonata no 5 beethoven']|True
+hotpot:590|The American restaurant chain, the Original House of Pies, is also responsible for an American chain of fruit drink beverage stores with an eponymous beverage consisting of what?|orange juice|590|['5880', '5882']|['house of pies', 'orange julius']|True
+hotpot:595|Who was born first, Krzysztof Zanussi or Thom Andersen?|Krzysztof Zanussi|595|['5927', '5929']|['krzysztof zanussi', 'thom andersen']|True
+hotpot:599|When was the American actor, film director which  Dana Brunetti is the president of his company born|July 26, 1959|599|['5968', '5970']|['dana brunetti', 'kevin spacey']|True
+hotpot:601|Stephen susco wrote a movie produced by which american film actor?|Sam Raimi|601|['5985', '5988']|['sam raimi', 'the grudge 2']|True
+hotpot:604|Lucas da Silva Carvalho was an unused reserve runner for a Brazilian athletics track event which at top class events is run in lanes for the first what?|500 metres|604|['6014', '6016']|['4 400 metres relay', 'lucas carvalho']|True
+hotpot:613|Which author is an economist, Czesław Miłosz or Bhabananda Deka?|Prof Bhabananda Deka|613|['6096', '6105']|['bhabananda deka', 'czesław miłosz']|True
+hotpot:617|Approximately how many locations is BJ's Wholesale Club operating in, as of early 2008?|650 locations|617|['6144', '6146']|['bj s wholesale club', 'us vision']|True
+hotpot:621|What indigenous American ethnic group that inhabits land in the northern United States and southern Canada was part of the Treaty of Springwells?|Odawa|621|['6178', '6185']|['odawa', 'treaty of springwells']|True
+hotpot:626|What is the are of the university at which Dick Biddle served as head football coach?|575 acres (2.08 km²)|626|['6233', '6235']|['colgate university', 'dick biddle']|True
+hotpot:635|The Panel with striding lion  was one of many that lined the way north of the gate to the inner city of what location?|Babylon|635|['6319', '6327']|['ishtar gate', 'panel with striding lion']|True
+hotpot:636|Which part of Scotland is this institute found where Alice König is a lecturer in Latin and Classical Studies?|St Andrews, Fife, Scotland|636|['6331', '6336']|['alice könig', 'university of st andrews']|True
+hotpot:643|Sir Johnston Forbes-Robertson was considered the finest at playing a character who was the king of which country ?|Prince of Denmark|643|['6399', '6402']|['johnston forbes robertson', 'prince hamlet']|True
+hotpot:644|"Thomas Matthew ""Tom"" Chappell co-founded a commpany in 1970 that manufactures what products?"|natural-ingredients-only personal care products|644|['6412', '6417']|['tom chappell', 'tom s of maine']|True
+hotpot:649|In between Liberty and MIT Technology Review which has a circulation of over 200,000?|Liberty|649|['6463', '6468']|['liberty adventist magazine', 'mit technology review']|True
+hotpot:650|GamesMaster has a sister publicantion that is published how many times per year?|13|650|['6471', '6474']|['edge magazine', 'gamesmaster magazine']|True
+hotpot:652|What type of beliefs does Mount Ida and Rhea have in common?|Greek mythology|652|['6493', '6497']|['mount ida', 'rhea mythology']|True
+hotpot:656|What former nose tackle announced ESPN College Football Friday Primetime in 2017?|Dusty Dvoracek|656|['6530', '6538']|['dusty dvoracek', 'espn college football friday primetime']|True
+hotpot:660|Carl von Donop was a colonel of which German auxiliaries?|Hessians|660|['6572', '6577']|['carl von donop', 'hessian soldier']|True
+hotpot:662|Stacey Totman is the former head coach of the college golf team that competes in what conference?|Big 12|662|['6590', '6598']|['stacey totman', 'texas tech red raiders golf']|True
+hotpot:668|What is Rachelle Amy Beinart's role in the film that follows a group of rebels on a mission?|stunt performances|668|['6649', '6658']|['rachelle beinart', 'rogue one']|True
+hotpot:670|What year was a joint venture between RLJ Companies and this film studio founded in 2005, founded?|2006|670|['6670', '6675']|['our stories films', 'the weinstein company']|True
+hotpot:677|Where was the armory at which Model 1840 flintlock musket was produced located?|city of Springfield, Massachusetts|677|['6744', '6748']|['springfield armory', 'springfield model 1840 flintlock musket']|True
+hotpot:678|How many animals does the wall running between the West Gate Lodge and Cardiff Castle depict?|15|678|['6749', '6758']|['animal wall', 'west lodge cardiff castle']|True
+hotpot:679|Henry Roth and Lewis Mumford are both this nationality?|American|679|['6761', '6768']|['henry roth', 'lewis mumford']|True
+hotpot:687|"What season of the Indian reality TV series ""Big Boss"" did the model Lopamundra Raut compete in?"|the tenth season|687|['6849', '6850']|['bigg boss 10', 'lopamudra raut']|True
+hotpot:689|What legend that lends its name to a modern medical term, inspired the plot of the horror film Ghostkeeper?|Wendigo|689|['6864', '6870']|['ghostkeeper', 'wendigo']|True
+hotpot:692|Where will the 2017 Atlantic 10 Men's Basketball Tournament be hosted?|PPG Paints Arena|692|['6896', '6900']|['2017 atlantic 10 men s basketball tournament', 'ppg paints arena']|True
+hotpot:697|The Luther seal was designed for the professor of theology of what nationalty at the behest of John Frederick of Saxony?|German|697|['6942', '6947']|['luther rose', 'martin luther']|True
+hotpot:713|Joel H. Cohen is the younger brother of one-time Simpsons writer who has also written for which show?|"""The Wonder Years"""|713|['7105', '7109']|['joel h cohen', 'robert cohen writer']|True
+hotpot:714|"Which ""Mirrors"" actress made her film debut in the 2005 comedy film ""Hitch""?"|Paula Maxine Patton|714|['7114', '7118']|['mirrors film', 'paula patton']|True
+hotpot:716|Who was the leading actor of the Christmas movie that Rebecca Forstadt did background voices for?|Tim Allen|716|['7132', '7136']|['rebecca forstadt', 'the santa clause']|True
+hotpot:721|"Who was the director of the 2000 American comedy film in which the actress, whose first role in film was in director Martin Kunert's film ""Campfire Tales"", played a role?"|Todd Phillips|721|['7184', '7190']|['amy smart', 'road trip film']|True
+hotpot:737|Young Sheldon, the tv series that follows the character Sheldon Cooper at the age of 9, is a spin-off from what prequel?|"""The Big Bang Theory"""|737|['7344', '7347']|['sheldon cooper', 'young sheldon']|True
+hotpot:740|"Who else besides ""The Golden Jet"" was born in Point Anne, Ontario?"|Dennis Hull, as well as painter Manley MacDonald.|740|['7373', '7378']|['bobby hull', 'point anne ontario']|True
+hotpot:741|Boggle is a word game originally distributed by a toy and game manufacturer that published more than how many games?|1,800|741|['7385', '7390']|['boggle', 'parker brothers']|True
+hotpot:749|"From which city in Oklahoma is the singer of a song that peaked at number 24 on ""Billboard"" magazine's pop chart in December 1953?"|Oklahoma City|749|['7462', '7469']|['gayla peevey', 'i want a hippopotamus for christmas']|True
+hotpot:753|What church was the college Marjorie Hass is the 20th president of formerly affiliated with?|Presbyterian Church|753|['7506', '7508']|['marjorie hass', 'rhodes college']|True
+hotpot:761|Are the libretto of Tristan und Isolde and Ariane et Barbe-bleue in the same language?|no|761|['7584', '7587']|['ariane et barbe bleue', 'tristan und isolde']|True
+hotpot:764|Richford is a town in Franklin County Vermont governed by what kind of body?|town meeting legislative body|764|['7614', '7619']|['new england town', 'richford vermont']|True
+hotpot:767|Which movie did Disney produce first,  The Many Adventures of Winnie the Pooh or Ride a Wild Pony?|Ride a Wild Pony|767|['7646', '7649']|['ride a wild pony', 'the many adventures of winnie the pooh']|True
+hotpot:787|Where is the company owning Reliance Cricket Stadium ranked on the Fortune Global 500 list as of 2016|215th|787|['7846', '7847']|['reliance cricket stadium', 'reliance industries']|True
+hotpot:800|Daniel Greene has created what for clients including sportscaster Bryant Gumbel, Eleanor Roosevelt, William Randolph Hearst and Dave Thomas, the founder of Wendy's?|portrait|800|['7971', '7980']|['bryant gumbel', 'daniel greene artist']|True
+hotpot:802|Max Hoffmann along with Hindenburg and Ludendorff, masterminded the devastating defeat of the Russian armies in a battle fought when ?|26–30 August 1914|802|['7994', '7996']|['battle of tannenberg', 'max hoffmann']|True
+hotpot:810|Which opera has more acts, Parsifal or Manon by Massenet?|Parsifal|810|['8072', '8079']|['manon', 'parsifal']|True
+hotpot:811|What is the name of the number-one single featuring the winner of Celebrity Apprentice 3?|Every Rose Has Its Thorn|811|['8085', '8089']|['bret michaels', 'the apprentice u s season 9']|True
+hotpot:816|In which University is Richard Williams' former assistant a member of the Athletics Hall of Fame?|Campbellsville University|816|['8138', '8141']|['richard williams basketball coach', 'rick stansbury']|True
+hotpot:820|PISCES was developed by the company that is headquartered in what city?|McLean, Virginia|820|['8179', '8180']|['booz allen hamilton', 'pisces']|True
+hotpot:822|Which band has more members, The Futureheads or Marcy Playground?|The Futureheads|822|['8199', '8200']|['marcy playground', 'the futureheads']|True
+hotpot:823|Marvel Classics Comics specialized in adaptations of literary classics, such as a novel by American writer Herman Melville, that was published in what year?|1851|823|['8205', '8206']|['marvel classics comics', 'moby dick']|True
+hotpot:826|Which reservation is located in Hill and Chouteau and named after the principal leader of the Montana Chippewa-Cree?|Rocky Boy's Indian Reservation|826|['8233', '8234']|['rocky boy chippewa leader', 'rocky boy s indian reservation']|True
+hotpot:829|In what country was the actor Chris Hemsworth, one of the stars in the motion picture Thor: The Dark World, born?|Australian|829|['8260', '8263']|['chris hemsworth', 'thor the dark world']|True
+hotpot:837|Who created the NBC sitcom that Johnny Pemberton appears in as the character Bo Thompson?|Justin Spitzer|837|['8340', '8342']|['johnny pemberton', 'superstore tv series']|True
+hotpot:845|What year was the author of Cock and Bull born?|1961|845|['8424', '8425']|['cock and bull book', 'will self']|True
+hotpot:849|when does the role William Vere Reeve King-Fane change?|The High Sheriff changes every March.|849|['8460', '8469']|['high sheriff of lincolnshire', 'william vere reeve king fane']|True
+hotpot:859|"The members of the von Trapp musical group are related to which woman who wrote ""The Story of the Trapp Family Singers""?"|Maria von Trapp|859|['8561', '8564']|['maria von trapp', 'the von trapps']|True
+hotpot:865|"The author of the ""The Dagger and the Coin"" fantasy series was nominated for what award in 2017?"|Hugo Award|865|['8626', '8629']|['daniel abraham author', 'the expanse novel series']|True
+hotpot:866|What was the profession of the one who wrote a song on a 2005 album he collaborated on with Marc Predka?|professional wrestler, actor, and hip hop musician|866|['8631', '8635']|['tha trademarc', 'the time is now john cena song']|True
+hotpot:867|Lawton–Fort Sill Regional Airport, a charter base for value airline Allegiant Air, is situated in which U.S. state?|Oklahoma|867|['8643', '8649']|['allegiant air', 'lawton fort sill regional airport']|True
+hotpot:879|Why is Minister Pool important to Black Country and the West Midlands in England?|defence of the Cathedral|879|['8763', '8764']|['lichfield cathedral', 'minster pool']|True
+hotpot:883|M.F.A. starred the actress known for starring in what E! reality series?|Mrs. Eastwood & Company|883|['8802', '8805']|['francesca eastwood', 'm f a film']|True
+hotpot:884|The creek of which Paradise Creek is a tributary is a tributary of what river?|Delaware River|884|['8813', '8818']|['brodhead creek', 'paradise creek pennsylvania']|True
+hotpot:892|Are Ian Brown and Dee Snider both actors?|no|892|['8894', '8896']|['dee snider', 'ian brown']|True
+hotpot:893|What Italian region does Slinzega come from?|Lombardy|893|['8901', '8902']|['bresaola', 'slinzega']|True
+hotpot:899|Are William Kronick and Jon Turteltaub both television writers ?|no|899|['8956', '8957']|['jon turteltaub', 'william kronick']|True
+hotpot:901|"The True Colors World Tour was by what artist whose debut album was ""She's So Unusual""?"|"Cynthia Ann Stephanie ""Cyndi"" Lauper"|901|['8976', '8980']|['cyndi lauper', 'true colors world tour']|True
+hotpot:902|What group did Carlene LeFevre and Rich LeFevre form in Brooklyn, New York City?|"the ""First Family of Competitive Eating"""|902|['8987', '8995']|['carlene lefevre', 'nathan s hot dog eating contest']|True
+hotpot:914|Shani Gandi has worked with Kelsea Ballerini in what country?|American|914|['9105', '9111']|['kelsea ballerini', 'shani gandhi']|True
+hotpot:917|Which publication publishes more frequently, Utne Reader or The New York Enterprise Report?|The New York Enterprise Report|917|['9132', '9137']|['the new york enterprise report', 'utne reader']|True
+hotpot:924|Immanuel Lutheran School is affiliated with the denomination that has how many members?|2.1 million|924|['9206', '9209']|['immanuel lutheran school perryville missouri', 'lutheran church missouri synod']|True
+hotpot:936|What was the address of the penitentiary where Jimmy Elliot was sentenced?|2027 Fairmount Avenue|936|['9316', '9321']|['eastern state penitentiary', 'jimmy elliott']|True
+hotpot:938|In regards to Value premium an expert argued that no value premium exisits, what did this expert found?|The Vanguard Group|938|['9338', '9342']|['john c bogle', 'value premium']|True
+hotpot:941|Which road borders both Pacific Mall and Splendid China Mall ?|Steeles Avenue|941|['9367', '9371']|['pacific mall', 'splendid china mall']|True
+hotpot:942|Wheelock Whitney is just one member of the Whitney Family. Where did this American family originate from?|London, England|942|['9377', '9381']|['wheelock whitney', 'whitney family']|True
+hotpot:947|"What is the fictional name of the mall in the movie ""Back to the Future"" which was filmed at the headquarters of EverTrust Bank?"|Twin Pines/Lone Pine Mall|947|['9424', '9430']|['evertrust bank', 'puente hills mall']|True
+hotpot:948|Tamanchey is a comedy film that starred the actress who works in what type of films?|Hindi|948|['9436', '9441']|['richa chadda', 'tamanchey']|True
+hotpot:959|The tap dancing soloist in My Feet Keep Dancing also starred in what 1935 MGM musical?|"""An All-Colored Vaudeville Show"""|959|['9545', '9554']|['fayard nicholas', 'my feet keep dancing']|True
+hotpot:973|How many yards did the nephew of Ivory Lee Brown get during his 2004 true freshman season?|1,925 yards|973|['9689', '9690']|['adrian peterson', 'ivory lee brown']|True
+hotpot:974|"Belle & Sebastian: The Adventure Continues is the sequel to the 2013 film ""Belle and Sebastian"", a French adventure film directed by who?"|Nicolas Vanier|974|['9697', '9698']|['belle amp sebastian the adventure continues', 'belle and sebastian film']|True
+hotpot:977|In which St. Louis Cardinal season did a player born in 1972 blow ten saves before undergoing season-ending hip surgery?|2006 season|977|['9728', '9732']|['2006 st louis cardinals season', 'jason isringhausen']|True
+hotpot:978|Out of the actors who have played the role of Luc Deveraux in the Universal Soldier franchise, which actor has also starred in the movies Holby City, Doctor Strange, the Bourne Ultimatum and Zero Dark Thirty?|Scott Adkins|978|['9736', '9743']|['scott adkins', 'universal soldier franchise']|True
+hotpot:985|How many degrees and minutes south of the equator are the bone fragments of the extinct Ascension night heron found?|7°56'|985|['9810', '9815']|['ascension island', 'ascension night heron']|True
+hotpot:986|Jon S. Cardin is the nephew of a senator who has been in office since when ?|since 2007|986|['9821', '9823']|['ben cardin', 'jon s cardin']|True
+hotpot:989|Which film is newer, The Apple Dumpling Gang or Heavyweights?|Heavyweights|989|['9853', '9854']|['heavyweights', 'the apple dumpling gang film']|True
+hotpot:995|Who is the author of the play that was adapted into a film and featured the orchestral arrangement Suite from Henry V?|William Shakespeare|995|['9914', '9915']|['henry v 1944 film', 'suite from henry v']|True
+hotpot:998|Are both Yangzhou and Jiangyan District considered coastal cities?|no|998|['9941', '9945']|['jiangyan district', 'yangzhou']|True

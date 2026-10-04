@@ -1,0 +1,201 @@
+query_id|question|answer|context_id|gold_evidence|gold_supporting_titles|gold_mapping_complete
+musique:10|What league does the team that plays in Stadio Ciro Vigorito play for?|Lega Pro Prima Divisione|10|['211', '213']|['carmelo imbriani', 'stadio ciro vigorito']|True
+musique:23|Who is the child of the Victim of Romance performer?|Chynna Phillips|23|['468', '475']|['victim of romance', 'wilson phillips']|True
+musique:25|What record label did the person who is part of The Bruce Lee Band start?|Asian Man Records|25|['509', '518']|['asian man records', 'the bruce lee band']|True
+musique:30|What group was the performer of Be the One a member of?|Jackson 5|30|['608', '617']|['be the one album', 'jackie jackson album']|True
+musique:39|Who is the child of the person who followed Tihomir of Serbia?|Saint Sava|39|['786', '797']|['saint sava', 'stracimir zavidović']|True
+musique:44|Bancroft's county borders what county?|Haliburton County|44|['887', '888']|['north hastings high school', 'york river ontario']|True
+musique:54|In which county did Snappy Tomato Pizza form?|Kenton County|54|['1084', '1088']|['fort mitchell kentucky', 'snappy tomato pizza']|True
+musique:55|What's the place of birth of the former member of The Sunnyboys?|Kingscliff|55|['1117', '1118']|['jeremy oxley', 'sunnyboys']|True
+musique:59|What award was received by the person who authored Missing Person?|Nobel Prize in Literature|59|['1180', '1196']|['missing person novel', 'patrick modiano']|True
+musique:60|What event caused the founder of Australia's liberal party to become Prime Minister?|Lyons' death in 1939|60|['1205', '1216', '1217']|['liberal party of australia']|True
+musique:63|Who is the spouse of the creator of The Nanny Reunion: A Nosh to Remember?|Peter Marc Jacobson|63|['1271', '1279']|['list of happily divorced episodes', 'the nanny reunion a nosh to remember']|True
+musique:66|During what era was the manufacturer of Agni-V founded?|From the 1950s to the 1970s|66|['1335', '1336']|['agni v', 'hyderabad']|True
+musique:67|In what era was the company known as the manufacturer of Agni-V founded?|From the 1950s to the 1970s|67|['1342', '1346']|['agni v', 'hyderabad']|True
+musique:70|The Move Ya Body song's band is named after who?|Natalie Albino|70|['1407', '1409']|['move ya body', 'nina sky']|True
+musique:72|The Nicole and Natalie album's band is named after who?|Natalie Albino|72|['1445', '1459']|['nicole and natalie', 'nina sky']|True
+musique:76|Where was the person featured on the Chester Arthur coin born?|Mount Laurel Township|76|['1534', '1539']|['list of first ladies of the united states', 'paulsdale']|True
+musique:78|The city which contains Broadhurst Park shares a border with what town?|Middleton|78|['1566', '1571']|['broadhurst park', 'greengate greater manchester']|True
+musique:86|How old was Mary when engaged to the person from whom São José dos Campos takes it's name?|12–14 years old|86|['1721', '1738', '1739']|['mary mother of jesus', 'são josé dos campos']|True
+musique:88|Where is the country with ISO code ISO 3166-2:CV located?|central Atlantic Ocean|88|['1771', '1773']|['cape verde', 'iso 3166 2 cv']|True
+musique:96|What is the competition the 1972 Federation Cup is part of named after?|International Tennis Federation|96|['1930', '1939']|['1972 federation cup tennis', 'fed cup']|True
+musique:101|Who is the child of the cast member of Green Ice?|Tatum O'Neal|101|['2023', '2025']|['green ice soundtrack', 'nickelodeon film']|True
+musique:107|In 2002, what company merged with the top PC manufacturer from 1994?|Hewlett Packard|107|['2141', '2142', '2146', '2156', '2157']|['dell', 'macintosh']|True
+musique:110|Who has played for West Ham Ajax and the team that David Currie plays for?|Mido|110|['2203', '2208']|['david currie footballer', 'mido footballer']|True
+musique:120|What county shares a border with Cedar Springs?|Bell County|120|['2404', '2405']|['cedar springs texas', 'troy independent school district']|True
+musique:136|What is the river that the Kettle Generating Station is located on a tributary of?|Hudson's Bay|136|['2728', '2729']|['kettle generating station', 'nelson river']|True
+musique:137|What is the river where Long Spruce Generating Station is located a tributary of?|Hudson's Bay|137|['2741', '2749']|['long spruce generating station', 'nelson river']|True
+musique:139|Who married the publisher of abolitionist newspaper The North Star?|Helen Pitts Douglass|139|['2789', '2798']|['helen pitts douglass', 'the north star anti slavery newspaper']|True
+musique:158|What other recognition did the Oscar winner for Best Actor in 2006 receive?|nominated for an Academy Award for Best Supporting Actor|158|['3164', '3171']|['78th academy awards', 'charlie wilson s war film']|True
+musique:168|What happened to the Curonians who lived in the area where Erich Zakowski was born?|expelled by the Soviet Union|168|['3362', '3369', '3377']|['east prussia', 'erich zakowski']|True
+musique:174|Where did the founder of the Acting Company study?|Clifton College|174|['3491', '3498']|['edgar lansbury producer', 'john houseman']|True
+musique:184|In the King's Speech, who played the person who was the King of England in 1950?|Colin Firth|184|['3680', '3686']|['george vi', 'the king s speech']|True
+musique:198|What is the record label of the co-writer and recording artist of Permission to Fly?|Hollywood Records|198|['3966', '3977']|['no ordinary girl', 'permission to fly']|True
+musique:199|What team drafted the winner of the NBA scoring title this year?|Oklahoma City Thunder|199|['3982', '3997']|['2012 13 houston rockets season', 'list of national basketball association annual scoring leaders']|True
+musique:208|In True Grit, who did the star play?|U.S. Marshal Rooster Cogburn|208|['4160', '4169', '4177']|['true grit 1969 film', 'turner classic movies']|True
+musique:209|Who did the producer of Big Jim McLain play in True Grit?|U.S. Marshal Rooster Cogburn|209|['4181', '4189', '4193']|['big jim mclain', 'true grit 1969 film']|True
+musique:210|Who did the cast member of Rooster Cogburn play in True Grit?|U.S. Marshal Rooster Cogburn|210|['4203', '4210', '4216']|['rooster cogburn film', 'true grit 1969 film']|True
+musique:213|What is the body of water by the area where Athlete was formed?|River Thames|213|['4266', '4274']|['athlete band', 'deptford']|True
+musique:215|Which is the body of water near George Mills' place of birth?|River Thames|215|['4307', '4313']|['deptford', 'george mills footballer']|True
+musique:218|"Who employs the author of ""Ravenswood: The Steelworkers' Victory and the Revival of American Labor""?"|Cornell University|218|['4366', '4371']|['kate bronfenbrenner', 'ravenswood the steelworkers victory and the revival of american labor']|True
+musique:221|Who is the father of the man who conceived of the 'new' police?|Arthur Peel|221|['4419', '4422', '4423', '4426', '4432', '4433']|['police', 'sidney peel']|True
+musique:235|Who did the original voice of the character Mila Kunis plays on family Guy?|Lacey Chabert|235|['4709', '4712', '4714', '4715', '4717']|['list of family guy cast members', 'meg griffin']|True
+musique:237|Who did the original voice of the character that Mila Kunis plays in Family Guy?|Lacey Chabert|237|['4744', '4750', '4753']|['list of family guy cast members', 'meg griffin']|True
+musique:244|Who did Hayek work for upon being hired by the author of Bureaucracy?|the Austrian government|244|['4879', '4880', '4881', '4882', '4885', '4886', '4887', '4890', '4891', '4893', '4895', '4896', '4897', '4898']|['bureaucracy book', 'friedrich hayek']|True
+musique:247|Who led the military expedition to where now Min dialects are spoken on border with Zhejiang?|Chen Zheng|247|['4943', '4946', '4947', '4952', '4957']|['hokkien', 'zhejiang']|True
+musique:254|What other movie did the cast member of Escape from L.A. play a character in?|The Hateful Eight|254|['5081', '5084']|['escape from l a', 'the hateful eight']|True
+musique:256|The actor who plays copper in Fox and the Hound is a character in which film?|The Hateful Eight|256|['5128', '5132', '5136', '5137']|['the fox and the hound', 'the hateful eight']|True
+musique:259|How many games in a season of the league in which Barcelona won titles in 1948 and 1949?|38|259|['5181', '5186', '5194', '5195']|['fc barcelona', 'la liga']|True
+musique:260|How many games does the team play that had the most champion league wins between 1992 and 2013?|38|260|['5214', '5215']|['la liga', 'premier league']|True
+musique:261|How many games are in a season for the league that had the most Champions League wins between 1992 and 2013?|38|261|['5220', '5230']|['la liga', 'premier league']|True
+musique:265|Who is the father of the author of Novum Organum?|Nicholas Bacon|265|['5310', '5312']|['francis bacon', 'novum organum']|True
+musique:275|When does the new season of the Carolina Hurricanes' league start?|October 3, 2018|275|['5505', '5512']|['2018 19 nhl season', 'north carolina']|True
+musique:277|In what year did Taifa, of the birthplace of Ibn Abbad al-Rundi, cease to exist?|1065|277|['5549', '5553']|['ibn abbad al rundi', 'taifa of ronda']|True
+musique:280|Who does William Clito's father follow?|William the Conqueror|280|['5603', '5608']|['clito', 'rebellion of 1088']|True
+musique:281|When does the new season of the league where most members of the Buffalo Sabres Alumni Hockey Team are from start?|October 3, 2018|281|['5630', '5634']|['2018 19 nhl season', 'exhibition game']|True
+musique:289|Which season was the runner up of the third season of American Idol on?|season three|289|['5779', '5780', '5784', '5786', '5793', '5795', '5796']|['american idol']|True
+musique:292|Who did the performer from Night Rocker play on Young and Restless?|Snapper Foster|292|['5848', '5851']|['night rocker', 'snapper foster']|True
+musique:294|Who did the actor who played Michael Knight play on Young and Restless?|Snapper Foster|294|['5882', '5892']|['michael knight knight rider', 'snapper foster']|True
+musique:296|Who is the wife of the actor of Grace's boyfriend in Frankie and Grace?|Katharine Ross|296|['5920', '5930', '5935']|['grace and frankie', 'murder in texas']|True
+musique:298|Who is the spouse of the person who does the voice for Smokey the Bear?|Katharine Ross|298|['5962', '5971', '5975', '5978']|['murder in texas', 'smokey bear']|True
+musique:299|What award did the author of The Happy Journey to Trenton and Camden receive?|Pulitzer Prize for Drama|299|['5989', '5994']|['the happy journey to trenton and camden', 'the skin of our teeth']|True
+musique:307|What song did Paul McCartney write for the person who performed Too Late for Goodbyes?|``Hey Jude ''|307|['6153', '6156']|['hey jude', 'too late for goodbyes']|True
+musique:309|Who is the child of the person who sponsored the resolution to reopen trade with Vietnam, along with Kerry?|Meghan McCain|309|['6179', '6181', '6187', '6195', '6197', '6198']|['dirty sexy politics', 'john kerry']|True
+musique:310|The food safety system of the agency that has the authority to decide if a drug is marketed otc or prescription is known as?|Food Safety Modernization Act (FSMA)|310|['6205', '6208']|['fda food safety modernization act', 'over the counter drug']|True
+musique:312|Who is the child of Obama's opponent in his first election?|Meghan McCain|312|['6247', '6257']|['2008 united states presidential election', 'dirty sexy politics']|True
+musique:314|What is the name of the food safety system of the federal agency that regulates prescription drugs?|Food Safety Modernization Act (FSMA)|314|['6282', '6283', '6284', '6286', '6289', '6296', '6298']|['fda food safety modernization act', 'pharmaceutical industry']|True
+musique:318|What movie did Lauren Bacall's spouse win his only Oscar?|The African Queen|318|['6363', '6371']|['bold venture', 'humphrey bogart']|True
+musique:319|What movie won the Knock on Any Door cast member his only Oscar?|The African Queen|319|['6383', '6387']|['humphrey bogart', 'knock on any door']|True
+musique:321|Who is the brother of the artist who made Nothin' My Love Can't Fix's album?|Matthew Lawrence|321|['6431', '6437']|['nothin my love can t fix', 'pulse 1988 film']|True
+musique:327|What is the largest national park in the country where hunters are estimated to spend fifty to one hundred times that of the average ecotourist?|Ruaha National Park|327|['6544', '6549']|['hunting', 'ruaha national park']|True
+musique:328|What is the name of the game reserve in the country where hunters spend 50 to 100 times more than the average ecotourist?|The Selous Game Reserve|328|['6560', '6563']|['hunting', 'selous game reserve']|True
+musique:332|What is the enrollment at the school that owns the Miami Hurricane?|16,801|332|['6645', '6652']|['the miami hurricane', 'university of miami']|True
+musique:346|Who constituted the freikorps in the country that the German Socialist Party was part of?|consisting largely of World War I veterans|346|['6923', '6928']|['freikorps', 'german socialist party']|True
+musique:351|Who is the president of the group Kim Un-yong is a member of?|Thomas Bach|351|['7031', '7033']|['kim un yong', 'president of the international olympic committee']|True
+musique:355|Who is the head of the developer of Simon?|ADM Michael S. Rogers|355|['7106', '7108']|['director of the national security agency', 'simon cipher']|True
+musique:361|What is another notable work by the illustrator of Sylvester and the Magic Pebble?|Doctor De Soto|361|['7225', '7237']|['doctor de soto', 'sylvester and the magic pebble']|True
+musique:363|Where was the president born on the fourth of July born?|Plymouth Notch|363|['7269', '7276']|['independence day united states', 'plymouth notch cemetery']|True
+musique:365|"Who wrote the song ""The Story"" that is sung by the performer of ""That Wasn't Me""?"|Phil Hanseroth|365|['7312', '7315']|['that wasn t me', 'the story song']|True
+musique:370|Common Sense which was written by the author of The Age of Reason was an important work because?|crystallized the rebellious demand for independence from Great Britain|370|['7400', '7417']|['the age of reason', 'thomas paine']|True
+musique:371|Why was Common Sense, by the same author as Rights of Man, an important work?|crystallized the rebellious demand for independence from Great Britain|371|['7419', '7434']|['rights of man', 'thomas paine']|True
+musique:377|What tribe did the wife of the person who first brought postal service to Umayyad lands belong to?|Kalb|377|['7540', '7543', '7550', '7558']|['umayyad caliphate']|True
+musique:382|When did the person who launched the Bardoli Satyagraha on 4th february 1928 die?|15 December 1950|382|['7642', '7644']|['bardoli satyagraha', 'vallabhbhai patel']|True
+musique:408|When did the author of The Rise and Fall of the Confederate Government end his fight in the Mexican-American War?|1848|408|['8160', '8173']|['jefferson davis', 'the rise and fall of the confederate government']|True
+musique:411|Who followed Menucha Rochel Slonim's father?|Menachem Mendel Schneersohn|411|['8218', '8219']|['chaya mushka schneersohn', 'menucha rochel slonim']|True
+musique:425|When was the painter of Femme nue couchée born?|10 June 1819|425|['8505', '8517']|['femme nue couchée', 'gustave courbet']|True
+musique:429|What two features of Windows 98 were highlighted by the man who announced Windows in 1983?|ease of use and enhanced support for Plug and Play|429|['8586', '8590']|['microsoft windows version history', 'windows 98']|True
+musique:432|What happened to the assets of the agency that abolished the dual system of government in bengal after it was removed from power?|formally incorporated into the British Empire|432|['8653', '8657']|['nawabs of bengal and murshidabad', 'queen victoria']|True
+musique:436|What record label does the performer of Emotional Rain belong to?|Attic Records|436|['8726', '8728']|['emotional rain', 'lee aaron album']|True
+musique:439|What league includes the operating group of Al Janoub Stadium?|Qatar Stars League|439|['8789', '8794']|['mohammed muddather', 'saoud bin abdulrahman stadium']|True
+musique:445|Who created the work that features the appearance of Cosmic Boy?|Alfred Gough|445|['8910', '8912']|['cosmic boy', 'smallville']|True
+musique:451|Who is the spouse of the voice actor of Batman in The Lego Batman Movie?|Amy Poehler|451|['9026', '9033', '9034']|['on broadway film', 'the lego batman movie']|True
+musique:462|What company is the label responsible for Don't Let Me Wait Too Long a part of?|Apple Corps|462|['9239', '9248']|['apple records', 'don t let me wait too long']|True
+musique:479|When was the kingdom that Heptarchy was part of abolished?|918|479|['9595', '9597']|['mercia', 'mercian supremacy']|True
+musique:486|What is the mouth of the river which serves as the mouth of the Bumping River?|Yakima River|486|['9719', '9730']|['bumping river', 'naches river']|True
+musique:493|Who is the guy in the video of the performer of One Last Time?|Matt Bennett|493|['9861', '9862']|['one last time ariana grande song']|True
+musique:494|Who gives out the prize named after the author of The Wealth of Nations?|University of Cambridge|494|['9885', '9891']|['adam smith prize', 'the wealth of nations']|True
+musique:499|For what river does the river on which Pa Sak Jolasid Dam is located serve as the mouth?|Chao Phraya River|499|['9982', '9985']|['list of tributaries of the chao phraya river', 'pa sak jolasid dam']|True
+musique:513|The city that Psycho Donuts is located in is in which county?|Santa Clara County|513|['10264', '10273']|['campbell california', 'psycho donuts']|True
+musique:521|What did MV Rapana's owner announce it was the process of doing in April 2010?|trying to find a potential buyer for all of its operations in Finland|521|['10424', '10426', '10432']|['mv rapana', 'royal dutch shell']|True
+musique:522|What did M. King Hubbert's employer announce it was in the process of doing in April 2010?|trying to find a potential buyer for all of its operations in Finland|522|['10448', '10455', '10457']|['m king hubbert', 'royal dutch shell']|True
+musique:526|Where was the first female supreme court justice educated?|Stanford University|526|['10522', '10536']|['harry rathbun', 'sandra day o connor']|True
+musique:527|Where was the first woman appointed to the Supreme Court educated?|Stanford University|527|['10544', '10551']|['harry rathbun', 'sandra day o connor']|True
+musique:528|When did the rapper on On and On and Beyond release Best day Ever?|March 11, 2011|528|['10569', '10573']|['best day ever mixtape', 'on and on and beyond']|True
+musique:529|When did the performer of I Love Life, Thank You release Best Day Ever?|March 11, 2011|529|['10587', '10588']|['best day ever mixtape', 'i love life thank you']|True
+musique:534|What two dialects does the /u/ remaining distinct in this form of Catalan include?|Northwestern Catalan and Valencian|534|['10680', '10682', '10683', '10685', '10688', '10689', '10691', '10694', '10696']|['catalan language']|True
+musique:542|What is the life expectancy of the type of retriever named after the body of water the Patuxent River turns into?|average lifespan at 9.4 years|542|['10843', '10857']|['chesapeake bay retriever', 'patuxent river']|True
+musique:543|What is the date of birth for the performer of Unbreakable?|1 January 1986|543|['10869', '10873']|['james cottriall', 'unbreakable james cottriall song']|True
+musique:548|What is the Smile performer's birthday?|1 January 1986|548|['10962', '10964']|['james cottriall', 'smile james cottriall song']|True
+musique:549|What date did the creator of The Blind Girl Die?|13 August 1896|549|['10986', '10997']|['john everett millais', 'the blind girl']|True
+musique:554|When was the father of Diego Sinagra signed by Barcelona?|June 1982|554|['11080', '11087', '11088', '11096']|['diego sinagra', 'fc barcelona']|True
+musique:559|Where is the place where Rudolph the red-nosed reindeer lives on the world map?|latitude 90 ° North|559|['11181', '11183', '11193', '11197']|['north pole', 'rudolph the red nosed reindeer']|True
+musique:570|What team is the player who led the league in sacks in 2017 a member of?|New England Patriots|570|['11402', '11404']|['chandler jones', 'list of national football league annual sacks leaders']|True
+musique:578|What model of car was Mohammed Atta's vehicle that is from the company that makes Datsun Sports?|Nissan Altima|578|['11558', '11569']|['datsun sports', 'mohamed atta s nissan']|True
+musique:583|When did the first mosque in the place where the Marshall Islands International Airport is located open?|September 2012|583|['11665', '11666']|['marshall islands', 'marshall islands international airport']|True
+musique:584|What field of work did the person who first recognized that hydrogen was a discrete substance work in?|physic|584|['11679', '11683', '11685', '11688', '11690', '11693', '11695', '11696', '11697']|['cavendish professor of physics', 'hydrogen']|True
+musique:589|What percent of Nigerians in 2010 were the same religion as Avicenna?|48.8 percent|589|['11778', '11779', '11789', '11790', '11793']|['avicenna', 'nigeria']|True
+musique:590|According to Pew, in 2010, what percent of Nigeria's population was the religion that Pickthall was buried in?|48.8 percent|590|['11811', '11812', '11816']|['marmaduke pickthall', 'nigeria']|True
+musique:595|"The actor who plays Barney in ""How I Met Your Mother"" plays what character in Batman Under the Red Hood?"|Nightwing / Dick Grayson|595|['11909', '11910']|['batman under the red hood', 'neil patrick harris']|True
+musique:599|In Batman Under the Red Hood, who does the actor of Barney Stinson from How I Met Your Mother play?|Nightwing / Dick Grayson|599|['11982', '11993']|['batman under the red hood', 'neil patrick harris']|True
+musique:601|The actor playing Barney in How I Met Your Mother played who in Batman Under The Red Hood?|Nightwing / Dick Grayson|601|['12022', '12031']|['batman under the red hood', 'neil patrick harris']|True
+musique:604|Who was the first African American student to attend the school that owns Swayze Field?|James Howard Meredith|604|['12094', '12096']|['james meredith', 'swayze field']|True
+musique:613|In which county is the city of KABG located?|Santa Barbara County|613|['12273', '12277']|['kabg', 'los alamos california']|True
+musique:617|What is the body of water that St. Matthew Island located in named after?|Vitus Bering|617|['12342', '12345']|['bering sea', 'st matthew island']|True
+musique:621|What did the actress in My Fair Lady win a Tony for?|for Best Performance by a Leading Actress in a Play in Ondine|621|['12419', '12430']|['list of awards and honours received by audrey hepburn', 'my fair lady film']|True
+musique:626|For what did the singer of Moon River in Breakfast at Tiffany's win a Tony?|for Best Performance by a Leading Actress in a Play in Ondine|626|['12530', '12532']|['list of awards and honours received by audrey hepburn', 'moon river']|True
+musique:635|Who does the Girlfriend performer play in The Wire?|a Western District uniformed officer|635|['12707', '12717']|['girlfriend bobby brown song', 'police of the wire']|True
+musique:636|Who does the performer of Don't Be Cruel play in the wire?|a Western District uniformed officer|636|['12723', '12724']|['don t be cruel bobby brown song', 'police of the wire']|True
+musique:643|Who is the actor who plays the title character of The Bourne Ultimatum?|Matt Damon|643|['12859', '12864', '12866', '12875']|['the bourne legacy film', 'the bourne ultimatum']|True
+musique:644|Who plays the main character of The Bourne Deception?|Matt Damon|644|['12880', '12887', '12890', '12895']|['the bourne deception', 'the bourne legacy film']|True
+musique:649|What taxa is Ommatidae part of?|Coleoptera|649|['12988', '12997']|['myxophaga', 'ommatidae']|True
+musique:650|Who plays the person with the same name as he who was caught by surprise in Once Upon a Time?|Liam Thomas Garrigan|650|['13004', '13016']|['john king of england', 'liam garrigan']|True
+musique:652|Who was New York's mayor during the book's historical period?|Fiorello La Guardia|652|['13038', '13047', '13057']|['new york city', 'to kill a mockingbird']|True
+musique:656|When was one internet browser's version of Windows 8 made accessible?|September 2013|656|['13125', '13126', '13135', '13137']|['selenium software', 'windows 8']|True
+musique:660|When was the version of Windows 8 from the company that Iceweasel was based on made accessible?|September 2013|660|['13201', '13202', '13203', '13208', '13212', '13213', '13216', '13217']|['gnu icecat', 'windows 8']|True
+musique:662|On what date was the battle where Muhammad Shobran was born?|15 February 1942|662|['13244', '13257']|['battle of palembang', 'muhammad shobran']|True
+musique:668|Who is the guy defending stuff from the religious scripture that fits into a large, loose definition of legal literature?|Josh McDowell|668|['13362', '13366']|['criticism of christianity', 'literature']|True
+musique:670|What administrative territorial entity does Darley Ramon Torres's place of birth located?|Minas Gerais|670|['13407', '13408']|['chico xavier', 'darley ramon torres']|True
+musique:677|In what episode of The Office does Dwight save Pam's husband from Roy?|``The Negotiation ''|677|['13539', '13545', '13546', '13554', '13555']|['pam beesly', 'the negotiation']|True
+musique:678|When do Pam and Pam's spouse on The Office end up together?|during the highly anticipated, hour long episode, ``Niagara ''|678|['13558', '13561', '13567', '13574', '13576']|['pam beesly']|True
+musique:679|In which years did the war with the person who the Ioannina National Airport is name after occur?|323–272 BC|679|['13586', '13591']|['hieronymus of cardia', 'ioannina national airport']|True
+musique:687|To what division does the language that comprises the standard pronunciation of Catalan belong?|Eastern block|687|['13738', '13739', '13740', '13742', '13743', '13747', '13751', '13752', '13755', '13757']|['catalan language']|True
+musique:689|To what division of languages does one with an innovative form belong?|Eastern block|689|['13783', '13789']|['catalan language']|True
+musique:692|Where was the author of Marcinkus born?|Scranton|692|['13838', '13855']|['marcinkus', 'tom flannery']|True
+musique:697|Who is the spouse of the actor that plays Jarvis in the Avengers Age of Ultron?|Jennifer Connelly|697|['13949', '13954']|['a beautiful mind soundtrack', 'paul bettany']|True
+musique:713|Where did the star of Dark Hazard study?|American Academy of Dramatic Arts|713|['14260', '14262']|['dark hazard', 'edward g robinson']|True
+musique:714|Where did the actor in The Woman in the Window study or work?|American Academy of Dramatic Arts|714|['14285', '14289']|['edward g robinson', 'the woman in the window']|True
+musique:716|What undertaking included the person who discovered that the number of protons in each element's atoms is unique?|Manhattan Project|716|['14322', '14333']|['atomic number', 'james chadwick']|True
+musique:721|What was the person who provided evidence to suggest the existence of the neutron a participant of?|Manhattan Project|721|['14429', '14436']|['discovery of the neutron', 'james chadwick']|True
+musique:737|Who is the chief judge at Gloria Kemasuode's birthplace?|Honorable Justice Abiodun Smith|737|['14748', '14752']|['gloria kemasuode', 'rosaline bozimo']|True
+musique:740|Who is the chief judge of Friday Osanebi's birthplace?|Honorable Justice Abiodun Smith|740|['14816', '14817']|['friday osanebi', 'rosaline bozimo']|True
+musique:741|Who is the Chief Judge of the Tebesa Nemine's birthplace?|Honorable Justice Abiodun Smith|741|['14823', '14835']|['rosaline bozimo', 'tebesa nemine']|True
+musique:749|What company is Frederic Ewen's employer part of?|City University of New York|749|['14988', '14989']|['brooklyn college', 'frederic ewen']|True
+musique:753|In a 2010 study, what modern population is most closely related to the group that represents the majority of modern Jewry?|modern-day Italians|753|['15059', '15062', '15065', '15066', '15067', '15068', '15069', '15070', '15073', '15077']|['ashkenazi jews', 'jews']|True
+musique:761|What city is the star of Sous les pieds des femmes from?|La Goulette|761|['15224', '15230']|['claudia cardinale', 'sous les pieds des femmes']|True
+musique:764|What city is the star of 'Three Strangers in Rome' from?|La Goulette|764|['15280', '15291']|['claudia cardinale', 'three strangers in rome']|True
+musique:767|The league playing in the Thursday night football game is a type of what?|sports league|767|['15338', '15343', '15346', '15351']|['sports league ranking', 'thursday night football']|True
+musique:787|In what year did the insurgency start in the part of the country it is about?|27 April 2009|787|['15742', '15743']|['abdul fattah ismail', 'south yemen insurgency']|True
+musique:800|Who is the father of the man with the same name as the Big Brother hot dog challenge winner?|Aeson|800|['16002', '16008', '16010']|['aeson', 'big brother 19 american season']|True
+musique:802|Where was the person who said she is the reigning national voice educated?|National Institute of Dramatic Art|802|['16038', '16045']|['beyoncé', 'jason keng kwin chan']|True
+musique:810|What institute did the actor playing the voice of John Smith in Pocahontas attend?|National Institute of Dramatic Art|810|['16201', '16202', '16207', '16211']|['jason keng kwin chan', 'pocahontas 1995 film']|True
+musique:811|From where did the man who said Beyoncé is the heir-apparent diva of the United States graduate?|National Institute of Dramatic Art|811|['16219', '16221', '16224', '16225', '16228', '16232', '16237']|['beyoncé', 'jason keng kwin chan']|True
+musique:816|What is the experimental satellite being forerunner to communication satellite of INSAT-4CR's manufacturer called?|ATS - 6 (Applications Technology Satellite - 6)|816|['16320', '16323']|['ats 6', 'insat 4cr']|True
+musique:820|Who played the girlfriend of Alex P. Keaton's actor on Family Ties in Back to the Future?|Claudia Wells|820|['16399', '16416', '16417']|['alex p keaton', 'list of back to the future characters']|True
+musique:822|Where was Osbert Sitwell's sibling educated?|Eton College|822|['16443', '16452']|['reresby sitwell', 'the sitwells']|True
+musique:823|Who played the girlfriend of the actor who played Marlene McFly in Back to the Future?|Claudia Wells|823|['16459', '16469', '16474']|['list of back to the future characters']|True
+musique:826|Who in Back To The Future played the girlfriend of the character played by the actor playing marty's daughter in back to the future 2?|Claudia Wells|826|['16520', '16533', '16534']|['list of back to the future characters']|True
+musique:829|When did the person who ended the Archaemenid Empire by conquest in 330 BC die?|323 BC|829|['16578', '16584', '16587']|['hellenistic period', 'iran']|True
+musique:837|How many people work in the university that is related with Mark F. Green?|11,900|837|['16744', '16745']|['mark f green', 'oklahoma city']|True
+musique:845|What's the life span of the scholar who theorized about pulmonary circulation?|1213–1288|845|['16910', '16916']|['muslim world']|True
+musique:849|Where did the author of The Canon of Medicine think Venus was in relation to the sun?|below the Sun|849|['16985', '16994', '16995']|['avicenna', 'muslim world']|True
+musique:859|What is the Till dom ensamma performer's birth date?|11 September 1962|859|['17183', '17192']|['mauro scocco', 'till dom ensamma']|True
+musique:865|What body of water is by the headquarters location of Wipac?|River Great Ouse|865|['17301', '17304']|['buckingham', 'wipac']|True
+musique:866|When was countrywide bought by the company that bought FleetBoston Financial?|July 1, 2008|866|['17319', '17324', '17330']|['bank of america home loans', 'boston']|True
+musique:867|The Paracel islands are share a province with what city?|Danzhou|867|['17345', '17349']|['hainan island incident', 'nada hainan']|True
+musique:879|Who plays the prison warden in the second movie in the series with the same name as the place where James Trainer died?|Simon Farnaby|879|['17589', '17590']|['james trainer', 'paddington 2']|True
+musique:883|What year did the Leone brothers start their band?|2005|883|['17661', '17677']|['madina lake', 'matthew leone']|True
+musique:884|When was the performer of the album From Them, Through Us, to You formed?|2005|884|['17679', '17693']|['from them through us to you', 'madina lake']|True
+musique:892|Who sings Home Alone Tonight with the Country Girl (Shake It for Me) performer?|Karen Fairchild|892|['17850', '17855']|['country girl shake it for me', 'home alone tonight']|True
+musique:893|Who duets with the singer of Someone Else Calling You Baby on the song Home Alone Tonight?|Karen Fairchild|893|['17862', '17863']|['home alone tonight', 'someone else calling you baby']|True
+musique:899|Who wrote turn me on, which was performed by the person who also performed Chasing Pirates?|John D. Loudermilk|899|['17988', '17997']|['chasing pirates', 'turn me on mark dinning song']|True
+musique:901|Who wrote Turn Me On by the performer who also did Sinkin' Soon?|John D. Loudermilk|901|['18021', '18026']|['sinkin soon', 'turn me on mark dinning song']|True
+musique:902|"Who wrote ""Turn Me On"" by performer of ""Happy Pills""?"|John D. Loudermilk|902|['18038', '18053']|['happy pills song', 'turn me on mark dinning song']|True
+musique:914|What century did the author of A Treatise Concerning the Principles of Human Knowledge live in?|18th|914|['18288', '18292']|['a treatise concerning the principles of human knowledge', 'idealism']|True
+musique:917|Who is the spouse of the owner of the British Virgin Islands?|Philip Mountbatten|917|['18341', '18355']|['british virgin islands', 'wedding dress of princess elizabeth']|True
+musique:924|Who is the spouse of the longest reigning British monarch?|Philip Mountbatten|924|['18484', '18497']|['list of monarchs in britain by length of reign', 'wedding dress of princess elizabeth']|True
+musique:936|Who was in charge of the province which contains Zeevang?|Johan Remkes|936|['18722', '18728']|['north holland', 'zeevang']|True
+musique:938|Who was in charge of the place where Bergen is located?|Johan Remkes|938|['18762', '18766']|['bergen north holland', 'north holland']|True
+musique:941|Who was in charge of the area where Pavilion Welgelegen is located?|Johan Remkes|941|['18824', '18832']|['north holland', 'villa welgelegen']|True
+musique:942|In which generation did iPod start providing compatibility with the object designed to standardize connection of computer peripherals?|third generation|942|['18841', '18842', '18843', '18847', '18848', '18850', '18851', '18853', '18854', '18855']|['ipod', 'usb']|True
+musique:947|Which iPod generation introduced compatibility with the industry standard connection that was first widely used at version 1.1?|third generation|947|['18938', '18939', '18942', '18943', '18944', '18946', '18947', '18948', '18953', '18954', '18955']|['ipod', 'usb']|True
+musique:948|"Who is one of the members of the music group that performed ""Good Little Girls""?"|Aaron Benward|948|['18972', '18975']|['blue county music group', 'good little girls song']|True
+musique:959|What is the position of the first governor general of India?|Governor-General of India|959|['19181', '19186', '19192']|['governor general of india', 'warren hastings']|True
+musique:973|Who published Communications of the organization that Andries van Dam is a member of?|Association for Computing Machinery|973|['19458', '19468']|['acm siggraph', 'communications of the acm']|True
+musique:974|Who was picked before the player who has the most points in an NBA season in the NBA draft?|Greg Oden|974|['19479', '19485']|['2007 nba draft', 'list of national basketball association annual scoring leaders']|True
+musique:977|Who published Communications of the agency that Michael Schroeder is a member of ?|Association for Computing Machinery|977|['19538', '19555']|['communications of the acm', 'michael schroeder']|True
+musique:978|Who was picked over the player who has scored the most points in an NBA season in the draft?|Greg Oden|978|['19564', '19572']|['2007 nba draft', 'list of national basketball association annual scoring leaders']|True
+musique:985|What team does the player with the most points in a NBA season play for?|Oklahoma City Thunder|985|['19701', '19703', '19710']|['2009 10 oklahoma city thunder season', 'list of national basketball association annual scoring leaders']|True
+musique:986|"What did the director of ""A Stitch for Time"" win at the 54th Academy Awards?"|Academy Award for Best Documentary (Short Subject)|986|['19722', '19727']|['a stitch for time', 'close harmony 1981 film']|True
+musique:989|When was the importation of slaves banned in the birthplace of Francis Watson?|1792|989|['19786', '19788', '19791', '19796']|['francis watson cricketer', 'saint helena']|True
+musique:995|Who introduced a system of musical notation in the 14th century that is used in the area where most of the invasion of the eastern Roman Empire took place?|John Kukuzelis|995|['19899', '19901', '19913']|['late middle ages', 'middle ages']|True
+musique:998|Who introduced a system of musical notation used in the region the Romans aimed to re-bolster influence in after the Second Punic war in the 14th century?|John Kukuzelis|998|['19966', '19970', '19974']|['hellenistic period', 'late middle ages']|True

@@ -1,0 +1,801 @@
+query_id|question|answer|context_id|gold_evidence|gold_supporting_titles|gold_mapping_complete
+2wiki:0|Who is the mother of the director of film Polish-Russian War (Film)?|Małgorzata Braunek|0|['0', '5']|['polish russian war film', 'xawery żuławski']|True
+2wiki:1|Which film came out first, Blind Shaft or The Mask Of Fu Manchu?|The Mask Of Fu Manchu|1|['13', '19']|['blind shaft', 'the mask of fu manchu']|True
+2wiki:2|When did John V, Prince Of Anhalt-Zerbst's father die?|12 June 1516|2|['22', '29']|['ernest i prince of anhalt dessau', 'john v prince of anhalt zerbst']|True
+2wiki:3|What is the award that the director of film Wearing Velvet Slippers Under A Golden Umbrella won?|Myanmar Motion Picture Academy Awards|3|['34', '36']|['wearing velvet slippers under a golden umbrella', 'wunna']|True
+2wiki:4|Where was the director of film Ronnie Rocket born?|Missoula, Montana|4|['40', '47']|['david lynch', 'ronnie rocket']|True
+2wiki:5|Who is Charles Bretagne Marie De La Trémoille's paternal grandfather?|Charles Armand René de La Trémoille|5|['56', '58']|['charles bretagne marie de la trémoille', 'jean bretagne charles de la trémoille']|True
+2wiki:6|Where was the father of Ștefan I. Nenițescu born?|Galați|6|['65', '69']|['ioan s nenițescu', 'ștefan i nenițescu']|True
+2wiki:7|Are North Marion High School (Oregon) and Seoul High School both located in the same country?|no|7|['71', '75']|['north marion high school oregon', 'seoul high school']|True
+2wiki:8|Which film has the director who was born later, El Extraño Viaje or Love In Pawn?|El Extraño Viaje|8|['82', '86', '88', '89']|['charles saunders director', 'el extraño viaje', 'fernando fernán gómez', 'love in pawn']|True
+2wiki:9|Who is the maternal grandfather of Antiochus X Eusebes?|Ptolemy IX Lathyros|9|['92', '93']|['antiochus x eusebes', 'cleopatra iv of egypt']|True
+2wiki:11|Which film has the director born first, Once A Gentleman or The Girl In White?|Once A Gentleman|11|['111', '113', '114', '119']|['james cruze', 'john sturges', 'once a gentleman', 'the girl in white']|True
+2wiki:12|Which film has the director who died earlier, Il Seduttore or The Trial Of Joan Of Arc?|The Trial Of Joan Of Arc|12|['120', '122', '124', '129']|['franco rossi director', 'il seduttore', 'robert bresson', 'the trial of joan of arc']|True
+2wiki:13|Where was the director of film Thomas Jefferson (Film) born?|Brooklyn|13|['137', '139']|['ken burns', 'thomas jefferson film']|True
+2wiki:14|Why did Grand Duke Kirill Vladimirovich Of Russia's wife die?|stroke|14|['144', '149']|['grand duke kirill vladimirovich of russia', 'princess victoria melita of saxe coburg and gotha']|True
+2wiki:15|Where was the place of death of the director of film Beat Girl?|Nice|15|['151', '155']|['beat girl', 'edmond t gréville']|True
+2wiki:16|Who died first, Fleetwood Sheppard or George William Whitaker?|Fleetwood Sheppard|16|['161', '162']|['fleetwood sheppard', 'george william whitaker']|True
+2wiki:17|Which film has the director born first, The Raven'S Dance or Keïta! L'Héritage Du Griot?|The Raven'S Dance|17|['171', '175', '176', '178']|['dani kouyaté', 'keïta l héritage du griot', 'markku lehmuskallio', 'the raven s dance']|True
+2wiki:18|When did Jean Martin (Singer)'s husband die?|1983|18|['182', '184']|['jean martin singer', 'william black businessman']|True
+2wiki:19|Which film has the director who died earlier, Tangled Destinies or The Daltons' Women?|Tangled Destinies|19|['190', '191', '194', '199']|['frank r strayer', 'tangled destinies', 'the daltons women', 'thomas carr director']|True
+2wiki:20|Which film was released earlier, Moment Of Danger or The Ballad Of Josie?|Moment Of Danger|20|['204', '208']|['moment of danger', 'the ballad of josie']|True
+2wiki:21|What nationality is the director of film World And Time Enough?|United States|21|['212', '214']|['eric mueller', 'world and time enough']|True
+2wiki:22|Which film has the director died earlier, Poker In Bed or The Machine To Kill Bad People?|The Machine To Kill Bad People|22|['222', '227', '228', '229']|['giuliano carnimeo', 'poker in bed', 'roberto rossellini', 'the machine to kill bad people']|True
+2wiki:24|Who is Catherine Of Pomerania, Countess Palatine Of Neumarkt's father-in-law?|Rupert|24|['246', '247']|['catherine of pomerania countess palatine of neumarkt', 'john count palatine of neumarkt']|True
+2wiki:26|Which film has the director died earlier, Condemned Women or Faces In The Dark?|Condemned Women|26|['262', '264', '265', '267']|['condemned women', 'david eady film director', 'faces in the dark', 'lew landers']|True
+2wiki:27|Who is the spouse of the director of film Eden And After?|Catherine Robbe-Grillet|27|['270', '274']|['alain robbe grillet', 'eden and after']|True
+2wiki:28|Where was the place of death of Anastasia Of Serbia's husband?|Hilandar|28|['282', '286']|['anastasia of serbia', 'stefan nemanja']|True
+2wiki:29|Are Fire In Hell and The Tiger: An Old Hunter'S Tale from the same country?|yes|29|['293', '299']|['fire in hell', 'the tiger an old hunter s tale']|True
+2wiki:31|Was Şemsettin Baş or Gwenc'Hlan Le Scouëzec born first?|Gwenc'Hlan Le Scouëzec|31|['315', '317']|['gwenc hlan le scouëzec', 'şemsettin baş']|True
+2wiki:32|Which film has the director born later, Bhoomiyude Avakashikal or The Majesty Of The Law?|Bhoomiyude Avakashikal|32|['320', '321', '322', '325']|['bhoomiyude avakashikal', 'julia crawford ivers', 't v chandran', 'the majesty of the law']|True
+2wiki:33|Who is Cornelia (Wife Of Caesar)'s child-in-law?|Pompey|33|['334', '338']|['cornelia wife of caesar', 'julia daughter of caesar']|True
+2wiki:34|Why did John Middleton Murry's wife die?|tuberculosis|34|['343', '349']|['john middleton murry', 'katherine mansfield']|True
+2wiki:35|Who is the paternal grandfather of Taj Al-Dawla?|Rukn al-Dawla|35|['350', '357']|['adud al dawla', 'taj al dawla']|True
+2wiki:36|Do both films Payment On Demand and My Cousin From Warsaw have the directors from the same country?|yes|36|['364', '365', '366', '367']|['carl boese', 'curtis bernhardt', 'my cousin from warsaw', 'payment on demand']|True
+2wiki:37|What is the place of birth of the director of film And The Spring Comes?|Xi'an|37|['378', '379']|['and the spring comes', 'gu changwei']|True
+2wiki:38|Who died first, Madame Pasca or James A. Donohoe?|Madame Pasca|38|['381', '388']|['james a donohoe', 'madame pasca']|True
+2wiki:40|Are Simonds Catholic College and Saginaw High School (Texas) both located in the same country?|no|40|['401', '403']|['saginaw high school texas', 'simonds catholic college']|True
+2wiki:41|Which country Prince Nikolaus Wilhelm Of Nassau's mother is from?|German|41|['412', '413']|['prince nikolaus wilhelm of nassau', 'princess pauline of württemberg 1810 1856']|True
+2wiki:42|Which film whose director was born first, 45 Fathers or The Intended?|45 Fathers|42|['420', '421', '422', '428']|['45 fathers', 'james tinling', 'kristian levring', 'the intended']|True
+2wiki:43|Who is the paternal grandfather of Alexandre Berthier, 3Rd Prince Of Wagram?|Louis-Alexandre Berthier|43|['436', '438']|['alexandre berthier 3rd prince of wagram', 'napoléon alexandre berthier 2nd prince of wagram']|True
+2wiki:45|Which film has the director who was born later, A Quiet Place In The Country or When Were You Born?|A Quiet Place In The Country|45|['450', '456', '457', '459']|['a quiet place in the country', 'elio petri', 'when were you born', 'william c mcgann']|True
+2wiki:46|Who was born first, John Beach or Gordon Persons?|John Beach|46|['464', '466']|['gordon persons', 'john beach']|True
+2wiki:47|Which film has the director born earlier, The House By The Cemetery or Charlie Chan In Honolulu?|Charlie Chan In Honolulu|47|['470', '471', '473', '477']|['charlie chan in honolulu', 'h bruce humberstone', 'lucio fulci', 'the house by the cemetery']|True
+2wiki:48|Who is the child of the director of film La Leona (Film)?|Víctor Bó|48|['483', '484']|['armando bó', 'la leona film']|True
+2wiki:49|Who is Blanche Of Portugal (1259–1321)'s paternal grandmother?|Urraca of Castile|49|['490', '499']|['afonso iii of portugal', 'blanche of portugal 1259 1321']|True
+2wiki:50|Who lived longer, Giuseppe Cesari or Nicos Poulantzas?|Giuseppe Cesari|50|['505', '507']|['giuseppe cesari', 'nicos poulantzas']|True
+2wiki:51|Are director of film Nights On The Road and director of film Swann In Love (Film) from the same country?|yes|51|['510', '512', '513', '519']|['nights on the road', 'rudolf jugert', 'swann in love film', 'volker schlöndorff']|True
+2wiki:52|Who is older, Aryeh Ben-Eliezer or Jason Pociask?|Aryeh Ben-Eliezer|52|['520', '527']|['aryeh ben eliezer', 'jason pociask']|True
+2wiki:53|Where does the director of film Man At Bath work at?|Cahiers du cinéma|53|['531', '539']|['christophe honoré', 'man at bath']|True
+2wiki:56|Which film came out earlier, Aanaval Mothiram or Heroes Of The Street?|Heroes Of The Street|56|['563', '566']|['aanaval mothiram', 'heroes of the street']|True
+2wiki:57|Where was the father of Lord Patrick Crichton-Stuart born?|London|57|['570', '574']|['john stuart lord mount stuart', 'lord patrick crichton stuart']|True
+2wiki:58|Which country the director of film Daadagiri is from?|Pakistan|58|['583', '589']|['arshad khan cricketer', 'daadagiri']|True
+2wiki:61|Where was the place of death of the director of film Mole Men Against The Son Of Hercules?|Roma|61|['610', '617']|['antonio leonviola', 'mole men against the son of hercules']|True
+2wiki:62|Where was the father of Alexandre Gaydamak born?|Moscow, USSR|62|['625', '628']|['alexandre gaydamak', 'arcadi gaydamak']|True
+2wiki:64|Who is Gaston, Duke Of Orléans's paternal grandmother?|Jeanne d'Albret|64|['641', '645']|['gaston duke of orléans', 'henry iv of france']|True
+2wiki:65|Where was the director of film The Half-Way Girl born?|New York|65|['655', '656']|['john francis dillon director', 'the half way girl']|True
+2wiki:68|Where was the director of film Highway Dragnet born?|Gura Humorului|68|['681', '687']|['highway dragnet', 'nathan juran']|True
+2wiki:69|Where did Prince Gustav Of Thurn And Taxis (1848–1914)'s mother die?|Meran|69|['693', '698']|['prince gustav of thurn and taxis 1848 1914', 'princess mathilde sophie of oettingen oettingen and oettingen spielberg']|True
+2wiki:71|Which film has the director born first, Antonieta or Dodging The Dole?|Dodging The Dole|71|['710', '713', '714', '715']|['antonieta', 'carlos saura', 'dodging the dole', 'john e blakeley']|True
+2wiki:73|Who is the maternal grandfather of Amadeus Vii, Count Of Savoy?|Peter I|73|['731', '737']|['amadeus vii count of savoy', 'bonne of bourbon']|True
+2wiki:74|Are both businesses, Telus and Ztr Control Systems, located in the same country?|yes|74|['744', '749']|['telus', 'ztr control systems']|True
+2wiki:75|Do both films, Dial M For Murder and Marius (1931 Film), have the directors who are from the same country?|yes|75|['750', '755', '757', '759']|['alexander korda', 'alfred hitchcock', 'dial m for murder', 'marius 1931 film']|True
+2wiki:77|Are both directors of films The Princess Bride (Film) and I Never Sang For My Father from the same country?|yes|77|['770', '775', '776', '779']|['gilbert cates', 'i never sang for my father', 'rob reiner', 'the princess bride film']|True
+2wiki:79|Which country Audofleda's husband is from?|Ostrogothic Kingdom|79|['790', '798']|['audofleda', 'theodoric the great']|True
+2wiki:80|What is the place of birth of the director of film Letter To The King?|Kurdish|80|['805', '807']|['hisham zaman', 'letter to the king']|True
+2wiki:81|Are both bands, Snowman (Band) and Jessamine (Band), from the same country?|no|81|['810', '816']|['jessamine band', 'snowman band']|True
+2wiki:82|Where was the performer of song God (John Lennon Song) born?|Liverpool|82|['820', '827']|['god john lennon song', 'john lennon']|True
+2wiki:83|Which film has the director who died earlier, Captain Kidd And The Slave Girl or Relax Freddie?|Captain Kidd And The Slave Girl|83|['833', '835', '838', '839']|['captain kidd and the slave girl', 'erik balling', 'lew landers', 'relax freddie']|True
+2wiki:84|Which song was released more recently, Go Ahead And Break My Heart or Knee Deep In My Heart?|Go Ahead And Break My Heart|84|['841', '843']|['go ahead and break my heart', 'knee deep in my heart']|True
+2wiki:85|Which film has the director who died later, The Fatal Mistake or The Devil'S Hairpin?|The Devil'S Hairpin|85|['855', '856', '857', '858']|['cornel wilde', 'scott r dunlap', 'the devil s hairpin', 'the fatal mistake']|True
+2wiki:87|Who is the paternal grandfather of Kujō Yoritsugu?|Kujō Michiie|87|['876', '879']|['kujō yoritsugu', 'kujō yoritsune']|True
+2wiki:89|Which film came out first, Repeated Absences or She Wore A Yellow Ribbon?|She Wore A Yellow Ribbon|89|['893', '898']|['repeated absences', 'she wore a yellow ribbon']|True
+2wiki:90|Who lived longer, Edward Dearle or Michael Doeberl?|Edward Dearle|90|['903', '907']|['edward dearle', 'michael doeberl']|True
+2wiki:91|Where does Karin Stoltenberg's husband work at?|United Nations|91|['911', '914']|['karin stoltenberg', 'thorvald stoltenberg']|True
+2wiki:92|Where was the director of film Lettre Ouverte born?|Paris|92|['928', '929']|['alex joffé', 'lettre ouverte']|True
+2wiki:93|Who is William Ii, Count Of Flanders's paternal grandmother?|Mathilde of Bourbon|93|['930', '939']|['william ii count of flanders', 'william ii of dampierre']|True
+2wiki:94|What is the place of birth of Clara Novello's father?|London|94|['942', '949']|['clara novello', 'vincent novello']|True
+2wiki:95|Which film came out earlier, Emmy Of Stork'S Nest or Indira Vizha?|Emmy Of Stork'S Nest|95|['954', '955']|['emmy of stork s nest', 'indira vizha']|True
+2wiki:97|Who was born earlier, Silas Hardy or Lee Mantle?|Lee Mantle|97|['970', '979']|['lee mantle', 'silas hardy']|True
+2wiki:98|Where was the place of burial of Albert Frederick, Duke Of Prussia's mother?|Königsberg|98|['984', '989']|['albert frederick duke of prussia', 'anna marie of brunswick lüneburg']|True
+2wiki:99|Where was the place of death of Juan Carlos Gumucio's wife?|Homs|99|['993', '994']|['juan carlos gumucio', 'marie colvin']|True
+2wiki:100|Who is the father of the director of film Gramps Is In The Resistance?|Alain Poiré|100|['1002', '1005']|['gramps is in the resistance', 'jean marie poiré']|True
+2wiki:102|What nationality is Philip Of Ibelin (1180–1227)'s mother?|Byzantine|102|['1026', '1029']|['maria komnene queen of jerusalem', 'philip of ibelin 1180 1227']|True
+2wiki:103|Who was born later, Joseph J. Magliocco or Viktoriya Zeynep Güneş?|Viktoriya Zeynep Güneş|103|['1031', '1039']|['joseph j magliocco', 'viktoriya zeynep güneş']|True
+2wiki:104|When is the lead guitarist of List Of The Dillinger Escape Plan Band Members's birthday?|August 8, 1975|104|['1041', '1049']|['ben weinman', 'list of the dillinger escape plan band members']|True
+2wiki:105|Where does Huma Abedin's husband work at?|Chuck Schumer|105|['1050', '1058']|['anthony weiner', 'huma abedin']|True
+2wiki:106|Are the movies About A Wife, A Dream And Another... and The Doolins Of Oklahoma, from the same country?|no|106|['1066', '1069']|['about a wife a dream and another', 'the doolins of oklahoma']|True
+2wiki:108|Where did Giacomo Feo's wife die?|Florence|108|['1080', '1089']|['caterina sforza', 'giacomo feo']|True
+2wiki:109|What is the place of birth of the director of film Swedenhielms?|Helsingfors|109|['1092', '1098']|['gustaf molander', 'swedenhielms']|True
+2wiki:111|Which film was released earlier, Sathyavan Savithri or Kids Of The Round Table?|Kids Of The Round Table|111|['1110', '1117']|['kids of the round table', 'sathyavan savithri']|True
+2wiki:112|Where did Gigi Causey's husband graduate from?|Tisch|112|['1125', '1128']|['andrew bowler', 'gigi causey']|True
+2wiki:113|What nationality is Geodeung Of Geumgwan Gaya's mother?|India|113|['1134', '1139']|['geodeung of geumgwan gaya', 'heo hwang ok']|True
+2wiki:114|Which film was released earlier, Xenoa or Divorce Invitation?|Xenoa|114|['1140', '1143']|['divorce invitation', 'xenoa']|True
+2wiki:115|What is the cause of death of Alex Matthiessen's father?|leukemia|115|['1154', '1158']|['alex matthiessen', 'peter matthiessen']|True
+2wiki:116|What is the place of birth of Remigius Of Rouen's father?|Herstal|116|['1163', '1166']|['charles martel', 'remigius of rouen']|True
+2wiki:117|When did Lord Patrick Crichton-Stuart's father die?|22 January 1794|117|['1173', '1177']|['john stuart lord mount stuart', 'lord patrick crichton stuart']|True
+2wiki:118|Which film has the director who was born earlier, It'S A Joke, Son! or The Thirty Nine Steps (1978 Film)?|It'S A Joke, Son!|118|['1181', '1182', '1186', '1189']|['benjamin stoloff', 'don sharp', 'it s a joke son', 'the thirty nine steps 1978 film']|True
+2wiki:119|Are both directors of films The Slayer (Film) and Moscow Heat from the same country?|yes|119|['1191', '1192', '1197', '1198']|['j s cardone', 'jeff celentano', 'moscow heat', 'the slayer film']|True
+2wiki:121|Are Little Sachigo Lake and Holden Lake located in the same country?|yes|121|['1211', '1212']|['holden lake', 'little sachigo lake']|True
+2wiki:122|Who is Henriette Of France (1727–1752)'s maternal grandfather?|Stanisław Leszczyński|122|['1223', '1227']|['henriette of france 1727 1752', 'marie leszczyńska']|True
+2wiki:123|Which film has the director born first, Leave It To Henry or The Last Night Of Scheherazade?|Leave It To Henry|123|['1230', '1231', '1235', '1236']|['jean yarbrough', 'leave it to henry', 'takhir sabirov', 'the last night of scheherazade']|True
+2wiki:124|What is the date of death of Gero Ii, Margrave Of The Saxon Ostmark's father?|3 August 979|124|['1243', '1244']|['gero ii margrave of the saxon ostmark', 'thietmar margrave of meissen']|True
+2wiki:125|Are Tomskoye, Amur Oblast and Pleshkovo located in the same country?|yes|125|['1250', '1256']|['pleshkovo', 'tomskoye amur oblast']|True
+2wiki:126|Which film came out earlier, I Am Breathing or Ulti Ganga?|Ulti Ganga|126|['1261', '1269']|['i am breathing', 'ulti ganga']|True
+2wiki:127|Who was born later, Levon Julfalakyan or Charlotte Spurkeland?|Charlotte Spurkeland|127|['1274', '1277']|['charlotte spurkeland', 'levon julfalakyan']|True
+2wiki:128|Who is the father of the director of film Red 2 (Film)?|Aldo Parisot|128|['1287', '1289']|['dean parisot', 'red 2 film']|True
+2wiki:129|When was the company that published American Scientist founded?|1886|129|['1296', '1297']|['american scientist', 'sigma xi']|True
+2wiki:130|What is the place of birth of Jo Planckaert's father?|Nevele|130|['1302', '1307']|['jo planckaert', 'willy planckaert']|True
+2wiki:131|What is the place of birth of Gwilym Lloyd George's father?|Manchester|131|['1312', '1313']|['david lloyd george', 'gwilym lloyd george']|True
+2wiki:132|What is the place of birth of James Douglas, 3Rd Earl Of Angus's father?|Tantallon Castle|132|['1320', '1322']|['james douglas 3rd earl of angus', 'william douglas 2nd earl of angus']|True
+2wiki:133|What nationality is the director of film They Call It Love?|American|133|['1337', '1339']|['john reinhardt director', 'they call it love']|True
+2wiki:134|What is the place of birth of Zhanna Nemtsova's father?|Sochi|134|['1342', '1345']|['boris nemtsov', 'zhanna nemtsova']|True
+2wiki:135|Which film has the director born earlier, Santa Fe Uprising or Trainer And Temptress?|Trainer And Temptress|135|['1350', '1352', '1353', '1357']|['r g springsteen', 'santa fe uprising', 'trainer and temptress', 'walter west director']|True
+2wiki:138|Where was the director of film Age-Old Friends born?|Winnipeg, Manitoba|138|['1380', '1388']|['age old friends', 'allan kroeker']|True
+2wiki:140|Where was the father of Eleonora Di Garzia Di Toledo born?|Villafranca del Bierzo|140|['1403', '1404']|['eleonora di garzia di toledo', 'garcía de toledo osorio 4th marquis of villafranca']|True
+2wiki:141|What is the award that the director of film The Last Night Of The Barbary Coast got?|Jean Hersholt Humanitarian Award|141|['1413', '1414']|['sol lesser', 'the last night of the barbary coast']|True
+2wiki:142|Who is Prince Nicolas, Duke Of Ångermanland's mother?|Princess Madeleine, Duchess of Hälsingland and Gästrikland|142|['1426', '1428']|['christopher o neill', 'prince nicolas duke of ångermanland']|True
+2wiki:143|Who is the paternal grandmother of Princess Augusta Of Waldeck-Pyrmont?|Princess Augusta of Schwarzburg-Sondershausen|143|['1434', '1435']|['george ii prince of waldeck and pyrmont', 'princess augusta of waldeck pyrmont']|True
+2wiki:144|Where does the director of film The Marquise Of O (Film) work at?|Cahiers du cinéma|144|['1442', '1445']|['the marquise of o film', 'éric rohmer']|True
+2wiki:145|Which film whose director is younger, Joe Palooka In Fighting Mad or Figaro-Ci, Figaro-Là?|Figaro-Ci, Figaro-Là|145|['1451', '1453', '1454', '1459']|['figaro ci figaro là', 'hervé bromberger', 'joe palooka in fighting mad', 'reginald le borg']|True
+2wiki:146|Which film was released first, Ekam – Son Of Soil or Farber'S Nerve?|Farber'S Nerve|146|['1465', '1468']|['ekam son of soil', 'farber s nerve']|True
+2wiki:147|Which country Mohammed Al-Modiahki's wife is from?|China|147|['1470', '1476']|['mohammed al modiahki', 'zhu chen']|True
+2wiki:148|Do both films: Gammat Jammat and Ready (2011 Film) have the directors from the same country?|yes|148|['1486', '1487', '1488', '1489']|['anees bazmee', 'gammat jammat', 'ready 2011 film', 'sachin actor']|True
+2wiki:149|Who is Philip Of Sicily's father?|Charles I of Naples|149|['1492', '1494']|['beatrice of provence', 'philip of sicily']|True
+2wiki:150|Who was born later, Gideon Johnson Pillow or Holm Jølsen?|Holm Jølsen|150|['1504', '1506']|['gideon johnson pillow', 'holm jølsen']|True
+2wiki:151|Which film has the director who died first, The Crime Doctor'S Courage or Vasantha Sena (1967 Film)?|The Crime Doctor'S Courage|151|['1510', '1512', '1513', '1518']|['b s ranga', 'george sherman', 'the crime doctor s courage', 'vasantha sena 1967 film']|True
+2wiki:152|Where did the director of film My Heidelberg, I Can Not Forget You die?|Argentina|152|['1520', '1523']|['james bauer', 'my heidelberg i can not forget you']|True
+2wiki:153|Which film was released earlier, Tiger Of The Seven Seas or My Wife'S Lodger?|My Wife'S Lodger|153|['1536', '1538']|['my wife s lodger', 'tiger of the seven seas']|True
+2wiki:154|Do Alice Mary Dowd and Richard N. Palmer have the same nationality?|yes|154|['1540', '1541']|['alice mary dowd', 'richard n palmer']|True
+2wiki:155|Who is the father of the director of film Wonders Of The Sea 3D?|Jacques Cousteau|155|['1555', '1557']|['jean michel cousteau', 'wonders of the sea 3d']|True
+2wiki:156|Which film has the director died first, Le Guignolo or Knights Of The Range?|Knights Of The Range|156|['1563', '1564', '1566', '1569']|['georges lautner', 'knights of the range', 'le guignolo', 'lesley selander']|True
+2wiki:157|Who died later, Narcís Ventalló or H. Verlan Andersen?|Narcís Ventalló|157|['1570', '1574']|['h verlan andersen', 'narcís ventalló']|True
+2wiki:159|Who is younger, Aneta Hladíková or René Poupardin?|Aneta Hladíková|159|['1596', '1597']|['aneta hladíková', 'rené poupardin']|True
+2wiki:160|Where was the place of death of Prince Christopher Of Greece And Denmark's father?|Thessaloniki|160|['1602', '1609']|['george i of greece', 'prince christopher of greece and denmark']|True
+2wiki:161|What is the place of birth of the director of film Guilty Of Treason?|New York|161|['1616', '1617']|['felix e feist', 'guilty of treason']|True
+2wiki:162|Where did Charles Stewart, 3Rd Duke Of Richmond's father graduate from?|University of Paris|162|['1622', '1624']|['charles stewart 3rd duke of richmond', 'george stewart 9th seigneur d aubigny']|True
+2wiki:163|What is the place of birth of the performer of song I Wish (Gabrielle Song)?|Hackney|163|['1632', '1638']|['gabrielle singer', 'i wish gabrielle song']|True
+2wiki:164|When was the director of film Jinpa born?|1969|164|['1640', '1647']|['jinpa', 'pema tseden']|True
+2wiki:165|Which film whose director is younger, Kalippava or A Couch In New York?|A Couch In New York|165|['1651', '1653', '1658', '1659']|['a b raj', 'a couch in new york', 'chantal akerman', 'kalippava']|True
+2wiki:166|Which film has the director who died earlier, The Love Charm or The Constant Woman?|The Constant Woman|166|['1661', '1665', '1666', '1667']|['the constant woman', 'the love charm', 'thomas n heffron', 'victor schertzinger']|True
+2wiki:167|Which film came out earlier, Dis-Moi Qui Tuer or Under The Hawthorn Tree (Film)?|Dis-Moi Qui Tuer|167|['1677', '1679']|['dis moi qui tuer', 'under the hawthorn tree film']|True
+2wiki:169|Where did the director of film Old Man Drinking A Glass Of Beer die?|Brighton|169|['1691', '1692']|['george albert smith film pioneer', 'old man drinking a glass of beer']|True
+2wiki:170|What is the date of death of Henry St John, 18Th Baron St John Of Bletso's father?|10 May 1912|170|['1702', '1706']|['beauchamp st john 17th baron st john of bletso', 'henry st john 18th baron st john of bletso']|True
+2wiki:171|Who is younger, Justin Paul or Helly Shah?|Helly Shah|171|['1710', '1714']|['helly shah', 'justin paul']|True
+2wiki:172|Who was born first out of Marco De Luigi and Fabio Maistro?|Marco De Luigi|172|['1725', '1729']|['fabio maistro', 'marco de luigi']|True
+2wiki:173|Which film has the director who died earlier, Guns And Guitars or To The Victor?|Guns And Guitars|173|['1732', '1737', '1738', '1739']|['delmer daves', 'guns and guitars', 'joseph kane', 'to the victor']|True
+2wiki:175|Who is Edward De Vere, 17Th Earl Of Oxford's paternal grandfather?|John de Vere, 15th Earl of Oxford|175|['1756', '1757']|['edward de vere 17th earl of oxford', 'john de vere 16th earl of oxford']|True
+2wiki:176|Where was the place of death of Alexander Carl Otto Westphal's father?|Kreuzlingen|176|['1762', '1765']|['alexander carl otto westphal', 'carl friedrich otto westphal']|True
+2wiki:177|Which film has the director born earlier, Jayam Manade or Bulldog Drummond'S Revenge?|Bulldog Drummond'S Revenge|177|['1771', '1772', '1776', '1778']|['bulldog drummond s revenge', 'jayam manade', 'louis king', 't prakash rao']|True
+2wiki:178|Which film has the director who is older, The Gamecock (Film) or Monster A Go-Go?|Monster A Go-Go|178|['1784', '1786', '1787', '1789']|['herschell gordon lewis', 'monster a go go', 'pasquale festa campanile', 'the gamecock film']|True
+2wiki:179|Where was the place of death of Alessandro Vitelli's father?|Florence|179|['1790', '1794']|['alessandro vitelli', 'paolo vitelli condottiero']|True
+2wiki:180|Where was the performer of song Bag Skyerne born?|Århus|180|['1805', '1809']|['anne gadegaard', 'bag skyerne']|True
+2wiki:181|Are both directors of films 16 To Life and Saved By The Belles from the same country?|yes|181|['1812', '1813', '1818', '1819']|['16 to life', 'becky smith', 'saved by the belles', 'ziad touma']|True
+2wiki:182|Where was the mother of Francis Ii Of France born?|Florence|182|['1821', '1824']|['catherine de medici', 'francis ii of france']|True
+2wiki:183|Who was born later, Marc De Clerck or Wiesław Perszke?|Wiesław Perszke|183|['1837', '1838']|['marc de clerck', 'wiesław perszke']|True
+2wiki:185|What nationality is the director of film Madeleine (1950 Film)?|British|185|['1853', '1854']|['david lean', 'madeleine 1950 film']|True
+2wiki:186|Which film has the director died first, Edge Of Doom or A Mother'S Secret?|A Mother'S Secret|186|['1860', '1862', '1868', '1869']|['a mother s secret', 'douglas gerrard', 'edge of doom', 'mark robson film director']|True
+2wiki:187|Which song was released earlier, 1990-Sick (Get 'Em All) or Who'S Laughing Now (Song)?|1990-Sick (Get 'Em All)|187|['1877', '1878']|['1990 sick get em all', 'who s laughing now song']|True
+2wiki:188|Where did the director of film Desolation Angels (1995 Film) graduate from?|State University of New York at Purchase|188|['1883', '1885']|['desolation angels 1995 film', 'tim mccann director']|True
+2wiki:189|When did Richard Annesley, 2Nd Earl Annesley's father die?|2 September 1770|189|['1892', '1898']|['richard annesley 2nd earl annesley', 'william annesley 1st viscount glerawly']|True
+2wiki:190|Which film has the director died earlier, Lemonade Joe or Bountiful Summer?|Bountiful Summer|190|['1901', '1903', '1907', '1909']|['boris barnet', 'bountiful summer', 'lemonade joe', 'oldřich lipský']|True
+2wiki:191|What is the date of death of Conan Ii, Duke Of Brittany's mother?|1080|191|['1911', '1917']|['bertha of blois', 'conan ii duke of brittany']|True
+2wiki:192|When was the director of film Reykjavík-Rotterdam born?|30 June 1963|192|['1926', '1928']|['reykjavík rotterdam', 'óskar jónasson']|True
+2wiki:193|What is the place of birth of Eiludd Powys's father?|Wales|193|['1933', '1936']|['cynan garwyn', 'eiludd powys']|True
+2wiki:194|Where was the director of film At The End Of The Tunnel born?|Rosario|194|['1944', '1946']|['at the end of the tunnel', 'rodrigo grande']|True
+2wiki:195|When was Ferdinand Iii Of Limburg Stirum's father born?|1701|195|['1957', '1958']|['ferdinand i of limburg stirum', 'ferdinand iii of limburg stirum']|True
+2wiki:196|Which country the director of film Ulzhan is from?|German|196|['1963', '1964']|['ulzhan', 'volker schlöndorff']|True
+2wiki:197|Who is Prince Franz De Paula Of Liechtenstein's paternal grandfather?|Franz Joseph I|197|['1974', '1976']|['johann i joseph prince of liechtenstein', 'prince franz de paula of liechtenstein']|True
+2wiki:200|Which film has the director died first, Two For Tonight or Light Over Russia?|Two For Tonight|200|['2000', '2002', '2003', '2008']|['frank tuttle', 'light over russia', 'sergei yutkevich', 'two for tonight']|True
+2wiki:201|What is the place of birth of the director of film Peter'S Friends?|Belfast|201|['2010', '2017']|['kenneth branagh', 'peter s friends']|True
+2wiki:202|Where was the composer of film Love Story 1999 born?|Tamil|202|['2027', '2029']|['deva composer', 'love story 1999']|True
+2wiki:203|Who is the father of Beltrán Vélez De Guevara, Marquis Of Campo Real?|Íñigo Vélez de Guevara, 7th Count of Oñate|203|['2032', '2039']|['beltrán vélez de guevara marquis of campo real', 'íñigo vélez de guevara 8th count of oñate']|True
+2wiki:204|Which film whose director is younger, Jeedar or The Rebel Set?|Jeedar|204|['2044', '2045', '2046', '2049']|['gene fowler jr', 'jeedar', 'kaifee', 'the rebel set']|True
+2wiki:205|Where was the mother of Antonio Flores born?|Jerez de la Frontera|205|['2050', '2059']|['antonio flores', 'lola flores']|True
+2wiki:206|What is the place of birth of the performer of song Down Ass Bitch?|Queens|206|['2066', '2069']|['down ass bitch', 'ja rule']|True
+2wiki:207|What is the place of birth of Empress Xu (Ming Dynasty)'s husband?|Nanjing|207|['2072', '2079']|['empress xu ming dynasty', 'yongle emperor']|True
+2wiki:211|Who is the paternal grandmother of King Kang Of Zhou?|Yi Jiang|211|['2110', '2118']|['king cheng of zhou', 'king kang of zhou']|True
+2wiki:212|Which film has the director who died first, The Face Of Fu Manchu or The Hidden One?|The Hidden One|212|['2122', '2124', '2127', '2129']|['don sharp', 'roberto gavaldón', 'the face of fu manchu', 'the hidden one']|True
+2wiki:214|Which film whose director was born first, The Great Flamarion or The Hollars?|The Great Flamarion|214|['2140', '2141', '2147', '2148']|['anthony mann', 'john krasinski', 'the great flamarion', 'the hollars']|True
+2wiki:216|Are both villages, Mavrolithari and Ampelakia, Evros, located in the same country?|yes|216|['2162', '2166']|['ampelakia evros', 'mavrolithari']|True
+2wiki:217|Where was the place of death of the director of film Kathputli (1971 Film)?|Bombay|217|['2174', '2175']|['brij sadanah', 'kathputli 1971 film']|True
+2wiki:219|Where was the place of death of Suzanne Farrington's mother?|London|219|['2194', '2196']|['suzanne farrington', 'vivien leigh']|True
+2wiki:220|What nationality is the director of film Name The Man?|Swedish|220|['2203', '2206']|['name the man', 'victor sjöström']|True
+2wiki:222|What is the place of birth of the director of film Aurora (2018 Film)?|Davao|222|['2220', '2227']|['aurora 2018 film', 'yam laranas']|True
+2wiki:223|Which film has the director born later, Befikre or American Sniper?|Befikre|223|['2232', '2235', '2237', '2239']|['aditya chopra', 'american sniper', 'befikre', 'clint eastwood']|True
+2wiki:224|When is Prince Napoléon Bonaparte's father's birthday?|15 November 1784|224|['2242', '2244']|['jérôme bonaparte', 'prince napoléon bonaparte']|True
+2wiki:225|Which film was released more recently, Toolbox Murders or I Met You In Naples?|Toolbox Murders|225|['2251', '2256']|['i met you in naples', 'toolbox murders']|True
+2wiki:226|Where was the place of death of the composer of song How Long Has This Been Going On??|Hollywood|226|['2261', '2268']|['george gershwin', 'how long has this been going on']|True
+2wiki:227|Which film has the director died earlier, Youngblood Hawke (Film) or Crook'S Tour?|Crook'S Tour|227|['2271', '2273', '2277', '2279']|['crook s tour', 'delmer daves', 'john baxter director', 'youngblood hawke film']|True
+2wiki:228|Where did William S. Burroughs Jr.'s father study?|Harvard|228|['2284', '2289']|['william s burroughs', 'william s burroughs jr']|True
+2wiki:229|Which film has the director who was born earlier, Circus Beely or Tom, Dick And Harry 2?|Circus Beely|229|['2290', '2294', '2296', '2299']|['circus beely', 'deepak tijori', 'harry piel', 'tom dick and harry 2']|True
+2wiki:230|Who is the maternal grandmother of Felipe De Marichalar Y Borbón?|Queen Sofía of Spain|230|['2302', '2306']|['felipe de marichalar y borbón', 'infanta elena duchess of lugo']|True
+2wiki:231|Are the directors of both films The Fall Of A Saint and Fighting Through from the same country?|no|231|['2311', '2315', '2316', '2318']|['christy cabanne', 'fighting through', 'the fall of a saint', 'w p kellino']|True
+2wiki:232|Which country Natalie Portman's husband is from?|French|232|['2324', '2329']|['benjamin millepied', 'natalie portman']|True
+2wiki:233|Who is the father-in-law of Tsandzile Ndwandwe?|Ndvungunye|233|['2332', '2336']|['sobhuza i', 'tsandzile ndwandwe']|True
+2wiki:234|Which film has the director born earlier, Mister Scarface or Waking Sleeping Beauty?|Mister Scarface|234|['2340', '2345', '2346', '2347']|['don hahn', 'fernando di leo', 'mister scarface', 'waking sleeping beauty']|True
+2wiki:236|Who is the paternal grandfather of Richard Beauchamp, 1St Earl Of Worcester?|Thomas de Beauchamp|236|['2366', '2368']|['richard beauchamp 1st earl of worcester', 'william beauchamp 1st baron bergavenny']|True
+2wiki:238|Which film has the director born later, Diary Of A Maniac or Return Of The Hero?|Return Of The Hero|238|['2380', '2384', '2385', '2388']|['diary of a maniac', 'laurent tirard', 'marco ferreri', 'return of the hero']|True
+2wiki:239|Where was the father of Augustus William, Duke Of Brunswick-Bevern born?|Osterholz|239|['2393', '2395']|['augustus william duke of brunswick bevern', 'ernest ferdinand duke of brunswick lüneburg']|True
+2wiki:240|Who is the mother-in-law of Lollia Paulina?|Agrippina the Elder|240|['2402', '2405']|['caligula', 'lollia paulina']|True
+2wiki:241|Which film was released more recently, Gaza Ghetto or Kull The Conqueror?|Kull The Conqueror|241|['2412', '2417']|['gaza ghetto', 'kull the conqueror']|True
+2wiki:242|Who was born earlier, Raúl Osorio or James B. Harris?|James B. Harris|242|['2424', '2427']|['james b harris', 'raúl osorio']|True
+2wiki:243|When was the company that published Woman'S Century founded?|October 27, 1893|243|['2438', '2439']|['national council of women of canada', 'woman s century']|True
+2wiki:245|Which film has the director who died earlier, Deuce High or The King Is The Best Mayor?|The King Is The Best Mayor|245|['2451', '2452', '2456', '2457']|['deuce high', 'rafael gil', 'richard thorpe', 'the king is the best mayor']|True
+2wiki:246|Which film was released earlier, Premium (Film) or Week-End With Father?|Week-End With Father|246|['2463', '2467']|['premium film', 'week end with father']|True
+2wiki:248|Are both Țerova and Slava (River) located in the same country?|yes|248|['2486', '2489']|['slava river', 'țerova']|True
+2wiki:249|Are Graduate University Of Advanced Technology and Fruita Schoolhouse located in the same country?|no|249|['2490', '2493']|['fruita schoolhouse', 'graduate university of advanced technology']|True
+2wiki:250|Who is the paternal grandmother of Prince William Of Hesse-Kassel?|Princess Mary of Great Britain|250|['2502', '2509']|['prince frederick of hesse kassel', 'prince william of hesse kassel']|True
+2wiki:251|Where did the presenter of Tim Russert (Talk Show) die?|Washington|251|['2516', '2517']|['tim russert', 'tim russert talk show']|True
+2wiki:252|Which film has the director who died earlier, 11 Harrowhouse or A Little Sister Of Everybody?|A Little Sister Of Everybody|252|['2521', '2523', '2524', '2529']|['11 harrowhouse', 'a little sister of everybody', 'aram avakian', 'robert thornby']|True
+2wiki:253|What is the place of birth of the director of film The Last Horror Movie?|Newport|253|['2531', '2533']|['julian richards director', 'the last horror movie']|True
+2wiki:255|Which film has the director who is older, The Girl King or Happy As The Grass Was Green?|Happy As The Grass Was Green|255|['2553', '2555', '2557', '2558']|['charles davis actor', 'happy as the grass was green', 'mika kaurismäki', 'the girl king']|True
+2wiki:257|Where does the director of film Ghost In The Machine (Film) work at?|University of British Columbia|257|['2570', '2579']|['ghost in the machine film', 'rachel talalay']|True
+2wiki:258|Are Elsah, Illinois and Chah-E Puzeh, Tabas both located in the same country?|no|258|['2583', '2584']|['chah e puzeh tabas', 'elsah illinois']|True
+2wiki:262|Who lived longer, Csaba Pálinkás or Henry Scheffé?|Henry Scheffé|262|['2626', '2629']|['csaba pálinkás', 'henry scheffé']|True
+2wiki:263|Which film was released more recently, Pirates Of The Prairie or Alien Origin?|Alien Origin|263|['2636', '2638']|['alien origin', 'pirates of the prairie']|True
+2wiki:264|Who is the mother of Edward I Of England?|Eleanor of Provence|264|['2642', '2648']|['edward i of england', 'henry iii of england']|True
+2wiki:266|Which album came out first, Issa Album or 3.2.1.?|3.2.1.|266|['2660', '2664']|['3 2 1', 'issa album']|True
+2wiki:267|Who is Sancho Ramírez's maternal grandfather?|Bernard-Roger, Count of Bigorre|267|['2670', '2678']|['ermesinda of bigorre', 'sancho ramírez']|True
+2wiki:268|Which film was released earlier, New Jersey Drive or It Happened At The World'S Fair?|It Happened At The World'S Fair|268|['2686', '2687']|['it happened at the world s fair', 'new jersey drive']|True
+2wiki:269|Who is the spouse of the performer of song Lolita (Leah Labelle Song)?|Rasual Butler|269|['2690', '2694']|['leah labelle', 'lolita leah labelle song']|True
+2wiki:270|Do director of film Winter Meeting and director of film Year Of The Horse have the same nationality?|no|270|['2701', '2703', '2707', '2709']|['bretaigne windust', 'jim jarmusch', 'winter meeting', 'year of the horse']|True
+2wiki:271|Where does Chris Warren (Rugby League)'s father work at?|Nine Network|271|['2712', '2713']|['chris warren rugby league', 'ray warren']|True
+2wiki:272|Where did Davey Boy Smith Jr.'s mother study?|Stampede Wrestling|272|['2720', '2728']|['davey boy smith jr', 'diana hart']|True
+2wiki:273|Which country Thomas Lyon-Bowes, Lord Glamis's father is from?|British|273|['2733', '2737']|['thomas lyon bowes 11th earl of strathmore and kinghorne', 'thomas lyon bowes lord glamis']|True
+2wiki:274|What nationality is the performer of song Adore You (Jessie Ware Song)?|United Kingdom|274|['2742', '2749']|['adore you jessie ware song', 'jessie ware']|True
+2wiki:276|Which film has the director born earlier, Spring Storms or Fun In The Barracks?|Fun In The Barracks|276|['2764', '2766', '2768', '2769']|['fern andra', 'fun in the barracks', 'maurice tourneur', 'spring storms']|True
+2wiki:278|Which film was released earlier, Anna-Liisa or Children Underground?|Anna-Liisa|278|['2786', '2787']|['anna liisa', 'children underground']|True
+2wiki:279|Are Arnold Palmer Regional Airport and Luis Muñoz Marín International Airport located in the same country?|yes|279|['2790', '2792']|['arnold palmer regional airport', 'luis muñoz marín international airport']|True
+2wiki:282|Where did Henry C. Lord's father graduate from?|Bowdoin College|282|['2821', '2825']|['henry c lord', 'nathan lord']|True
+2wiki:283|Which film whose director is younger, Uncharted Seas or Something Of Value?|Something Of Value|283|['2832', '2833', '2838', '2839']|['richard brooks', 'something of value', 'uncharted seas', 'wesley ruggles']|True
+2wiki:284|Which film has the director born later, My Own Private Idaho or Lucignolo?|Lucignolo|284|['2840', '2845', '2846', '2849']|['gus van sant', 'lucignolo', 'massimo ceccherini', 'my own private idaho']|True
+2wiki:285|What is the date of birth of Prince Bernhard Of Orange-Nassau, Van Vollenhoven's father?|April 30, 1939|285|['2850', '2853']|['pieter van vollenhoven', 'prince bernhard of orange nassau van vollenhoven']|True
+2wiki:286|Are the bands The Catheters and Dark At Dawn, from the same country?|no|286|['2864', '2865']|['dark at dawn', 'the catheters']|True
+2wiki:287|Who is the paternal grandmother of Ingegerd Olofsdotter Of Sweden?|Sigrid the Haughty|287|['2873', '2878']|['ingegerd olofsdotter of sweden', 'olof skötkonung']|True
+2wiki:288|Where was the place of death of the creator of Conan The Adventurer (1992 Tv Series)?|Cross Plains|288|['2882', '2883']|['conan the adventurer 1992 tv series', 'robert e howard']|True
+2wiki:290|Are The Man Who Knew Too Much (1956 Film) and Man On Wire both from the same country?|yes|290|['2905', '2907']|['man on wire', 'the man who knew too much 1956 film']|True
+2wiki:291|What is the place of birth of the director of film The Fj Holden?|Sydney, Australia|291|['2916', '2917']|['michael thornhill', 'the fj holden']|True
+2wiki:293|Where was the performer of song Step Into The Light (Myra Song) born?|California|293|['2930', '2939']|['myra singer', 'step into the light myra song']|True
+2wiki:295|Who is the paternal grandfather of Beatrice I, Abbess Of Quedlinburg?|Conrad II|295|['2951', '2957']|['beatrice i abbess of quedlinburg', 'henry iii holy roman emperor']|True
+2wiki:297|Where was the place of death of George Thomas Orlando Bridgeman's father?|Weston Park|297|['2970', '2977']|['george bridgeman 2nd earl of bradford', 'george thomas orlando bridgeman']|True
+2wiki:300|Who is younger, Nicolas Görtler or Michel De Salzmann?|Nicolas Görtler|300|['3001', '3006']|['michel de salzmann', 'nicolas görtler']|True
+2wiki:301|Which country Anthemiolus's father is from?|Roman Empire|301|['3010', '3019']|['anthemiolus', 'anthemius']|True
+2wiki:302|Where was the place of burial of the performer of song This Time (Waylon Jennings Song)?|Arizona|302|['3026', '3028']|['this time waylon jennings song', 'waylon jennings']|True
+2wiki:303|Who is Charles D'Orléans, Duke Of Penthièvre's paternal grandfather?|Louis Philippe II, Duke of Orléans|303|['3030', '3033']|['charles d orléans duke of penthièvre', 'louis philippe i']|True
+2wiki:304|Which film has the director who is older than the other, Judy Berlin or Tonight At Twelve?|Tonight At Twelve|304|['3041', '3042', '3043', '3049']|['eric mendelsohn', 'harry a pollard', 'judy berlin', 'tonight at twelve']|True
+2wiki:305|What nationality is Ferdinand Of Portugal, Duke Of Guarda's mother?|Spanish|305|['3052', '3053']|['ferdinand of portugal duke of guarda', 'maria of aragon queen of portugal']|True
+2wiki:306|Did the movies Passer L'Hiver and In My Skin, originate from the same country?|yes|306|['3060', '3062']|['in my skin', 'passer l hiver']|True
+2wiki:308|Which film has the director who was born first, Ghost-Town Gold or The Musician Killer?|Ghost-Town Gold|308|['3080', '3081', '3087', '3088']|['benoît jacquot', 'ghost town gold', 'joseph kane', 'the musician killer']|True
+2wiki:311|Are both stations, Muzaffargarh Railway Station and Raisan Railway Station, located in the same country?|yes|311|['3111', '3113']|['muzaffargarh railway station', 'raisan railway station']|True
+2wiki:313|Who is younger, Bernard Chambaz or Tibor Pézsa?|Bernard Chambaz|313|['3132', '3137']|['bernard chambaz', 'tibor pézsa']|True
+2wiki:315|Which film has the director who was born first, The Ballad Of Gregorio Cortez or Naiyya?|The Ballad Of Gregorio Cortez|315|['3150', '3155', '3157', '3159']|['naiyya', 'prashanta nanda', 'robert m young director', 'the ballad of gregorio cortez']|True
+2wiki:316|Which film has the director who is older, The Boy Turns Man or A Strange Adventure?|A Strange Adventure|316|['3160', '3162', '3164', '3166']|['a strange adventure', 'lyudmil kirkov', 'the boy turns man', 'william witney']|True
+2wiki:317|Who is Joan, Countess Of Chiny's paternal grandfather?|Louis III, Count of Chiny|317|['3171', '3174']|['joan countess of chiny', 'louis iv count of chiny']|True
+2wiki:320|Which country Dexter Young's mother is from?|China|320|['3202', '3208']|['connie chan', 'dexter young']|True
+2wiki:322|Where was the performer of song Égérie (Song) born?|La Trinité|322|['3220', '3229']|['nekfeu', 'égérie song']|True
+2wiki:323|Who is Thomas Stafford, 3Rd Earl Of Stafford's father?|Hugh de Stafford, 2nd Earl of Stafford|323|['3231', '3236']|['philippa de beauchamp', 'thomas stafford 3rd earl of stafford']|True
+2wiki:324|What is the place of birth of the director of film Stopp! Tänk På Något Annat?|Västerås|324|['3245', '3247']|['stopp tänk på något annat', 'åke ohberg']|True
+2wiki:325|Who is the child of the director of film Lo Que Le Pasó A Reynoso?|Leopoldo Torre Nilsson|325|['3253', '3257']|['leopoldo torres ríos', 'lo que le pasó a reynoso']|True
+2wiki:326|Which film was released more recently, Circus Of Love or The Kiss Of Evil?|The Kiss Of Evil|326|['3261', '3263']|['circus of love', 'the kiss of evil']|True
+2wiki:329|Which film has the director born later, Under The Lantern or Darling Of The Gods?|Under The Lantern|329|['3292', '3294', '3295', '3298']|['darling of the gods', 'gerhard lamprecht', 'hanns schwarz', 'under the lantern']|True
+2wiki:330|Which film has the director who was born first, Slim Carter or Thendral Veesum?|Thendral Veesum|330|['3301', '3302', '3306', '3309']|['b s ranga', 'richard bartlett', 'slim carter', 'thendral veesum']|True
+2wiki:331|Which film has the director who died first, A Dream Or Two Ago or Why Leave Home??|A Dream Or Two Ago|331|['3311', '3314', '3315', '3318']|['a dream or two ago', 'james kirkwood sr', 'raymond cannon actor', 'why leave home']|True
+2wiki:333|Which film has the director died earlier, John Jaffer Janardhanan or Kamakalawa?|Kamakalawa|333|['3330', '3335', '3337', '3339']|['eddie romero', 'i v sasi', 'john jaffer janardhanan', 'kamakalawa']|True
+2wiki:334|Which film has the director died earlier, The Story Of Anastasia or A Mother Of Men?|A Mother Of Men|334|['3341', '3343', '3346', '3347']|['a mother of men', 'falk harnack', 'sidney olcott', 'the story of anastasia']|True
+2wiki:335|Which film was released more recently, Occupation: Dreamland or Ganga Bhavani?|Occupation: Dreamland|335|['3350', '3355']|['ganga bhavani', 'occupation dreamland']|True
+2wiki:336|Who is Frederick Of Luxembourg's paternal grandfather?|Wigeric of Lotharingia|336|['3361', '3367']|['frederick of luxembourg', 'sigfried count of the ardennes']|True
+2wiki:337|Who is the father of the director of film Mirage (1972 Film)?|Daniel Alomía Robles|337|['3370', '3376']|['armando robles godoy', 'mirage 1972 film']|True
+2wiki:338|Where did Claudio Silva (Computer Scientist)'s wife graduate from?|Stony Brook University|338|['3386', '3387']|['claudio silva computer scientist', 'juliana freire']|True
+2wiki:339|Which film has the director born first, Spione or Five Million Look For An Heir?|Five Million Look For An Heir|339|['3391', '3392', '3394', '3397']|['carl boese', 'five million look for an heir', 'fritz lang', 'spione']|True
+2wiki:340|Which film was released earlier, Man'S Search For Happiness or Tell It To The Bees?|Man'S Search For Happiness|340|['3400', '3408']|['man s search for happiness', 'tell it to the bees']|True
+2wiki:341|Which film has the director born first, La Mazurka Del Barone, Della Santa E Del Fico Fiorone or Safe (2012 Film)?|La Mazurka Del Barone, Della Santa E Del Fico Fiorone|341|['3410', '3413', '3417', '3419']|['boaz yakin', 'la mazurka del barone della santa e del fico fiorone', 'pupi avati', 'safe 2012 film']|True
+2wiki:342|Who lived longer, Antonio Caggiano or Hardyal Singh?|Antonio Caggiano|342|['3425', '3428']|['antonio caggiano', 'hardyal singh']|True
+2wiki:343|What is the place of birth of the director of film A Woman'S Face (1938 Film)?|Helsingfors|343|['3436', '3437']|['a woman s face 1938 film', 'gustaf molander']|True
+2wiki:344|Where did the composer of film The Merry Monahans die?|Studio City|344|['3441', '3447']|['hans j salter', 'the merry monahans']|True
+2wiki:345|Which school was opened first, Chopasni Senior Secondary School, Jodhpur or Tunku Putra School?|Chopasni Senior Secondary School, Jodhpur|345|['3451', '3457']|['chopasni senior secondary school jodhpur', 'tunku putra school']|True
+2wiki:347|Which film has the director who was born earlier, Retalhos Da Vida De Um Médico or The Shooting?|Retalhos Da Vida De Um Médico|347|['3472', '3473', '3477', '3479']|['jorge brum do canto', 'monte hellman', 'retalhos da vida de um médico', 'the shooting']|True
+2wiki:348|Are Blurt (Magazine) and Maui Nō Ka ʻOi Magazine from the same country?|yes|348|['3485', '3486']|['blurt magazine', 'maui nō ka ʻoi magazine']|True
+2wiki:349|Who is the paternal grandfather of John Ii Of Baden?|Bernard I, Margrave of Baden-Baden|349|['3490', '3491']|['jacob margrave of baden baden', 'john ii of baden']|True
+2wiki:350|Which film came out first, Ami Neta Hobo or Hood Of The Living Dead?|Hood Of The Living Dead|350|['3503', '3505']|['ami neta hobo', 'hood of the living dead']|True
+2wiki:352|Who is the spouse of the director of film My Three Merry Widows?|Mapy Cortés|352|['3521', '3524']|['fernando cortés', 'my three merry widows']|True
+2wiki:353|Where did Meritaten's father die?|Akhetaten|353|['3531', '3538']|['akhenaten', 'meritaten']|True
+2wiki:354|Who is the paternal grandmother of Edward I Of England?|Isabella of Angoulême|354|['3545', '3546']|['edward i of england', 'henry iii of england']|True
+2wiki:356|Who is Germaine Of Foix's paternal grandfather?|Gaston IV of Foix|356|['3561', '3563']|['germaine of foix', 'john of foix viscount of narbonne']|True
+2wiki:357|Which film has the director who died earlier, Gold For The Caesars or Heinz In The Moon?|Heinz In The Moon|357|['3572', '3574', '3576', '3577']|['andre detoth', 'gold for the caesars', 'heinz in the moon', 'robert a stemmle']|True
+2wiki:358|Which film has the director born later, Monsieur Taxi or A Yiddish World Remembered?|A Yiddish World Remembered|358|['3580', '3584', '3586', '3589']|['a yiddish world remembered', 'andrew goldberg director', 'andré hunebelle', 'monsieur taxi']|True
+2wiki:359|What is the date of death of the director of film Escándalo De Estrellas?|August 7, 2004|359|['3597', '3599']|['escándalo de estrellas', 'ismael rodríguez']|True
+2wiki:360|Which film has the director born first, Trouble With Jolanthe or Children Of Fortune?|Trouble With Jolanthe|360|['3602', '3603', '3607', '3608']|['alexander esway', 'carl froelich', 'children of fortune', 'trouble with jolanthe']|True
+2wiki:362|Which film whose director is younger, Roland The Mighty or Graves Without A Name?|Graves Without A Name|362|['3620', '3623', '3624', '3628']|['graves without a name', 'pietro francisci', 'rithy panh', 'roland the mighty']|True
+2wiki:364|Which film has the director who is older, When You'Re Strange or Vzdušné Torpédo 48?|Vzdušné Torpédo 48|364|['3641', '3646', '3647', '3648']|['miroslav cikán', 'tom dicillo', 'vzdušné torpédo 48', 'when you re strange']|True
+2wiki:366|Which film was released first, Taxi Zum Klo or Saajan Bina Suhagan?|Saajan Bina Suhagan|366|['3661', '3663']|['saajan bina suhagan', 'taxi zum klo']|True
+2wiki:367|Which film has the director born first, Şaban, Son Of Şaban or East/West?|Şaban, Son Of Şaban|367|['3672', '3676', '3678', '3679']|['east west', 'ertem eğilmez', 'régis wargnier', 'şaban son of şaban']|True
+2wiki:368|Where did George Lane-Fox (Mp)'s father study?|Christ's College, Cambridge|368|['3683', '3685']|['george lane fox mp', 'james fox lane']|True
+2wiki:369|Which film has the director born first, Stella'S Oorlog or Don Juan In A Girls' School?|Don Juan In A Girls' School|369|['3690', '3691', '3695', '3697']|['diederik van rooijen', 'don juan in a girls school', 'reinhold schünzel', 'stella s oorlog']|True
+2wiki:372|Which film came out first, My Wife'S Lodger or Ko 2?|My Wife'S Lodger|372|['3721', '3723']|['ko 2', 'my wife s lodger']|True
+2wiki:373|Which film has the director born later, Allos Gia To Ekatommyrio or Elvira'S Haunted Hills?|Elvira'S Haunted Hills|373|['3730', '3731', '3735', '3738']|['allos gia to ekatommyrio', 'elvira s haunted hills', 'orestis laskos', 'sam irvin']|True
+2wiki:374|Who is the uncle of Catherine Allégret?|Marc Allégret|374|['3748', '3749']|['catherine allégret', 'yves allégret']|True
+2wiki:375|Who is the paternal grandfather of George De Salis?|Jerome, 4th Count de Salis-Soglio|375|['3750', '3755']|['george de salis', 'leopold fane de salis']|True
+2wiki:376|What is the date of death of Catherine Of Guelders's father?|23 February 1473|376|['3760', '3765']|['arnold duke of guelders', 'catherine of guelders']|True
+2wiki:378|What is the place of birth of the director of film Operation Secret?|New York|378|['3783', '3785']|['lewis seiler', 'operation secret']|True
+2wiki:379|Who was born first out of Alexey Volkonsky and Wanderley Oliveira?|Wanderley Oliveira|379|['3792', '3796']|['alexey volkonsky', 'wanderley oliveira']|True
+2wiki:380|Where did Bianca Riario's father die?|Forlì|380|['3806', '3807']|['bianca riario', 'girolamo riario']|True
+2wiki:381|Where was the director of film Bollywood Calling born?|Hyderabad|381|['3812', '3816']|['bollywood calling', 'nagesh kukunoor']|True
+2wiki:383|Which film has the director born earlier, Idols Of The Radio or Solos En La Madrugada?|Idols Of The Radio|383|['3831', '3836', '3838', '3839']|['eduardo morera', 'idols of the radio', 'josé luis garci', 'solos en la madrugada']|True
+2wiki:384|Who is the mother of the performer of song Feel Good (Robin Thicke Song)?|Gloria Loring|384|['3842', '3849']|['feel good robin thicke song', 'robin thicke']|True
+2wiki:385|Where did Tamara Imeretinsky's father graduate from?|Lancing College|385|['3850', '3852']|['michael imeretinsky', 'tamara imeretinsky']|True
+2wiki:386|Who died first, Louis-René De Caradeuc De La Chalotais or Hermann Friedrich Graebe?|Louis-René De Caradeuc De La Chalotais|386|['3861', '3869']|['hermann friedrich graebe', 'louis rené de caradeuc de la chalotais']|True
+2wiki:387|Where was the place of death of James Adam (Architect)'s father?|Edinburgh|387|['3871', '3874']|['james adam architect', 'william adam architect']|True
+2wiki:388|Where did Edmund Tudor, 1St Earl Of Richmond's wife graduate from?|St John's College|388|['3886', '3887']|['edmund tudor 1st earl of richmond', 'lady margaret beaufort']|True
+2wiki:389|Which film was released more recently, Aami or Bitch Slap?|Aami|389|['3891', '3898']|['aami', 'bitch slap']|True
+2wiki:390|Who is Busba Kitiyakara's paternal grandfather?|Kitiyakara Voralaksana|390|['3901', '3902']|['busba kitiyakara', 'nakkhatra mangala']|True
+2wiki:391|Who is the father of the director of film Ae Dil Hai Mushkil?|Yash Johar|391|['3915', '3919']|['ae dil hai mushkil', 'karan johar']|True
+2wiki:392|Who was born first out of Ramsay Anderson and Fernand Fédronic?|Ramsay Anderson|392|['3923', '3924']|['fernand fédronic', 'ramsay anderson']|True
+2wiki:393|Are the directors of films Scuola Di Ladri and Pensione Paura both from the same country?|yes|393|['3930', '3931', '3937', '3939']|['francesco barilli', 'neri parenti', 'pensione paura', 'scuola di ladri']|True
+2wiki:394|What is the place of birth of the director of film Dawn Of Life?|San Juan, Puerto Rico|394|['3944', '3949']|['dawn of life', 'fernando cortés']|True
+2wiki:395|Where was the husband of Jeanne Raunay born?|Évreux|395|['3950', '3953']|['andré beaunier', 'jeanne raunay']|True
+2wiki:396|Are the directors of films The Edifying And Joyous Story Of Colinot and Cold Moon both from the same country?|yes|396|['3961', '3964', '3968', '3969']|['cold moon', 'nina companeez', 'patrick bouchitey', 'the edifying and joyous story of colinot']|True
+2wiki:397|What is the place of birth of the performer of song Pluto (Song)?|Reykjavík|397|['3970', '3971']|['björk', 'pluto song']|True
+2wiki:398|What is the place of birth of Princess Margaretha Of Saxony's mother?|Munich|398|['3980', '3986']|['amalie auguste of bavaria', 'princess margaretha of saxony']|True
+2wiki:399|Who is the spouse of the director of film West Of Shanghai?|Maureen O'Sullivan|399|['3992', '3993']|['john farrow', 'west of shanghai']|True
+2wiki:400|Do director of film Jerry And Tom and director of film Kansas City Princess share the same nationality?|no|400|['4000', '4001', '4002', '4005']|['jerry and tom', 'kansas city princess', 'saul rubinek', 'william keighley']|True
+2wiki:401|Which film was released earlier, Amelie Or The Time To Love or Beginners?|Amelie Or The Time To Love|401|['4010', '4017']|['amelie or the time to love', 'beginners']|True
+2wiki:402|What is the cause of death of composer of song Look At Me (Xxxtentacion Song)?|shot|402|['4027', '4028']|['look at me xxxtentacion song', 'xxxtentacion']|True
+2wiki:403|Which film came out first, Natürlich Die Nelli or Cairo Declaration (Film)?|Natürlich Die Nelli|403|['4030', '4032']|['cairo declaration film', 'natürlich die nelli']|True
+2wiki:404|Who is Constantine Palaiologos (Son Of Andronikos Ii)'s maternal grandmother?|Elizabeth the Cuman|404|['4043', '4046']|['anna of hungary byzantine empress', 'constantine palaiologos son of andronikos ii']|True
+2wiki:405|Where was the performer of song Lucky Me, Lucky You born?|Abilene|405|['4050', '4054']|['lee roy parnell', 'lucky me lucky you']|True
+2wiki:406|What is the place of birth of the creator of Miss Seventeen?|Tehran|406|['4063', '4068']|['atoosa rubenstein', 'miss seventeen']|True
+2wiki:407|Who is the mother of the director of film Brenda Brave?|Käbi Laretei|407|['4074', '4079']|['brenda brave', 'daniel bergman']|True
+2wiki:409|Who is Wisigard's father-in-law?|Theuderic I|409|['4092', '4096']|['theudebert i', 'wisigard']|True
+2wiki:410|Where was the place of death of Duchess Maria Dorothea Of Württemberg's father?|Kirchheim unter Teck|410|['4102', '4109']|['duchess maria dorothea of württemberg', 'duke louis of württemberg']|True
+2wiki:412|Where was the director of film Gently My Songs Entreat born?|Viennese|412|['4123', '4124']|['gently my songs entreat', 'willi forst']|True
+2wiki:413|What is the cause of death of Eleanor De Clare's husband?|hanged, drawn and quartered|413|['4135', '4139']|['eleanor de clare', 'hugh despenser the younger']|True
+2wiki:414|What is the cause of death of performer of song Voi Voi?|illness|414|['4143', '4146']|['nora brockstedt', 'voi voi']|True
+2wiki:415|Which film has the director died first, Resan Till Dej or Rocking Moon?|Rocking Moon|415|['4152', '4153', '4158', '4159']|['george melford', 'resan till dej', 'rocking moon', 'stig olin']|True
+2wiki:416|Which film has the director born later, Christ Walking On The Water or 45 Fathers?|45 Fathers|416|['4162', '4163', '4165', '4166']|['45 fathers', 'christ walking on the water', 'georges méliès', 'james tinling']|True
+2wiki:417|Are both directors of films Breslin And Hamill: Deadline Artists and Jean The Tenant from the same country?|yes|417|['4175', '4177', '4178', '4179']|['breslin and hamill deadline artists', 'jean the tenant', 'john block filmmaker', 'michael curtiz']|True
+2wiki:418|Are Bal Vidyalaya (Kota) and Loreto House both located in the same country?|yes|418|['4182', '4183']|['bal vidyalaya kota', 'loreto house']|True
+2wiki:419|When did Engelbert, Count Of Nevers's mother die?|21 June 1483|419|['4193', '4198']|['elizabeth of nevers', 'engelbert count of nevers']|True
+2wiki:420|Which film has the director died later, Excursion Train or Bad Day At Black Rock?|Bad Day At Black Rock|420|['4200', '4202', '4204', '4207']|['bad day at black rock', 'excursion train', 'john sturges', 'léo joannon']|True
+2wiki:421|Which film has the director who died later, Emanuelle And The Last Cannibals or Hostile Country?|Emanuelle And The Last Cannibals|421|['4214', '4216', '4217', '4218']|['emanuelle and the last cannibals', 'hostile country', 'joe d amato', 'thomas carr director']|True
+2wiki:422|Which film has the director died later, Just Like A Woman (1939 Film) or Madigan'S Millions?|Madigan'S Millions|422|['4221', '4222', '4227', '4228']|['just like a woman 1939 film', 'madigan s millions', 'paul l stein', 'stanley prager']|True
+2wiki:423|Why did the performer of song Ludlow Massacre (Song) die?|Huntington's disease|423|['4236', '4237']|['ludlow massacre song', 'woody guthrie']|True
+2wiki:424|Which film has the director who died later, Cooee And The Echo or Sweepings?|Sweepings|424|['4240', '4242', '4246', '4249']|['alfred rolfe director', 'cooee and the echo', 'john cromwell director', 'sweepings']|True
+2wiki:426|Where was the director of film Slingshot (Film) born?|Suffield, Connecticut|426|['4260', '4266']|['jay alaimo', 'slingshot film']|True
+2wiki:427|Which film has the director who was born first, I Come With The Rain or A Question Of Attribution?|A Question Of Attribution|427|['4270', '4272', '4273', '4276']|['a question of attribution', 'i come with the rain', 'john schlesinger', 'tran anh hung']|True
+2wiki:428|Are Coal City, Illinois and Lash Kenar, Nur both located in the same country?|no|428|['4284', '4289']|['coal city illinois', 'lash kenar nur']|True
+2wiki:430|What nationality is Florent Of Hainaut's mother?|Germany|430|['4306', '4309']|['adelaide of holland', 'florent of hainaut']|True
+2wiki:431|Where was the director of film The Love Captive born?|Poznań|431|['4313', '4314']|['max marcin', 'the love captive']|True
+2wiki:433|Who is the spouse of the director of film Noc Nevěsty?|Alena Mihulová|433|['4335', '4339']|['karel kachyňa', 'noc nevěsty']|True
+2wiki:434|Which film has the director who died later, The Death Kiss or Her Luck In London?|Her Luck In London|434|['4342', '4345', '4348', '4349']|['edwin l marin', 'her luck in london', 'maurice elvey', 'the death kiss']|True
+2wiki:435|Which film whose director is younger, The Devil'S Pass Key or La Bella Di Lodi?|La Bella Di Lodi|435|['4354', '4355', '4357', '4358']|['erich von stroheim', 'la bella di lodi', 'mario missiroli', 'the devil s pass key']|True
+2wiki:437|Which film has the director who is older, Johnny Concho or One Minute To Twelve?|One Minute To Twelve|437|['4370', '4373', '4374', '4376']|['don mcguire actor', 'johnny concho', 'nunzio malasomma', 'one minute to twelve']|True
+2wiki:438|Which album came out earlier, Was I The Wave? or Kingdom Of Rock?|Was I The Wave?|438|['4380', '4385']|['kingdom of rock', 'was i the wave']|True
+2wiki:440|Where did the director of film The Gallant Lords Of Bois-Doré die?|Paris|440|['4403', '4408']|['bernard borderie', 'the gallant lords of bois doré']|True
+2wiki:441|Which film came out earlier, It'S Our Life! or Maximum Ride (Film)?|It'S Our Life!|441|['4410', '4417']|['it s our life', 'maximum ride film']|True
+2wiki:442|Where did the director of film The Boy Who Cried Werewolf (1973 Film) die?|Palos Verdes|442|['4425', '4428']|['nathan juran', 'the boy who cried werewolf 1973 film']|True
+2wiki:443|Where was the director of film Los Motivos De Luz born?|France|443|['4435', '4436']|['felipe cazals', 'los motivos de luz']|True
+2wiki:444|Where was the performer of song Fast Car (Namie Amuro Song) born?|Naha, Okinawa|444|['4442', '4445']|['fast car namie amuro song', 'namie amuro']|True
+2wiki:446|Where was the director of film En Aasai Rasave born?|Theni|446|['4463', '4468']|['en aasai rasave', 'kasthuri raja']|True
+2wiki:447|Where was the director of film High (Film) born?|Johannesburg, South Africa|447|['4474', '4476']|['high film', 'larry kent filmmaker']|True
+2wiki:448|Where was the place of death of Ginevra D'Este's husband?|Rimini|448|['4488', '4489']|['ginevra d este', 'sigismondo pandolfo malatesta']|True
+2wiki:449|What is the place of birth of the director of film Tři Chlapi V Chalupě?|Prostějov|449|['4493', '4499']|['josef mach', 'tři chlapi v chalupě']|True
+2wiki:450|Who died first, Olaf Everson or Abdul Wahab Khan Tarzi?|Abdul Wahab Khan Tarzi|450|['4506', '4509']|['abdul wahab khan tarzi', 'olaf everson']|True
+2wiki:452|Who died later, Stephen De Staebler or Samuel Arthur Saunder?|Stephen De Staebler|452|['4524', '4526']|['samuel arthur saunder', 'stephen de staebler']|True
+2wiki:453|Where was the husband of Esperanza Osmeña born?|Cebu|453|['4530', '4533']|['esperanza osmeña', 'sergio osmeña']|True
+2wiki:454|Where was the place of death of the director of film Scugnizzi?|Rome|454|['4542', '4544']|['nanni loy', 'scugnizzi']|True
+2wiki:455|Which film has the director who was born later, The Daughter Of Rosie O'Grady or The Whistle (Film)?|The Daughter Of Rosie O'Grady|455|['4554', '4557', '4558', '4559']|['david butler director', 'lambert hillyer', 'the daughter of rosie o grady', 'the whistle film']|True
+2wiki:456|Do both films Happiness Of Three Women and Percy (1925 Film) have the directors from the same country?|yes|456|['4560', '4561', '4566', '4569']|['happiness of three women', 'percy 1925 film', 'roy william neill', 'william desmond taylor']|True
+2wiki:457|Which film has the director who was born earlier, Invasion 1897 or Nene Raju Nene Mantri?|Nene Raju Nene Mantri|457|['4570', '4572', '4578', '4579']|['invasion 1897', 'lancelot oduwa imasuen', 'nene raju nene mantri', 'teja director']|True
+2wiki:458|Who did Joan Ramon Ii, Count Of Cardona marry?|Joana de Prades|458|['4582', '4589']|['joan ramon ii count of cardona', 'john ramon iii count of cardona']|True
+2wiki:459|Who is the paternal grandmother of Sudeley Hanbury-Tracy, 3Rd Baron Sudeley?|Henrietta Susanna Tracy|459|['4592', '4597']|['sudeley hanbury tracy 3rd baron sudeley', 'thomas hanbury tracy 2nd baron sudeley']|True
+2wiki:460|Which album was released more recently, The Arockalypse or Because The Internet?|Because The Internet|460|['4601', '4606']|['because the internet', 'the arockalypse']|True
+2wiki:461|Are the movies On A Clear Day You Can See Forever (Film) and Education Of A Prince, from the same country?|no|461|['4615', '4619']|['education of a prince', 'on a clear day you can see forever film']|True
+2wiki:463|Where did the director of film Music In Darkness die?|Fårö|463|['4630', '4639']|['ingmar bergman', 'music in darkness']|True
+2wiki:464|Which country Aleksander Koniecpolski (1620–1659)'s father is from?|Polish-Lithuanian Commonwealth|464|['4644', '4646']|['aleksander koniecpolski 1620 1659', 'stanisław koniecpolski']|True
+2wiki:465|Who is Archibald Acheson, 4Th Earl Of Gosford's paternal grandfather?|Archibald Acheson, 2nd Earl of Gosford|465|['4654', '4657']|['archibald acheson 3rd earl of gosford', 'archibald acheson 4th earl of gosford']|True
+2wiki:466|Which film was released more recently, The First Seven Years or Cinesound Varieties?|Cinesound Varieties|466|['4661', '4665']|['cinesound varieties', 'the first seven years']|True
+2wiki:467|Where was the place of death of William De Warenne, 2Nd Earl Of Surrey's father?|Lewes|467|['4672', '4673']|['william de warenne 1st earl of surrey', 'william de warenne 2nd earl of surrey']|True
+2wiki:468|What is the place of birth of the director of film I Love, You Love?|Bratislava|468|['4681', '4689']|['dušan hanák', 'i love you love']|True
+2wiki:469|Do director of film Coteau Rouge and director of film Hochelaga, Land Of Souls share the same nationality?|yes|469|['4691', '4693', '4695', '4699']|['andré forcier', 'coteau rouge', 'françois girard', 'hochelaga land of souls']|True
+2wiki:470|Where did the director of film Don Juan (1922 Film) die?|Westerland|470|['4705', '4709']|['albert heine', 'don juan 1922 film']|True
+2wiki:471|Where was the performer of song I See You (Theme From Avatar) born?|London|471|['4716', '4718']|['i see you theme from avatar', 'leona lewis']|True
+2wiki:472|Who is the maternal grandmother of Archduchess Elisabeth Of Austria (1922–1993)?|Infanta Maria Antonia of Portugal|472|['4720', '4729']|['archduchess elisabeth of austria 1922 1993', 'zita of bourbon parma']|True
+2wiki:473|Which film was released more recently, Royal Treasure or When Love Begins?|Royal Treasure|473|['4732', '4735']|['royal treasure', 'when love begins']|True
+2wiki:474|Who is Albert Iv, Prince Of Anhalt-Köthen's paternal grandfather?|Albert II, Prince of Anhalt-Zerbst|474|['4741', '4748']|['albert iv prince of anhalt köthen', 'john ii prince of anhalt zerbst']|True
+2wiki:475|Which film has the director who was born later, Henry Goes Arizona or The Blue Collar Worker And The Hairdresser In A Whirl Of Sex And Politics?|The Blue Collar Worker And The Hairdresser In A Whirl Of Sex And Politics|475|['4750', '4753', '4756', '4758']|['edwin l marin', 'henry goes arizona', 'lina wertmüller', 'the blue collar worker and the hairdresser in a whirl of sex and politics']|True
+2wiki:476|Who is the father of the director of film Plunkett & Macleane?|Ridley Scott|476|['4762', '4766']|['jake scott director', 'plunkett macleane']|True
+2wiki:477|Who was born earlier, Ela Gandhi or Sebastián Borensztein?|Ela Gandhi|477|['4771', '4778']|['ela gandhi', 'sebastián borensztein']|True
+2wiki:478|Which film has the director who was born earlier, Red Sparrow or The Flying Liftboy?|The Flying Liftboy|478|['4781', '4783', '4788', '4789']|['ben sombogaart', 'francis lawrence', 'red sparrow', 'the flying liftboy']|True
+2wiki:480|Who is Wang Xijie's father-in-law?|Longqing|480|['4800', '4801']|['wang xijie', 'wanli emperor']|True
+2wiki:481|What nationality is the director of film Rise Above: The Tribe 8 Documentary?|United States|481|['4813', '4816']|['rise above the tribe 8 documentary', 'tracy flannigan']|True
+2wiki:482|Who was born first out of Overill Dwyer-Brown and Dragan Načevski?|Overill Dwyer-Brown|482|['4821', '4826']|['dragan načevski', 'overill dwyer brown']|True
+2wiki:483|Which country the director of film I See You (2006 Film) is from?|India|483|['4835', '4836']|['i see you 2006 film', 'vivek agrawal']|True
+2wiki:484|Who is Colgú Mac Faílbe Flaind's uncle?|Fíngen mac Áedo Duib|484|['4844', '4847']|['colgú mac faílbe flaind', 'faílbe flann mac áedo duib']|True
+2wiki:485|Which country Gilduin Of Le Puiset's father is from?|France|485|['4855', '4859']|['gilduin of le puiset', 'hugh i of le puiset']|True
+2wiki:487|Which film has the director born later, Feel My Pulse or Panique?|Panique|487|['4872', '4875', '4876', '4877']|['feel my pulse', 'gregory la cava', 'julien duvivier', 'panique']|True
+2wiki:488|Which film has the director who was born first, Hanuman Patal Vijay or Young And Dangerous: The Prequel?|Hanuman Patal Vijay|488|['4882', '4884', '4887', '4888']|['andrew lau', 'hanuman patal vijay', 'homi wadia', 'young and dangerous the prequel']|True
+2wiki:489|Which film was released first, Heaven Help Us or Ghar Ki Rani?|Ghar Ki Rani|489|['4890', '4898']|['ghar ki rani', 'heaven help us']|True
+2wiki:490|Which film has the director who died first, The Boss And The Worker or Claire'S Knee?|The Boss And The Worker|490|['4901', '4902', '4905', '4909']|['claire s knee', 'steno director', 'the boss and the worker', 'éric rohmer']|True
+2wiki:491|Who lived longer, Louis-Armand-Constantin De Rohan or Adalberto Pereira Dos Santos?|Adalberto Pereira Dos Santos|491|['4916', '4918']|['adalberto pereira dos santos', 'louis armand constantin de rohan']|True
+2wiki:492|Who is the mother-in-law of Gyrid Of Sweden?|Thyra|492|['4922', '4928']|['gyrid of sweden', 'harald bluetooth']|True
+2wiki:495|Do both films Fig Leaves and Boogeyman (Film) have the directors that share the same nationality?|no|495|['4952', '4953', '4954', '4955']|['boogeyman film', 'fig leaves', 'howard hawks', 'stephen kay']|True
+2wiki:496|Which film has the director who is older, Road To Singapore or Melodies Of Vera Quarter?|Road To Singapore|496|['4960', '4965', '4966', '4968']|['giorgi shengelaia', 'melodies of vera quarter', 'road to singapore', 'victor schertzinger']|True
+2wiki:497|Who is Prince Harald Of Schaumburg-Lippe's maternal grandfather?|Prince Harald of Denmark|497|['4975', '4977']|['prince harald of schaumburg lippe', 'princess feodora of denmark']|True
+2wiki:498|Where was the place of burial of Gjon Kastrioti Ii's father?|Lezhë|498|['4984', '4987']|['gjon kastrioti ii', 'skanderbeg']|True
+2wiki:500|Which film has the director who was born first, Piccoli Fuochi or The Nice Guys?|Piccoli Fuochi|500|['5000', '5005', '5006', '5007']|['peter del monte', 'piccoli fuochi', 'shane black', 'the nice guys']|True
+2wiki:501|Which film has the director who was born later, Playing It Wild or I'Ll Be Going Now?|I'Ll Be Going Now|501|['5011', '5016', '5017', '5018']|['dino risi', 'i ll be going now', 'playing it wild', 'william duncan actor']|True
+2wiki:502|Do both films, The Wild Frontier (Film) and The Sundowners (1960 Film), have the directors who are from the same country?|yes|502|['5022', '5026', '5027', '5028']|['fred zinnemann', 'philip ford film director', 'the sundowners 1960 film', 'the wild frontier film']|True
+2wiki:503|Which film has the director who was born later, Garde À Vue or Ivide Thudangunnu?|Garde À Vue|503|['5030', '5033', '5034', '5035']|['claude miller', 'garde à vue', 'ivide thudangunnu', 'j sasikumar']|True
+2wiki:504|What nationality is Matilda Of Frisia's husband?|France|504|['5040', '5049']|['henry i of france', 'matilda of frisia']|True
+2wiki:505|Who is Joan Of Valois, Duchess Of Alençon's maternal grandfather?|Charles VI of France|505|['5058', '5059']|['isabella of valois', 'joan of valois duchess of alençon']|True
+2wiki:506|Where was the mother of Emilie Hegh Arntzen born?|Oslo|506|['5062', '5064']|['emilie hegh arntzen', 'hanne hegh']|True
+2wiki:507|Which film was released earlier, Extreme Ops or Puberun?|Puberun|507|['5074', '5078']|['extreme ops', 'puberun']|True
+2wiki:508|Which film has the director died earlier, Dynamite Smith or A Son Of Satan?|Dynamite Smith|508|['5080', '5082', '5083', '5086']|['a son of satan', 'dynamite smith', 'oscar micheaux', 'ralph ince']|True
+2wiki:509|Which country the director of film West 32Nd is from?|American|509|['5093', '5097']|['michael kang director', 'west 32nd']|True
+2wiki:510|Who is Iynefer Ii's mother-in-law?|Meresankh II|510|['5106', '5107']|['iynefer ii', 'nefertkau iii']|True
+2wiki:511|Which film has the director who was born first, En Kvinde Er Overflødig or Aakrosh (2010 Film)?|En Kvinde Er Overflødig|511|['5111', '5115', '5118', '5119']|['aakrosh 2010 film', 'en kvinde er overflødig', 'gabriel axel', 'priyadarshan']|True
+2wiki:512|Who is Isma'Il Ibn Ja'Far's paternal grandmother?|Farwah bint al-Qasim|512|['5122', '5125']|['isma il ibn ja far', 'ja far al sadiq']|True
+2wiki:514|What is the place of birth of the director of film My Country'S Wings?|Valparaíso|514|['5142', '5146']|['carlos f borcosque', 'my country s wings']|True
+2wiki:515|Where was the keyboardist of Xyz (English Band) born?|Kingsbury, London|515|['5153', '5157']|['chris squire', 'xyz english band']|True
+2wiki:516|Where was the place of death of the director of film The Stone Rider?|Königstein im Taunus|516|['5160', '5169']|['fritz wendhausen', 'the stone rider']|True
+2wiki:517|When did Prince Gustav Of Thurn And Taxis (1848–1914)'s father die?|10 November 1871|517|['5171', '5175']|['maximilian karl 6th prince of thurn and taxis', 'prince gustav of thurn and taxis 1848 1914']|True
+2wiki:518|Which film was released more recently, A Scream From Silence or Das Spielzeug Von Paris?|A Scream From Silence|518|['5181', '5187']|['a scream from silence', 'das spielzeug von paris']|True
+2wiki:519|Where was the mother of Elizabeth Of Denmark, Electress Of Brandenburg born?|Torgau|519|['5192', '5196']|['christina of saxony', 'elizabeth of denmark electress of brandenburg']|True
+2wiki:520|Where was the director of film Aylwin (Film) born?|Weston-super-Mare, Somerset|520|['5200', '5208']|['aylwin film', 'henry edwards actor']|True
+2wiki:523|Where did the director of film Barracuda (1978 Film) study?|Florida Atlantic|523|['5234', '5237']|['barracuda 1978 film', 'wayne crawford']|True
+2wiki:524|Where was the husband of Lou Henry Hoover born?|West Branch, Iowa|524|['5245', '5247']|['herbert hoover', 'lou henry hoover']|True
+2wiki:525|What nationality is Julia Parker (Astrologer)'s husband?|British|525|['5257', '5259']|['derek parker', 'julia parker astrologer']|True
+2wiki:530|Who was born later, Bradley Tyler Johnson or Bernardo Freitas?|Bernardo Freitas|530|['5306', '5309']|['bernardo freitas', 'bradley tyler johnson']|True
+2wiki:531|Do both films A Trial In Prague and Three Strangers have the directors that share the same nationality?|yes|531|['5312', '5314', '5318', '5319']|['a trial in prague', 'jean negulesco', 'three strangers', 'zuzana justman']|True
+2wiki:532|Are Bilthoven and Herveld both located in the same country?|yes|532|['5324', '5327']|['bilthoven', 'herveld']|True
+2wiki:533|Which country the composer of song Seconds (Song) is from?|Irish|533|['5335', '5336']|['bono', 'seconds song']|True
+2wiki:535|Who is the spouse of the director of film På Solsiden?|Otto Carlmar|535|['5350', '5358']|['edith carlmar', 'på solsiden']|True
+2wiki:536|Which film has the director died later, Marriage In Name Only or Mille Chilometri Al Minuto!?|Marriage In Name Only|536|['5361', '5365', '5366', '5367']|['heinz paul', 'mario mattoli', 'marriage in name only', 'mille chilometri al minuto']|True
+2wiki:537|Who is the paternal grandfather of Yi Hong?|Prince Yi Kang|537|['5373', '5375']|['yi hong', 'yi seok']|True
+2wiki:538|Who is the paternal grandfather of Sir Thomas Lawley, 3Rd Baronet?|Sir Thomas Lawley, 1st Baronet|538|['5380', '5388']|['sir francis lawley 2nd baronet', 'sir thomas lawley 3rd baronet']|True
+2wiki:539|Who is the paternal grandfather of George Lyon, 5Th Lord Glamis?|John Lyon, 3rd Lord Glamis|539|['5391', '5394']|['george lyon 5th lord glamis', 'john lyon 4th lord glamis']|True
+2wiki:540|Where did the director of film Até Que A Sorte Nos Separe 2 study?|University of California|540|['5401', '5405']|['até que a sorte nos separe 2', 'roberto santucci']|True
+2wiki:541|Which film was released more recently, How To Make Love To A Negro Without Getting Tired or Frisco Kid?|How To Make Love To A Negro Without Getting Tired|541|['5414', '5417']|['frisco kid', 'how to make love to a negro without getting tired']|True
+2wiki:544|Which film was released more recently, Bidasari or Tangled Trails?|Bidasari|544|['5446', '5448']|['bidasari', 'tangled trails']|True
+2wiki:545|Which film has the director who is older, King Of The Zombies or Mon Oncle Benjamin?|King Of The Zombies|545|['5451', '5455', '5457', '5459']|['jean yarbrough', 'king of the zombies', 'mon oncle benjamin', 'édouard molinaro']|True
+2wiki:546|Where does Kitty Dukakis's husband work at?|UCLA|546|['5462', '5464']|['kitty dukakis', 'michael dukakis']|True
+2wiki:547|Which film came out first, Poznań '56 or The Last Day Of School Before Christmas?|The Last Day Of School Before Christmas|547|['5476', '5477']|['poznań 56', 'the last day of school before christmas']|True
+2wiki:550|What nationality is Isabella Of England's mother?|France|550|['5502', '5506']|['isabella of angoulême', 'isabella of england']|True
+2wiki:551|Which film has the director who is older, Villa!! or Sons Of Ingmar?|Sons Of Ingmar|551|['5513', '5514', '5516', '5519']|['james b clark director', 'sons of ingmar', 'victor sjöström', 'villa']|True
+2wiki:552|Who lived longer, Huchtenburg or Benjamin Nottingham Webster?|Huchtenburg|552|['5525', '5527']|['benjamin nottingham webster', 'huchtenburg']|True
+2wiki:553|Where was the mother of Louise Sophie Of Hanau-Lichtenberg born?|Strasbourg|553|['5533', '5535']|['countess palatine anna magdalena of birkenfeld bischweiler', 'louise sophie of hanau lichtenberg']|True
+2wiki:555|Who is the paternal grandmother of Prince Robert, Duke Of Chartres?|Maria Amalia of Naples and Sicily|555|['5550', '5553']|['ferdinand philippe duke of orléans', 'prince robert duke of chartres']|True
+2wiki:556|Who was born later, Ramón Corona or Ernest William Goodpasture?|Ernest William Goodpasture|556|['5560', '5569']|['ernest william goodpasture', 'ramón corona']|True
+2wiki:557|Where was the place of death of the director of film Quatre-Vingt-Treize (Film)?|Paris|557|['5571', '5577']|['albert capellani', 'quatre vingt treize film']|True
+2wiki:558|Are Flora Lake and Rostoul Lake located in the same country?|no|558|['5584', '5589']|['flora lake', 'rostoul lake']|True
+2wiki:560|Which film was released more recently, Torrente 2: Misión En Marbella or The Heart Of New York (Film)?|Torrente 2: Misión En Marbella|560|['5600', '5609']|['the heart of new york film', 'torrente 2 misión en marbella']|True
+2wiki:561|Which film has the director born earlier, Main Tera Hero or Betrayed Women?|Betrayed Women|561|['5610', '5614', '5615', '5616']|['betrayed women', 'david dhawan', 'edward l cahn', 'main tera hero']|True
+2wiki:562|Which album was released first, The Oak Ridge Boys Have Arrived or Beans And Fatback?|Beans And Fatback|562|['5621', '5629']|['beans and fatback', 'the oak ridge boys have arrived']|True
+2wiki:563|Which film whose director is younger, Slums Of Berlin or Phantom India?|Phantom India|563|['5632', '5633', '5634', '5636']|['gerhard lamprecht', 'louis malle', 'phantom india', 'slums of berlin']|True
+2wiki:564|Which film whose director was born first, Weird Woman or Secret Strings?|Secret Strings|564|['5640', '5642', '5644', '5645']|['john ince actor', 'reginald le borg', 'secret strings', 'weird woman']|True
+2wiki:565|Who is the mother of the director of film Atomised (Film)?|Gisela Elsner|565|['5650', '5653']|['atomised film', 'oskar roehler']|True
+2wiki:566|When did Guglielma Pallavicini's mother die?|1323|566|['5660', '5666']|['guglielma pallavicini', 'maria dalle carceri']|True
+2wiki:567|Which film has the director died earlier, Black Belly Of The Tarantula or Devil On Deck?|Devil On Deck|567|['5672', '5673', '5675', '5677']|['black belly of the tarantula', 'devil on deck', 'paolo cavara', 'wallace fox']|True
+2wiki:568|What is the date of birth of Mohammed Bin Nawwaf Bin Abdulaziz's father?|16 August 1932|568|['5685', '5688']|['mohammed bin nawwaf bin abdulaziz', 'nawwaf bin abdulaziz al saud']|True
+2wiki:569|What is the place of birth of the director of film Encino Man?|Albuquerque, New Mexico|569|['5690', '5695']|['encino man', 'les mayfield']|True
+2wiki:571|Which film has the director who died later, The Olsen Gang In Jutland or Pathala Bhairavi?|The Olsen Gang In Jutland|571|['5713', '5714', '5716', '5717']|['erik balling', 'k v reddy', 'pathala bhairavi', 'the olsen gang in jutland']|True
+2wiki:572|Who is Marcus Aemilius Lepidus (Executed 39)'s father-in-law?|Germanicus|572|['5721', '5728']|['julia drusilla', 'marcus aemilius lepidus executed 39']|True
+2wiki:573|Which film came out earlier, The Champion Of Pontresina or The Bulleteers?|The Champion Of Pontresina|573|['5730', '5736']|['the bulleteers', 'the champion of pontresina']|True
+2wiki:574|Where was the place of burial of Kunigunde Of Poland's father?|Wawel Cathedral|574|['5740', '5745']|['kunigunde of poland', 'władysław i łokietek']|True
+2wiki:575|Who is Charles Xiii Of Sweden's paternal grandfather?|Christian August of Holstein-Gottorp, Prince of Eutin|575|['5750', '5756']|['adolf frederick king of sweden', 'charles xiii of sweden']|True
+2wiki:576|Which country the performer of song I Might Have Been Queen is from?|Swiss|576|['5763', '5769']|['i might have been queen', 'tina turner']|True
+2wiki:577|Who is the maternal grandfather of Conan Ii, Duke Of Brittany?|Odo II, Count of Blois|577|['5771', '5775']|['bertha of blois', 'conan ii duke of brittany']|True
+2wiki:579|Who is Henri Ii, Duke Of Nemours's paternal grandfather?|Jacques|579|['5797', '5798']|['henri i duke of nemours', 'henri ii duke of nemours']|True
+2wiki:580|Which film whose director was born first, Gangster'S Boy or Torno A Vivere Da Solo?|Gangster'S Boy|580|['5801', '5802', '5805', '5809']|['gangster s boy', 'jerry calà', 'torno a vivere da solo', 'william nigh']|True
+2wiki:581|Which film was released more recently, Il Marchio Di Kriminal or Nandhi?|Nandhi|581|['5816', '5818']|['il marchio di kriminal', 'nandhi']|True
+2wiki:582|Where did Sultan Walad's father die?|Konya|582|['5821', '5822']|['rumi', 'sultan walad']|True
+2wiki:585|Are Paris Sewer Museum and Musée National Des Douanes located in the same country?|yes|585|['5850', '5855']|['musée national des douanes', 'paris sewer museum']|True
+2wiki:586|Which film has the director died first, Let'S Live Again or Kummatty?|Let'S Live Again|586|['5861', '5863', '5866', '5867']|['g aravindan', 'herbert i leeds', 'kummatty', 'let s live again']|True
+2wiki:587|Which film has the director who was born earlier, Thalapathi or Pour La Peau D'Un Flic?|Pour La Peau D'Un Flic|587|['5871', '5875', '5876', '5879']|['alain delon', 'mani ratnam', 'pour la peau d un flic', 'thalapathi']|True
+2wiki:588|Who is Tekle Haymanot Ii's paternal grandfather?|Iyasu I|588|['5882', '5889']|['tekle haymanot ii', 'yohannes ii']|True
+2wiki:591|Are Xavier Catholic College, Llandilo and Toowoomba Anglican School located in the same country?|yes|591|['5910', '5918']|['toowoomba anglican school', 'xavier catholic college llandilo']|True
+2wiki:592|What is the place of birth of the performer of song Are You Really Mine??|Camas|592|['5924', '5928']|['are you really mine', 'jimmie rodgers pop singer']|True
+2wiki:593|What nationality is Cecilia Renata Of Austria's husband?|Polish–Lithuanian Commonwealth|593|['5932', '5935']|['cecilia renata of austria', 'władysław iv vasa']|True
+2wiki:594|Which film has the director born first, 84 Charing Cross Road (Film) or Emperor'S Ball?|Emperor'S Ball|594|['5942', '5944', '5945', '5948']|['84 charing cross road film', 'david jones director', 'emperor s ball', 'franz antel']|True
+2wiki:596|Who is the paternal grandfather of Eochaid Ailtlethan?|Connla Cáem|596|['5966', '5967']|['ailill caisfiaclach', 'eochaid ailtlethan']|True
+2wiki:597|Are Les Misérables (1917 Film) and The Better 'Ole (1926 Film) both from the same country?|yes|597|['5975', '5976']|['les misérables 1917 film', 'the better ole 1926 film']|True
+2wiki:598|What is the date of birth of Francis Otto, Duke Of Brunswick-Lüneburg's father?|27 June 1497|598|['5982', '5989']|['ernest i duke of brunswick lüneburg', 'francis otto duke of brunswick lüneburg']|True
+2wiki:600|Which film was released first, Assault On Dome 4 or The Battle Of The Rails?|The Battle Of The Rails|600|['6001', '6005']|['assault on dome 4', 'the battle of the rails']|True
+2wiki:602|Who is the maternal grandfather of Princess Helena Adelaide Of Schleswig-Holstein-Sonderburg-Glücksburg?|Frederick VIII, Duke of Schleswig-Holstein|602|['6020', '6029']|['princess helena adelaide of schleswig holstein sonderburg glücksburg', 'princess karoline mathilde of schleswig holstein sonderburg augustenburg']|True
+2wiki:603|Who was born later, Zhang Mengying or Wolfgang Herrndorf?|Zhang Mengying|603|['6034', '6036']|['wolfgang herrndorf', 'zhang mengying']|True
+2wiki:605|Which film whose director is younger, Maine Pyaar Kyun Kiya? or Children Of The Streets?|Maine Pyaar Kyun Kiya?|605|['6051', '6052', '6056', '6058']|['children of the streets', 'david dhawan', 'maine pyaar kyun kiya', 'victor sjöström']|True
+2wiki:606|Where was the father of George Howard, 4Th Earl Of Suffolk born?|Saffron Walden|606|['6060', '6062']|['george howard 4th earl of suffolk', 'theophilus howard 2nd earl of suffolk']|True
+2wiki:607|Which film has the director who was born later, Enjoy Yourselves or A Song To Remember?|A Song To Remember|607|['6072', '6075', '6077', '6078']|['a song to remember', 'charles vidor', 'enjoy yourselves', 'hans steinhoff']|True
+2wiki:608|Where was the mother of Elizabeth Stafford born?|English|608|['6084', '6088']|['dorothy stafford', 'elizabeth stafford']|True
+2wiki:609|What is the place of birth of the performer of song If You Want To Be My Woman?|Bakersfield|609|['6094', '6095']|['if you want to be my woman', 'merle haggard']|True
+2wiki:610|Which film was released more recently, Hit Of The Show or The Incredibly Strange Creatures Who Stopped Living And Became Mixed-Up Zombies?|The Incredibly Strange Creatures Who Stopped Living And Became Mixed-Up Zombies|610|['6101', '6103']|['hit of the show', 'the incredibly strange creatures who stopped living and became mixed up zombies']|True
+2wiki:611|Who is the spouse of the performer of song Neurotic Society (Compulsory Mix)?|Rohan Marley|611|['6112', '6114']|['lauryn hill', 'neurotic society compulsory mix']|True
+2wiki:612|Where was the director of film Veera Thalattu born?|Theni|612|['6121', '6123']|['kasthuri raja', 'veera thalattu']|True
+2wiki:614|Which country the director of film Brecha (2009 Film) is from?|Argentine|614|['6144', '6148']|['brecha 2009 film', 'iván noel']|True
+2wiki:615|Where was the place of death of the director of film Basta Guardarla?|Rome|615|['6155', '6156']|['basta guardarla', 'luciano salce']|True
+2wiki:616|Which film has the director who died earlier, The Third Visitor or The Dangerous Dude?|The Third Visitor|616|['6163', '6164', '6167', '6169']|['harry joe brown', 'maurice elvey', 'the dangerous dude', 'the third visitor']|True
+2wiki:618|Which film has the director born earlier, Amityville 3-D or The Soul'S Cycle?|The Soul'S Cycle|618|['6182', '6184', '6188', '6189']|['amityville 3 d', 'richard fleischer', 'the soul s cycle', 'ulysses davis']|True
+2wiki:619|Where was the husband of Princess Alexandra Of Anhalt born?|Rudolstadt|619|['6194', '6197']|['princess alexandra of anhalt', 'sizzo prince of schwarzburg']|True
+2wiki:620|Which film has the director who died later, Bloody Moon or The House Of Pulcini?|Bloody Moon|620|['6202', '6203', '6207', '6208']|['bloody moon', 'jesús franco', 'mario camerini', 'the house of pulcini']|True
+2wiki:622|Are both directors of films The Black Corsair (1937 Film) and Paths Of War from the same country?|yes|622|['6220', '6222', '6224', '6226']|['aldo grimaldi', 'amleto palermi', 'paths of war', 'the black corsair 1937 film']|True
+2wiki:623|Which film whose director is younger, Beat Girl or The White Squaw?|Beat Girl|623|['6231', '6234', '6236', '6237']|['beat girl', 'edmond t gréville', 'ray nazarro', 'the white squaw']|True
+2wiki:624|Which film has the director died earlier, Remember The Day or Cast Up By The Sea?|Cast Up By The Sea|624|['6242', '6244', '6245', '6246']|['cast up by the sea', 'henry king director', 'john gavin director', 'remember the day']|True
+2wiki:625|Which country Princess Katherine Of Greece And Denmark's mother is from?|German|625|['6252', '6259']|['princess katherine of greece and denmark', 'sophia of prussia']|True
+2wiki:627|Do the movies Sweet Mama (Film) and Soy Andina, originate from the same country?|yes|627|['6272', '6276']|['soy andina', 'sweet mama film']|True
+2wiki:628|Where does the director of film Die Abfahrer work at?|Dortmund University of Applied Sciences and Arts|628|['6282', '6287']|['adolf winkelmann film director', 'die abfahrer']|True
+2wiki:629|Who is the paternal grandmother of Charles Stuart, 1St Earl Of Lennox?|Elizabeth Stewart|629|['6290', '6294']|['charles stuart 1st earl of lennox', 'matthew stewart 4th earl of lennox']|True
+2wiki:630|What is the cause of death of director of film She Asked For It?|Parkinson|630|['6302', '6306']|['erle c kenton', 'she asked for it']|True
+2wiki:631|Who is Maurice De Berkeley, 4Th Baron Berkeley's maternal grandfather?|Roger Mortimer, 1st Earl of March|631|['6311', '6316']|['margaret mortimer baroness berkeley', 'maurice de berkeley 4th baron berkeley']|True
+2wiki:632|Which country Æthelwald, Ealdorman Of East Anglia's wife is from?|English|632|['6323', '6326']|['ælfthryth wife of edgar', 'æthelwald ealdorman of east anglia']|True
+2wiki:633|Which film whose director is younger, Vadakakku Oru Hridayam or The $1,000,000 Reward?|Vadakakku Oru Hridayam|633|['6331', '6336', '6338', '6339']|['george lessey', 'i v sasi', 'the 1 000 000 reward', 'vadakakku oru hridayam']|True
+2wiki:634|Where was the director of film Blood Father born?|Paris|634|['6343', '6349']|['blood father', 'jean françois richet']|True
+2wiki:637|Where was the father of Maurice De Saxe born?|Dresden|637|['6370', '6376']|['augustus ii the strong', 'maurice de saxe']|True
+2wiki:638|Which film has the director who was born later, Til Sæters or Ruben Guthrie?|Ruben Guthrie|638|['6381', '6384', '6387', '6389']|['brendan cowell', 'harry ivarson', 'ruben guthrie', 'til sæters']|True
+2wiki:639|Who was born later, Tsvetko Slavov or Marc Burrows?|Marc Burrows|639|['6390', '6393']|['marc burrows', 'tsvetko slavov']|True
+2wiki:640|Who is Alexandra Of Lithuania's father-in-law?|Siemowit III, Duke of Masovia|640|['6408', '6409']|['alexandra of lithuania', 'siemowit iv duke of masovia']|True
+2wiki:641|What is the place of birth of the director of film The Blue And White Lion?|Berlin|641|['6412', '6419']|['the blue and white lion', 'werner jacobs']|True
+2wiki:642|Which film has the director who died later, The Monkey Talks or Varakatnam?|Varakatnam|642|['6422', '6424', '6428', '6429']|['n t rama rao', 'raoul walsh', 'the monkey talks', 'varakatnam']|True
+2wiki:645|Who was born first out of Pierre Gauvreau and Tit Liviu Chinezu?|Tit Liviu Chinezu|645|['6450', '6452']|['pierre gauvreau', 'tit liviu chinezu']|True
+2wiki:646|When is Princess Joséphine Marie Of Belgium's mother's birthday?|17 November 1845|646|['6465', '6466']|['princess joséphine marie of belgium', 'princess marie of hohenzollern sigmaringen']|True
+2wiki:647|Who is Infante Philip, Duke Of Calabria's paternal grandmother?|Elisabeth Farnese|647|['6476', '6478']|['charles iii of spain', 'infante philip duke of calabria']|True
+2wiki:648|Where was the place of death of the director of film We (1982 Film)?|Přerov|648|['6481', '6482']|['vojtěch jasný', 'we 1982 film']|True
+2wiki:651|Are The Finches and She Drew The Gun both from the same country?|no|651|['6511', '6514']|['she drew the gun', 'the finches']|True
+2wiki:653|Who is the father-in-law of Ri Sol-Ju?|Kim Jong-il|653|['6537', '6538']|['kim jong un', 'ri sol ju']|True
+2wiki:654|Which film has the director died later, All The Sins Of The Earth or Women In The Wind?|All The Sins Of The Earth|654|['6540', '6543', '6544', '6548']|['all the sins of the earth', 'fritz umgelter', 'john farrow', 'women in the wind']|True
+2wiki:655|Who was born first, Patrik Lácha or Brad Booth?|Brad Booth|655|['6550', '6551']|['brad booth', 'patrik lácha']|True
+2wiki:657|Where was the place of death of the director of film Valley Of The Giants (Film)?|New York|657|['6575', '6576']|['valley of the giants film', 'william keighley']|True
+2wiki:658|Who is younger, Jonetani Ralulu or Andre Blay?|Jonetani Ralulu|658|['6583', '6588']|['andre blay', 'jonetani ralulu']|True
+2wiki:659|Who is Fernando Rodríguez De Castro's paternal grandfather?|Fernando García de Hita|659|['6591', '6592']|['fernando rodríguez de castro', 'rodrigo fernández de castro']|True
+2wiki:661|Which film has the director who died first, Everybody'S Hobby or One Sunday Afternoon (1948 Film)?|Everybody'S Hobby|661|['6613', '6615', '6616', '6617']|['everybody s hobby', 'one sunday afternoon 1948 film', 'raoul walsh', 'william c mcgann']|True
+2wiki:663|Who is Sir William Gore, 3Rd Baronet's paternal grandfather?|Sir Paul Gore, 1st Baronet|663|['6631', '6636']|['sir ralph gore 2nd baronet', 'sir william gore 3rd baronet']|True
+2wiki:664|Who is the mother of the founder of university Libera Università Internazionale Degli Studi Sociali Guido Carli?|Virginia Bourbon del Monte|664|['6644', '6645']|['libera università internazionale degli studi sociali guido carli', 'umberto agnelli']|True
+2wiki:665|Who is the spouse of the director of film Worldly Goods?|Jean Harlow|665|['6652', '6658']|['paul bern', 'worldly goods']|True
+2wiki:666|What nationality is the director of film Vortex (1976 Film)?|Italy|666|['6667', '6668']|['sergio gobbi', 'vortex 1976 film']|True
+2wiki:667|Where was the place of death of Elisabeth Of Moravia's mother?|Brno|667|['6672', '6677']|['elisabeth of moravia', 'margaret of opava']|True
+2wiki:669|Who is the maternal grandfather of Princess Louise Of Belgium?|Archduke Joseph, Palatine of Hungary|669|['6696', '6697']|['marie henriette of austria', 'princess louise of belgium']|True
+2wiki:671|Who is the paternal grandfather of Sultan Al-Dawla?|'Adud al-Dawla|671|['6714', '6716']|['baha al dawla', 'sultan al dawla']|True
+2wiki:672|Where did Mate Meštrović's father graduate from?|Academy of Fine Arts Vienna|672|['6723', '6725']|['ivan meštrović', 'mate meštrović']|True
+2wiki:673|Which country the director of film Funny Games (2007 Film) is from?|Austrian|673|['6732', '6739']|['funny games 2007 film', 'michael haneke']|True
+2wiki:674|Where does the composer of film Rivers And Tides work at?|Mills College|674|['6745', '6747']|['fred frith', 'rivers and tides']|True
+2wiki:675|What nationality is the director of film Top Floor Girl?|French|675|['6754', '6758']|['max varnel', 'top floor girl']|True
+2wiki:676|Where did the director of film Polish-Russian War (Film) study?|National Film School in Łódź|676|['6762', '6763']|['polish russian war film', 'xawery żuławski']|True
+2wiki:680|Which film was released more recently, Last Of The Long-Haired Boys or Age Of The Dragons?|Age Of The Dragons|680|['6803', '6809']|['age of the dragons', 'last of the long haired boys']|True
+2wiki:681|Which film was released more recently, How Poets Are Enjoying Their Lives or Os Faroleiros?|How Poets Are Enjoying Their Lives|681|['6812', '6815']|['how poets are enjoying their lives', 'os faroleiros']|True
+2wiki:682|What is the place of birth of John F. Kennedy Jr.'s mother?|Southampton|682|['6820', '6827']|['jacqueline kennedy onassis', 'john f kennedy jr']|True
+2wiki:683|Are both Flying Fifty-Five and Approaching Midnight from the same country?|no|683|['6834', '6839']|['approaching midnight', 'flying fifty five']|True
+2wiki:684|What nationality is the director of film Detachment (Film)?|British|684|['6840', '6845']|['detachment film', 'tony kaye director']|True
+2wiki:685|Where does the director of film Podokkhep work at?|Florida Atlantic|685|['6852', '6855']|['podokkhep', 'suman ghosh director']|True
+2wiki:686|Where does David Flair's father work at?|Total Nonstop Action Wrestling|686|['6865', '6868']|['david flair', 'ric flair']|True
+2wiki:688|Who was born first out of Misaele Draunibaka and Ross Clark?|Ross Clark|688|['6882', '6888']|['misaele draunibaka', 'ross clark']|True
+2wiki:690|Where was the father of Nigel De Brus born?|Writtle|690|['6904', '6905']|['nigel de brus', 'robert de brus 6th lord of annandale']|True
+2wiki:691|Who is Hye Of Baekje's paternal grandfather?|Muryeong|691|['6910', '6912']|['hye of baekje', 'seong of baekje']|True
+2wiki:693|Which film has the director who is older, Dialogues Of Exiles or Rhythm And Weep?|Rhythm And Weep|693|['6930', '6931', '6932', '6935']|['dialogues of exiles', 'jules white', 'raúl ruiz director', 'rhythm and weep']|True
+2wiki:694|Who is older, William Henry Rodes Green or Eleanor Of Lancaster?|Eleanor Of Lancaster|694|['6941', '6944']|['eleanor of lancaster', 'william henry rodes green']|True
+2wiki:695|Which film has the director who died earlier, In The First Degree or The Sea God?|In The First Degree|695|['6951', '6954', '6957', '6958']|['george abbott', 'in the first degree', 'phil rosen', 'the sea god']|True
+2wiki:696|Who is the paternal grandfather of Gilbert De Umfraville, Earl Of Angus?|Richard de Umfraville|696|['6960', '6963']|['gilbert de umfraville', 'gilbert de umfraville earl of angus']|True
+2wiki:698|Which film has the director who died first, Another Language or Les Tontons Flingueurs?|Another Language|698|['6982', '6984', '6985', '6986']|['another language', 'edward h griffith', 'georges lautner', 'les tontons flingueurs']|True
+2wiki:699|Who is the paternal grandmother of Arthur Gore, 1St Earl Of Arran?|Anne Gore|699|['6994', '6997']|['arthur gore 1st earl of arran', 'sir arthur gore 2nd baronet']|True
+2wiki:700|Which film was released earlier, Farewell To The King or Brother Liu And Brother Wang On The Roads In Taiwan?|Brother Liu And Brother Wang On The Roads In Taiwan|700|['7004', '7005']|['brother liu and brother wang on the roads in taiwan', 'farewell to the king']|True
+2wiki:701|Who lived longer, Bernhard Afinger or Melvin Kranzberg?|Melvin Kranzberg|701|['7013', '7018']|['bernhard afinger', 'melvin kranzberg']|True
+2wiki:702|What is the place of birth of the director of film Samarpane?|Hunsur|702|['7020', '7026']|['h r bhargava', 'samarpane']|True
+2wiki:703|Where was the father of Princess Amelia Of Great Britain born?|Hanover|703|['7030', '7035']|['george ii of great britain', 'princess amelia of great britain']|True
+2wiki:704|Where did Rudra Mohammad Shahidullah's wife study at?|Mymensingh Medical College|704|['7045', '7046']|['rudra mohammad shahidullah', 'taslima nasrin']|True
+2wiki:705|Are Walter E. Massey and Matt Horwich both from the same country?|yes|705|['7050', '7052']|['matt horwich', 'walter e massey']|True
+2wiki:706|What is the place of birth of the director of film A Gun & A Ring?|Jaffna, Sri Lanka|706|['7060', '7065']|['a gun a ring', 'lenin m sivam']|True
+2wiki:707|Who is Albert Iii, Prince Of Anhalt-Zerbst's paternal grandfather?|Albert I, Prince of Anhalt-Zerbst|707|['7072', '7078']|['albert ii prince of anhalt zerbst', 'albert iii prince of anhalt zerbst']|True
+2wiki:708|Where did Judith Of Swabia's mother die?|Roman|708|['7080', '7087']|['agnes of poitou', 'judith of swabia']|True
+2wiki:709|Where was the place of burial of Karomama I's husband?|Tanis|709|['7090', '7092']|['karomama i', 'osorkon ii']|True
+2wiki:710|Which award the performer of song Beating Heart (Ellie Goulding Song) got?|BRIT Awards|710|['7102', '7105']|['beating heart ellie goulding song', 'ellie goulding']|True
+2wiki:711|What nationality is Prince Napoléon Bonaparte's father?|French|711|['7113', '7118']|['jérôme bonaparte', 'prince napoléon bonaparte']|True
+2wiki:712|Where was the founder of magazine Track & Field News born?|San Diego|712|['7125', '7128']|['bert nelson publisher', 'track field news']|True
+2wiki:715|Where did the director of film The Price Of Everything study?|Yale|715|['7156', '7158']|['nathaniel kahn', 'the price of everything']|True
+2wiki:717|Which film has the director who was born later, Meraa Dost Meraa Dushman or Miles From Home?|Miles From Home|717|['7172', '7173', '7175', '7178']|['gary sinise', 'meraa dost meraa dushman', 'miles from home', 'raj khosla']|True
+2wiki:718|Which film has the director born earlier, Pieces Of A Woman or Oriental Nights?|Oriental Nights|718|['7181', '7184', '7187', '7189']|['heinz paul', 'kornél mundruczó', 'oriental nights', 'pieces of a woman']|True
+2wiki:719|Was Dudley Russell or Juan René Serrano born first?|Dudley Russell|719|['7191', '7199']|['dudley russell', 'juan rené serrano']|True
+2wiki:720|Which film has the director who died later, The Lady Owner or Behind Prison Gates?|Behind Prison Gates|720|['7200', '7201', '7206', '7207']|['behind prison gates', 'charles barton director', 'the lady owner', 'walter west director']|True
+2wiki:722|Which film has the director died later, Taipei Story or The Ballad Of Cossack Golota?|Taipei Story|722|['7220', '7221', '7222', '7229']|['edward yang', 'igor savchenko', 'taipei story', 'the ballad of cossack golota']|True
+2wiki:723|Where did Oleg Kerensky's father die?|New York|723|['7236', '7239']|['alexander kerensky', 'oleg kerensky']|True
+2wiki:724|Who died earlier, Chiang Chung-Ling or George Andreadis?|Chiang Chung-Ling|724|['7240', '7249']|['chiang chung ling', 'george andreadis']|True
+2wiki:725|Where was the husband of Mok Kwai-Lan born?|Foshan|725|['7250', '7255']|['mok kwai lan', 'wong fei hung']|True
+2wiki:726|Did the movies Afraid Of The Dark and Smiley (2012 Film), originate from the same country?|no|726|['7267', '7269']|['afraid of the dark', 'smiley 2012 film']|True
+2wiki:727|Are both Enmelen and Yelshanka located in the same country?|yes|727|['7271', '7276']|['enmelen', 'yelshanka']|True
+2wiki:728|What is the cause of death of performer of song Blues Run The Game?|pneumonia|728|['7280', '7289']|['blues run the game', 'jackson c frank']|True
+2wiki:729|Are Freestylers and The Nouvelles both from the same country?|yes|729|['7293', '7297']|['freestylers', 'the nouvelles']|True
+2wiki:730|Which film has the director who was born later, Eradu Rekhegalu or The Gentleman From Nowhere?|Eradu Rekhegalu|730|['7300', '7303', '7307', '7308']|['eradu rekhegalu', 'k balachander', 'the gentleman from nowhere', 'william castle']|True
+2wiki:731|Who is Eleanor Of England, Countess Of Leicester's paternal grandmother?|Eleanor of Aquitaine|731|['7314', '7318']|['eleanor of england countess of leicester', 'john king of england']|True
+2wiki:732|Where was the director of film I'Ll Follow You Down born?|Mississauga|732|['7326', '7328']|['i ll follow you down', 'richie mehta']|True
+2wiki:733|Where was the place of burial of Princess Barbara Of Prussia's father?|Esparza|733|['7335', '7338']|['prince sigismund of prussia 1896 1978', 'princess barbara of prussia']|True
+2wiki:734|Which film has more directors, A Night Of Horror or The Whispering Shadow?|A Night Of Horror|734|['7344', '7349']|['a night of horror', 'the whispering shadow']|True
+2wiki:735|Who is younger, Vedran Purić or Jenő Kuti?|Vedran Purić|735|['7350', '7359']|['jenő kuti', 'vedran purić']|True
+2wiki:736|Which film has the director died first, To Mary – With Love or Five Little Peppers And How They Grew?|To Mary – With Love|736|['7360', '7363', '7364', '7365']|['charles barton director', 'five little peppers and how they grew', 'john cromwell director', 'to mary with love']|True
+2wiki:738|Who is Countess Alexandra Von Zarnekau's paternal grandmother?|Princess Therese of Nassau-Weilburg|738|['7382', '7386']|['countess alexandra von zarnekau', 'duke constantine petrovich of oldenburg']|True
+2wiki:739|Which film was released earlier, Gangai Karai Paattu or God In Heaven... Arizona On Earth?|God In Heaven... Arizona On Earth|739|['7395', '7398']|['gangai karai paattu', 'god in heaven arizona on earth']|True
+2wiki:742|Where did Ulysses S. Grant Jr.'s father graduate from?|Army|742|['7422', '7425']|['ulysses s grant', 'ulysses s grant jr']|True
+2wiki:743|Are the movies Amy (2015 Film) and Manhattan Angel, from the same country?|no|743|['7431', '7438']|['amy 2015 film', 'manhattan angel']|True
+2wiki:744|What is the date of birth of Marie Jeanne Baptiste Of Savoy-Nemours's husband?|20 June 1634|744|['7444', '7449']|['charles emmanuel ii duke of savoy', 'marie jeanne baptiste of savoy nemours']|True
+2wiki:745|Where was the director of film Rocket Attack U.S.A. born?|Bakersfield, California|745|['7452', '7454']|['barry mahon', 'rocket attack u s a']|True
+2wiki:746|When was the composer of song Hot Time In The Town Of Berlin born?|November 7, 1916|746|['7463', '7466']|['hot time in the town of berlin', 'joe bushkin']|True
+2wiki:747|Where was the place of burial of Lorenzo Cybo's mother?|St. Peter's Basilica|747|['7474', '7476']|['lorenzo cybo', 'maddalena de medici 1473 1528']|True
+2wiki:748|Are the directors of films Back To Back (1996 Film) and The White Hen both from the same country?|yes|748|['7480', '7483', '7487', '7489']|['back to back 1996 film', 'frank richardson director', 'roger nygard', 'the white hen']|True
+2wiki:750|Who is the paternal grandmother of Renaud Iii, Count Of Soissons?|Adelaide, Countess of Soissons|750|['7505', '7507']|['john i count of soissons', 'renaud iii count of soissons']|True
+2wiki:751|Who is George Frederick, Count Of Erbach-Breuberg's paternal grandfather?|George III, Count of Erbach-Breuberg|751|['7514', '7518']|['george albert i count of erbach schönberg', 'george frederick count of erbach breuberg']|True
+2wiki:752|Which film has the director died later, Dissolved And Effused or Here Comes The Groom?|Dissolved And Effused|752|['7520', '7521', '7524', '7526']|['dissolved and effused', 'frank capra', 'here comes the groom', 'ladislav smoljak']|True
+2wiki:754|What nationality is the singer of Pre (Band)?|Japan|754|['7546', '7547']|['akiko matsuura', 'pre band']|True
+2wiki:755|Who is Anna Of Nassau-Dillenburg (1541–1616)'s maternal grandmother?|Anna of Eppstein-Königstein|755|['7552', '7559']|['anna of nassau dillenburg 1541 1616', 'juliana of stolberg']|True
+2wiki:756|Which film has the director who was born later, Fugitive Rage or Neapolitan Carousel?|Fugitive Rage|756|['7562', '7563', '7564', '7567']|['ettore giannini', 'fred olen ray', 'fugitive rage', 'neapolitan carousel']|True
+2wiki:757|Who is the father-in-law of Prince Feodor Alexandrovich Of Russia?|Grand Duke Paul Alexandrovich of Russia|757|['7575', '7577']|['irina paley', 'prince feodor alexandrovich of russia']|True
+2wiki:758|Where did the director of film Battle Taxi die?|Moreno Valley|758|['7585', '7588']|['battle taxi', 'herbert l strock']|True
+2wiki:759|Are the directors of both films I Can'T Marry Them All and Come To The Stable from the same country?|yes|759|['7590', '7591', '7592', '7597']|['come to the stable', 'hans wolff director', 'henry koster', 'i can t marry them all']|True
+2wiki:760|Who was born first out of Johan Bardoul and Peter Seton Hay?|Peter Seton Hay|760|['7605', '7609']|['johan bardoul', 'peter seton hay']|True
+2wiki:762|Who was born first out of Adnen Helali and Maria Poulsen?|Adnen Helali|762|['7625', '7629']|['adnen helali', 'maria poulsen']|True
+2wiki:763|Which film came out first, Legend Of The Sea Wolf or Irvine Welsh'S Ecstasy?|Legend Of The Sea Wolf|763|['7631', '7637']|['irvine welsh s ecstasy', 'legend of the sea wolf']|True
+2wiki:765|What nationality is Kham Keut's father?|Lao|765|['7657', '7659']|['kham keut', 'samsenethai']|True
+2wiki:766|Where did the director of film 29+1 study?|Hong Kong Academy for Performing Arts|766|['7663', '7668']|['29 1', 'kearen pang']|True
+2wiki:768|Are the movies Seeing Red (1992 Film) and Wind From The Icy Country, from the same country?|yes|768|['7685', '7686']|['seeing red 1992 film', 'wind from the icy country']|True
+2wiki:769|Are both mountains, Kunturwasa and Yerupaja Chico, located in the same country?|yes|769|['7692', '7696']|['kunturwasa', 'yerupaja chico']|True
+2wiki:770|Which country the director of film Secrets Of A Door-To-Door Salesman is from?|United Kingdom|770|['7703', '7709']|['secrets of a door to door salesman', 'wolf rilla']|True
+2wiki:771|Where does the director of film The Witnesses work at?|Cahiers du cinéma|771|['7712', '7715']|['andré téchiné', 'the witnesses']|True
+2wiki:772|Which film has the director who was born later, Young Buffalo Bill or The Lacquered Box?|Young Buffalo Bill|772|['7721', '7725', '7728', '7729']|['jean kemm', 'joseph kane', 'the lacquered box', 'young buffalo bill']|True
+2wiki:773|What is the cause of death of director of film The Street Of Illusion?|Parkinson|773|['7733', '7734']|['erle c kenton', 'the street of illusion']|True
+2wiki:774|Who was born first, Thomas Rolfe or Roger Miret?|Thomas Rolfe|774|['7746', '7748']|['roger miret', 'thomas rolfe']|True
+2wiki:775|Where was the father of Benjamin Lewis Vulliamy born?|London|775|['7751', '7758']|['benjamin lewis vulliamy', 'benjamin vulliamy']|True
+2wiki:776|Where did the director of film Bridge Over The Elbe die?|Madrid|776|['7763', '7765']|['bridge over the elbe', 'león klimovsky']|True
+2wiki:777|Where did the director of film Mary Jane'S Pa die?|New York|777|['7772', '7778']|['mary jane s pa', 'william keighley']|True
+2wiki:778|Who lived longer, Claes-Ulrik Winberg or André Piters?|André Piters|778|['7781', '7782']|['andré piters', 'claes ulrik winberg']|True
+2wiki:779|What is the place of birth of Danielle Lineker's husband?|Leicester|779|['7792', '7795']|['danielle lineker', 'gary lineker']|True
+2wiki:780|Who is the father-in-law of Graham Smith (Māori Academic)?|Hirini Moko Mead|780|['7800', '7808']|['graham smith māori academic', 'linda tuhiwai smith']|True
+2wiki:781|Where was the father of Gwen Graham born?|Coral Gables, Florida|781|['7811', '7812']|['bob graham', 'gwen graham']|True
+2wiki:782|Which country François Louis, Prince Of Conti's father is from?|French|782|['7821', '7828']|['armand de bourbon prince of conti', 'françois louis prince of conti']|True
+2wiki:783|What nationality is the composer of film Count Your Blessings (1959 Film)?|German|783|['7830', '7836']|['count your blessings 1959 film', 'franz waxman']|True
+2wiki:784|Where did the director of film A Daughter Of Two Worlds die?|New York|784|['7843', '7846']|['a daughter of two worlds', 'james young director']|True
+2wiki:785|Which film has the director who is older, This Love Of Ours or The Red Siren?|This Love Of Ours|785|['7854', '7855', '7856', '7857']|['olivier megaton', 'the red siren', 'this love of ours', 'william dieterle']|True
+2wiki:786|Was Ralf Wohlleben or Ilya Tyapkin born first?|Ralf Wohlleben|786|['7863', '7866']|['ilya tyapkin', 'ralf wohlleben']|True
+2wiki:788|Which film has the director born earlier, Helluva Good Luck or The Last House On The Beach?|The Last House On The Beach|788|['7880', '7882', '7886', '7889']|['franco prosperi', 'helluva good luck', 'the last house on the beach', 'zdeněk troška']|True
+2wiki:789|Which university was established first, Universidad Autónoma De La Laguna or Penang Free School?|Penang Free School|789|['7891', '7897']|['penang free school', 'universidad autónoma de la laguna']|True
+2wiki:790|Where was the performer of song Det Brinner Ett Ljus born?|Hagfors|790|['7905', '7908']|['det brinner ett ljus', 'stefan borsch']|True
+2wiki:791|Who is Wenceslaus Of Żagań's paternal grandfather?|Henry VIII the Sparrow|791|['7912', '7917']|['jan i of żagań', 'wenceslaus of żagań']|True
+2wiki:792|Do both directors of films Assassin'S Creed (Film) and Two Brothers Running have the same nationality?|yes|792|['7922', '7923', '7924', '7929']|['assassin s creed film', 'justin kurzel', 'ted robinson tv director', 'two brothers running']|True
+2wiki:793|Do both films: America Ammayi and Professor Pyarelal have the directors from the same country?|yes|793|['7931', '7933', '7934', '7935']|['america ammayi', 'brij sadanah', 'professor pyarelal', 'singeetam srinivasa rao']|True
+2wiki:794|Where was the director of film Naked Violence (Film) born?|San Ferdinando di Puglia|794|['7945', '7946']|['fernando di leo', 'naked violence film']|True
+2wiki:795|What is the date of birth of Archduke Karl Pius Of Austria, Prince Of Tuscany's mother?|7 September 1868|795|['7954', '7957']|['archduke karl pius of austria prince of tuscany', 'infanta blanca of spain']|True
+2wiki:796|Which film has the director died earlier, The Romantic Age or Anything Once?|Anything Once|796|['7961', '7963', '7965', '7967']|['anything once', 'edmond t gréville', 'joseph de grasse', 'the romantic age']|True
+2wiki:797|Are Salla Huancane and Ichhu Rutuna located in the same country?|yes|797|['7977', '7979']|['ichhu rutuna', 'salla huancane']|True
+2wiki:798|Who is the maternal grandmother of Isabel De Verdun, Baroness Ferrers Of Groby?|Joan of Acre|798|['7980', '7986']|['elizabeth de clare', 'isabel de verdun baroness ferrers of groby']|True
+2wiki:799|Which film has the producer died earlier, The Criminal (1960 Film) or A Soldier'S Oath?|A Soldier'S Oath|799|['7992', '7995', '7997', '7998']|['a soldier s oath', 'nat cohen', 'the criminal 1960 film', 'william fox producer']|True
+2wiki:801|What is the place of birth of Princess Lalla Meryem Of Morocco's mother?|Khenifra|801|['8014', '8019']|['lalla latifa', 'princess lalla meryem of morocco']|True
+2wiki:803|Where was the performer of song Suicide Social born?|Alençon|803|['8030', '8033']|['orelsan', 'suicide social']|True
+2wiki:804|Which film has the director died first, Forty Years or Two Mules For Sister Sara?|Forty Years|804|['8042', '8045', '8048', '8049']|['don siegel', 'edmond t gréville', 'forty years', 'two mules for sister sara']|True
+2wiki:805|Who is the maternal grandfather of Agnès Of Navarre?|Louis X of France|805|['8053', '8055']|['agnès of navarre', 'joan ii of navarre']|True
+2wiki:806|Where was the place of death of the performer of song The Village Of St. Bernadette (Song)?|Branson, Missouri|806|['8067', '8068']|['andy williams', 'the village of st bernadette song']|True
+2wiki:807|What nationality is Nawrahta Minsaw's father?|Toungoo Empire|807|['8077', '8078']|['bayinnaung', 'nawrahta minsaw']|True
+2wiki:808|Where did the composer of film Port Djema study?|Peabody Conservatory|808|['8082', '8088']|['port djema', 'sanjay mishra musician']|True
+2wiki:809|Where was the place of death of the director of film A Man, A Woman, And A Bank?|Santa Barbara, California|809|['8093', '8094']|['a man a woman and a bank', 'noel black']|True
+2wiki:812|When is the founder of university Vermont Studio Center 's birthday?|January 26, 1955|812|['8128', '8129']|['jonathan gregg', 'vermont studio center']|True
+2wiki:813|Which film has the director who died earlier, Macario Against Zagomar or The Galloping Fish?|The Galloping Fish|813|['8130', '8132', '8134', '8136']|['del andrews', 'giorgio ferroni', 'macario against zagomar', 'the galloping fish']|True
+2wiki:814|Where was the place of death of the director of film Never The Twain (Film)?|Hamburg, Germany|814|['8140', '8142']|['karel lamač', 'never the twain film']|True
+2wiki:815|Who died first, Marguerite De Navarre or Leo Lankinen?|Marguerite De Navarre|815|['8150', '8152']|['leo lankinen', 'marguerite de navarre']|True
+2wiki:817|Where did Elizabeth Tudor (1492–1495)'s mother die?|Tower|817|['8171', '8175']|['elizabeth of york', 'elizabeth tudor 1492 1495']|True
+2wiki:818|What is the place of birth of Claudia Rodríguez De Castellanos's husband?|Bogotá|818|['8185', '8186']|['claudia rodríguez de castellanos', 'césar castellanos pastor']|True
+2wiki:819|Are both mountains, Yana Urqu (Q'Umirqucha) and Puka Rumi, located in the same country?|yes|819|['8190', '8199']|['puka rumi', 'yana urqu q umirqucha']|True
+2wiki:821|Which film has the director died first, Hit Parade Of 1943 or Mr. Reeder In Room 13?|Mr. Reeder In Room 13|821|['8210', '8211', '8212', '8217']|['albert s rogell', 'hit parade of 1943', 'mr reeder in room 13', 'norman lee']|True
+2wiki:824|Which film has the director who was born first, Legend Of The Mountain or Three Men To Kill?|Three Men To Kill|824|['8240', '8241', '8245', '8246']|['jacques deray', 'king hu', 'legend of the mountain', 'three men to kill']|True
+2wiki:825|Where was the place of burial of Cecilia Maria De Candia's mother?|Père Lachaise Cemetery|825|['8255', '8259']|['cecilia maria de candia', 'giulia grisi']|True
+2wiki:827|Where did Elizabeth Bruce's father die?|Cardross|827|['8277', '8278']|['elizabeth bruce', 'robert the bruce']|True
+2wiki:828|Where did the director of film The Cloister Of Martins die?|Munich|828|['8282', '8285']|['richard häussler', 'the cloister of martins']|True
+2wiki:830|Are both bands, The Renegades (Band) and Second Hand (Band), from the same country?|yes|830|['8300', '8307', '8309']|['second hand band', 'the renegades band']|True
+2wiki:831|Where was the director of film Bewitching Kisses born?|Buenos Aires|831|['8314', '8317']|['bewitching kisses', 'josé a ferreyra']|True
+2wiki:832|Who is Ailwyn Fellowes, 1St Baron Ailwyn's paternal grandfather?|William Henry Fellowes|832|['8322', '8325']|['ailwyn fellowes 1st baron ailwyn', 'edward fellowes 1st baron de ramsey']|True
+2wiki:833|Which film has the director who is older, Clash By Night or Porn In The Hood?|Clash By Night|833|['8330', '8336', '8337', '8338']|['clash by night', 'franck gastambide', 'fritz lang', 'porn in the hood']|True
+2wiki:834|Where was the performer of song Remember (John Lennon Song) born?|Liverpool|834|['8343', '8348']|['john lennon', 'remember john lennon song']|True
+2wiki:835|Who was born first out of Eliza Ritchie and Benjamin Nash?|Benjamin Nash|835|['8352', '8357']|['benjamin nash', 'eliza ritchie']|True
+2wiki:836|What is the date of birth of Teddy Hart's father?|1947|836|['8365', '8366']|['b j annis', 'teddy hart']|True
+2wiki:838|Which album came out first, Kind Of Love or Around The Fur?|Kind Of Love|838|['8386', '8389']|['around the fur', 'kind of love']|True
+2wiki:839|Who died earlier, Charles Taze Russell or George Washington Bright?|Charles Taze Russell|839|['8390', '8394']|['charles taze russell', 'george washington bright']|True
+2wiki:840|Who is Prince Hubertus Of Prussia's maternal grandfather?|Frederick Francis III, Grand Duke of Mecklenburg-Schwerin|840|['8407', '8409']|['duchess cecilie of mecklenburg schwerin', 'prince hubertus of prussia']|True
+2wiki:841|Where was the place of burial of the director of film The Secret Of Dr. Kildare?|Forest Lawn Memorial Park|841|['8414', '8416']|['harold s bucquet', 'the secret of dr kildare']|True
+2wiki:842|What is the date of death of Frederick Michael, Count Palatine Of Zweibrücken's father?|3 February 1735|842|['8420', '8422']|['christian iii count palatine of zweibrücken', 'frederick michael count palatine of zweibrücken']|True
+2wiki:843|Who is Gaius Rubellius Blandus's father-in-law?|Drusus Julius Caesar|843|['8435', '8438']|['gaius rubellius blandus', 'julia livia']|True
+2wiki:844|Which film was released earlier, Mercadet or Nangna Kappa Pakchade?|Mercadet|844|['8440', '8446']|['mercadet', 'nangna kappa pakchade']|True
+2wiki:846|Where was the place of death of the director of film Fight Of The Tertia (1952 Film)?|Kreuth|846|['8461', '8464']|['erik ode', 'fight of the tertia 1952 film']|True
+2wiki:847|Where was the husband of Dobrodeia Of Kiev born?|Macedonia|847|['8470', '8478']|['alexios komnenos co emperor', 'dobrodeia of kiev']|True
+2wiki:848|Who is the paternal grandfather of Casimir Ii Of Zator?|Casimir I of Oświęcim|848|['8480', '8486']|['casimir ii of zator', 'wenceslaus i of zator']|True
+2wiki:850|What is the place of birth of the performer of song Git (Song)?|Kırklareli|850|['8503', '8506']|['candan erçetin', 'git song']|True
+2wiki:851|Where was the place of death of the director of film Muchachos De La Ciudad?|Buenos Aires|851|['8511', '8513']|['josé a ferreyra', 'muchachos de la ciudad']|True
+2wiki:852|What is the place of birth of Jehu Grubb's father?|Pennsylvania|852|['8520', '8528']|['curtis grubb', 'jehu grubb']|True
+2wiki:853|Who is the sibling-in-law of Marie Thérèse De Choiseul?|Honoré IV, Prince of Monaco|853|['8534', '8536']|['marie thérèse de choiseul', 'prince joseph of monaco']|True
+2wiki:854|Where was the father of Islam Shah Suri born?|Sasaram|854|['8542', '8546']|['islam shah suri', 'sher shah suri']|True
+2wiki:855|When was Ellen Roosval Von Hallwyl's mother born?|1 October 1844|855|['8552', '8559']|['ellen roosval von hallwyl', 'wilhelmina von hallwyl']|True
+2wiki:856|Which country Marie Antoinette Murat's husband is from?|German|856|['8562', '8565']|['karl prince of hohenzollern sigmaringen', 'marie antoinette murat']|True
+2wiki:857|Which film has the director who died later, Taxi! or What Price Hollywood??|What Price Hollywood?|857|['8570', '8571', '8574', '8579']|['george cukor', 'roy del ruth', 'taxi', 'what price hollywood']|True
+2wiki:858|Which film has the director who was born first, La Môme Vert-De-Gris or The Pod People?|La Môme Vert-De-Gris|858|['8580', '8584', '8585', '8588']|['bernard borderie', 'juan piquer simón', 'la môme vert de gris', 'the pod people']|True
+2wiki:860|Which film was released earlier, Son Contento or Tadbir?|Tadbir|860|['8602', '8603']|['son contento', 'tadbir']|True
+2wiki:861|Which film has the director who is older than the other, Chinese In Paris or March Of The Penguins?|Chinese In Paris|861|['8614', '8615', '8617', '8619']|['chinese in paris', 'jean yanne', 'luc jacquet', 'march of the penguins']|True
+2wiki:862|Who is the spouse of the director of film Marie-Jo And Her Two Lovers?|Ariane Ascaride|862|['8621', '8622']|['marie jo and her two lovers', 'robert guédiguian']|True
+2wiki:863|Where was the place of death of Johanna Sibylla Of Hanau-Lichtenberg's mother?|Bouxwiller|863|['8633', '8638']|['johanna sibylla of hanau lichtenberg', 'ludowika margaretha of zweibrücken bitsch']|True
+2wiki:864|Who is the spouse of the performer of song Pump-Pump?|Eva-Riitta Siitonen|864|['8640', '8643']|['fredi singer', 'pump pump']|True
+2wiki:868|Which film has the director born later, The Secret Of The Blue Room or The Star Chamber?|The Star Chamber|868|['8681', '8682', '8684', '8689']|['kurt neumann director', 'peter hyams', 'the secret of the blue room', 'the star chamber']|True
+2wiki:869|Which film has the director who died later, Swarg Narak or Antardhan?|Swarg Narak|869|['8691', '8692', '8693', '8696']|['antardhan', 'dasari narayana rao', 'swarg narak', 'tapan sinha']|True
+2wiki:870|Which film has the producer who was born earlier, Term Life or Housefull 2?|Housefull 2|870|['8703', '8704', '8706', '8709']|['housefull 2', 'sajid nadiadwala', 'term life', 'vince vaughn']|True
+2wiki:871|Which film was released more recently, Marriage License? or Maalgudi Days?|Maalgudi Days|871|['8710', '8718']|['maalgudi days', 'marriage license']|True
+2wiki:872|Which film whose director was born first, Sword Of The Empire or Seven Guns For Timothy?|Sword Of The Empire|872|['8722', '8724', '8727', '8728']|['romolo guerrieri', 'sergio grieco', 'seven guns for timothy', 'sword of the empire']|True
+2wiki:873|Which film has the director who died later, The Mystic Masseur or Butter Fingers?|The Mystic Masseur|873|['8730', '8731', '8733', '8735']|['butter fingers', 'del lord', 'ismail merchant', 'the mystic masseur']|True
+2wiki:874|Who is John Of Hesse-Braubach's co-husband?|John George I, Duke of Saxe-Eisenach|874|['8740', '8744']|['johannetta of sayn wittgenstein 1632 1701', 'john of hesse braubach']|True
+2wiki:875|Where does the director of film All For Love (2012 Film) work at?|China University of Political Science and Law|875|['8750', '8758']|['all for love 2012 film', 'jiang ping']|True
+2wiki:876|Which film was released more recently, The Master Man or Ashokavanam?|Ashokavanam|876|['8763', '8768']|['ashokavanam', 'the master man']|True
+2wiki:877|Which film has the director died later, Rhythm In The Clouds or September Affair?|Rhythm In The Clouds|877|['8770', '8771', '8774', '8778']|['john h auer', 'rhythm in the clouds', 'september affair', 'william dieterle']|True
+2wiki:878|Where was the place of burial of Nebetah's mother?|KV35|878|['8780', '8789']|['nebetah', 'tiye']|True
+2wiki:880|Who is Duchess Marie Louise Of Mecklenburg-Schwerin's paternal grandfather?|Frederick Francis I, Grand Duke of Mecklenburg-Schwerin|880|['8804', '8806']|['duchess marie louise of mecklenburg schwerin', 'frederick louis hereditary grand duke of mecklenburg schwerin']|True
+2wiki:881|Who lived longer, Lydia Knott or Maria Dulębianka?|Lydia Knott|881|['8812', '8813']|['lydia knott', 'maria dulębianka']|True
+2wiki:882|What is the place of birth of Princess Raiyah Bint Hussein's father?|Amman|882|['8821', '8827']|['hussein of jordan', 'princess raiyah bint hussein']|True
+2wiki:885|What nationality is Horace Seymour's father?|Great Britain|885|['8856', '8859']|['horace seymour', 'lord hugh seymour']|True
+2wiki:886|Which country the performer of song That'S Good, That'S Bad (Frankie Laine Song) is from?|America|886|['8860', '8862']|['frankie laine', 'that s good that s bad frankie laine song']|True
+2wiki:887|Where was the composer of film Post Master born?|Karnataka|887|['8872', '8877']|['post master', 'vijaya bhaskar']|True
+2wiki:888|Where was the place of death of Carl Gustaf Creutz's father?|Öland|888|['8880', '8883']|['carl gustaf creutz', 'lorentz creutz']|True
+2wiki:889|Where was the director of film Outlaw: The Saga Of Gisli born?|Reykjavík|889|['8890', '8892']|['outlaw the saga of gisli', 'ágúst guðmundsson']|True
+2wiki:890|Who is Ermengarde Of Tuscany's paternal grandfather?|Adalbert I, Margrave of Tuscany|890|['8900', '8909']|['adalbert ii margrave of tuscany', 'ermengarde of tuscany']|True
+2wiki:891|Which country the director of film Ata Pata Laapata is from?|Indian|891|['8915', '8916']|['ata pata laapata', 'rajpal yadav']|True
+2wiki:894|What is the award that the performer of song In My Mind (Heather Headley Song) got?|Tony Award for Best Actress in a Musical|894|['8941', '8946']|['heather headley', 'in my mind heather headley song']|True
+2wiki:895|Which film has the director died later, El Túnel 6 or A Life At Stake?|El Túnel 6|895|['8951', '8953', '8955', '8956']|['a life at stake', 'chano urueta', 'el túnel 6', 'paul guilfoyle actor born 1902']|True
+2wiki:896|What nationality is the composer of song Inescapable (Song)?|American|896|['8964', '8969']|['diane warren', 'inescapable song']|True
+2wiki:897|Which film was released earlier, Rocky'S Knife or Buscando A Miguel?|Rocky'S Knife|897|['8970', '8971']|['buscando a miguel', 'rocky s knife']|True
+2wiki:898|Which film whose director is younger, Daar Doer In Die Bosveld or Return Of Halleluja?|Return Of Halleluja|898|['8980', '8984', '8985', '8988']|['daar doer in die bosveld', 'giuliano carnimeo', 'jamie uys', 'return of halleluja']|True
+2wiki:900|Where was the father of Prabhu (Actor) born?|Villupuram|900|['9000', '9004']|['prabhu actor', 'sivaji ganesan']|True
+2wiki:903|When did Jacob Van Huysum's father die?|April 23, 1716|903|['9033', '9039']|['jacob van huysum', 'justus van huysum']|True
+2wiki:904|Who died later, George Grenfell-Baines or Veit Amerbach?|George Grenfell-Baines|904|['9045', '9048']|['george grenfell baines', 'veit amerbach']|True
+2wiki:905|Who lived longer, Andrzej Markowski or François Missoffe?|François Missoffe|905|['9054', '9057']|['andrzej markowski', 'françois missoffe']|True
+2wiki:906|Who was born earlier, Elmer W. Conti or Seth Joshua?|Seth Joshua|906|['9062', '9064']|['elmer w conti', 'seth joshua']|True
+2wiki:907|When was Britannicus's father born?|1 August 10|907|['9074', '9078']|['britannicus', 'claudius']|True
+2wiki:908|Which film has the director who is older than the other, Lemming (Film) or Hunger For Love?|Hunger For Love|908|['9080', '9086', '9087', '9088']|['dominik moll', 'hunger for love', 'lemming film', 'nelson pereira dos santos']|True
+2wiki:909|Who was born first, João De Aquino or Yacine Slatni?|João De Aquino|909|['9092', '9095']|['joão de aquino', 'yacine slatni']|True
+2wiki:910|Are The Pursuit Of Happiness (1934 Film) and East Lynne (1931 Film) from the same country?|yes|910|['9103', '9104']|['east lynne 1931 film', 'the pursuit of happiness 1934 film']|True
+2wiki:911|Who was born first, Lamine Fomba or Michael Hagan?|Michael Hagan|911|['9110', '9116']|['lamine fomba', 'michael hagan']|True
+2wiki:912|What is the place of birth of the director of film The New Kids?|New York|912|['9123', '9125']|['sean s cunningham', 'the new kids']|True
+2wiki:913|Which film was released earlier, It'S Never Too Late To Mend or The Bride'S Journey?|It'S Never Too Late To Mend|913|['9132', '9136']|['it s never too late to mend', 'the bride s journey']|True
+2wiki:915|Who is the spouse of the director of film The Untouched Woman?|Käthe von Nagy|915|['9153', '9154']|['constantin j david', 'the untouched woman']|True
+2wiki:916|Which film has the director who was born later, I'Ll Take Sweden or His Majesty, The American?|I'Ll Take Sweden|916|['9160', '9162', '9165', '9169']|['fred de cordova', 'his majesty the american', 'i ll take sweden', 'joseph henabery']|True
+2wiki:918|What is the place of birth of the director of film Crazy Alien?|Taiyuan|918|['9186', '9187']|['crazy alien', 'ning hao']|True
+2wiki:919|Where was the place of death of Sancha Of Castile, Queen Of Navarre's mother?|Palencia|919|['9194', '9197']|['berengaria of barcelona', 'sancha of castile queen of navarre']|True
+2wiki:920|Where does the director of film Shock Treatment (1964 Film) work at?|San Diego State University|920|['9203', '9204']|['denis sanders', 'shock treatment 1964 film']|True
+2wiki:921|Which film has the director who died earlier, Father Makes Good or The Power Of A Lie?|The Power Of A Lie|921|['9211', '9212', '9216', '9218']|['father makes good', 'george archainbaud', 'jean yarbrough', 'the power of a lie']|True
+2wiki:922|Which film came out earlier, Rajapart Rangadurai or At Sword'S Edge?|At Sword'S Edge|922|['9221', '9229']|['at sword s edge', 'rajapart rangadurai']|True
+2wiki:923|Where did the director of film Saadia (Film) graduate from?|Harvard|923|['9230', '9238']|['albert lewin', 'saadia film']|True
+2wiki:925|Where does Princess Rym Al-Ali's father work at?|United Nations|925|['9250', '9259']|['lakhdar brahimi', 'princess rym al ali']|True
+2wiki:926|Who was born later, Saulo Torón Navarro or Jim Sterling?|Jim Sterling|926|['9264', '9267']|['jim sterling', 'saulo torón navarro']|True
+2wiki:927|Who is older, Adam Quick or Vicente Costa?|Vicente Costa|927|['9270', '9272']|['adam quick', 'vicente costa']|True
+2wiki:928|Who was born first, Marie-Eugène De L'Enfant-Jésus or Kenneth Johnson (Filmmaker)?|Marie-Eugène De L'Enfant-Jésus|928|['9280', '9289']|['kenneth johnson filmmaker', 'marie eugène de l enfant jésus']|True
+2wiki:929|What is the place of birth of Damo (Philosopher)'s father?|Samos|929|['9291', '9297']|['damo philosopher', 'pythagoras']|True
+2wiki:930|Which film has the director who is older, Shootin' For Love or The Other Life Of Captain Contreras?|Shootin' For Love|930|['9300', '9304', '9305', '9308']|['edward sedgwick', 'rafael gil', 'shootin for love', 'the other life of captain contreras']|True
+2wiki:931|Which film has the director who died later, Panam Paduthum Padu or Secret Enemies?|Panam Paduthum Padu|931|['9310', '9313', '9315', '9319']|['benjamin stoloff', 'panam paduthum padu', 'secret enemies', 'y r swamy']|True
+2wiki:932|Do both films, They Didn'T Know and North Of The Border (Film), have the directors who are from the same country?|no|932|['9326', '9327', '9328', '9329']|['b reeves eason', 'herbert smith producer', 'north of the border film', 'they didn t know']|True
+2wiki:933|Which country David Barclay Of Cheapside's father is from?|America|933|['9338', '9339']|['david barclay of cheapside', 'robert barclay']|True
+2wiki:934|Which film has the director born later, Gene Autry And The Mounties or Sunday'S Illness?|Sunday'S Illness|934|['9343', '9344', '9345', '9346']|['gene autry and the mounties', 'john english director', 'ramón salazar director', 'sunday s illness']|True
+2wiki:935|What is the place of birth of Bea Ballard's father?|Shanghai|935|['9352', '9354']|['bea ballard', 'j g ballard']|True
+2wiki:937|Who is the spouse of the director of film The Second Awakening Of Christa Klages?|Volker Schlöndorff|937|['9376', '9378']|['margarethe von trotta', 'the second awakening of christa klages']|True
+2wiki:939|Who is William Paulet, 4Th Marquess Of Winchester's paternal grandmother?|Elizabeth Willoughby|939|['9390', '9397']|['william paulet 3rd marquess of winchester', 'william paulet 4th marquess of winchester']|True
+2wiki:940|Where was the place of burial of Lucy Beall Candler Owens Heinz Leide's father?|Georgia|940|['9402', '9403']|['asa griggs candler', 'lucy beall candler owens heinz leide']|True
+2wiki:943|Which film has the director who is older, Space Probe Taurus or Tom Mix In Arabia?|Tom Mix In Arabia|943|['9430', '9433', '9434', '9437']|['leonard katzman', 'lynn reynolds', 'space probe taurus', 'tom mix in arabia']|True
+2wiki:944|Which country Şehzade Ömer Hilmi's father is from?|Ottoman Empire|944|['9447', '9448']|['mehmed v', 'şehzade ömer hilmi']|True
+2wiki:945|Which country the director of film Shocking Asia Ii: The Last Taboos is from?|Austria|945|['9451', '9459']|['rolf olsen actor', 'shocking asia ii the last taboos']|True
+2wiki:946|Which film has the director born first, The Bong Connection or The Whole Shootin' Match?|The Whole Shootin' Match|946|['9460', '9461', '9465', '9467']|['anjan dutt', 'eagle pennell', 'the bong connection', 'the whole shootin match']|True
+2wiki:949|Which film has the director born later, La Soif De L'Or or Forelsket I København?|Forelsket I København|949|['9490', '9493', '9498', '9499']|['finn henriksen', 'forelsket i københavn', 'gérard oury', 'la soif de l or']|True
+2wiki:950|Which film was released more recently, In The Country Of Juliets or Requiem For A Dream?|Requiem For A Dream|950|['9500', '9502']|['in the country of juliets', 'requiem for a dream']|True
+2wiki:951|Who is older, Boris Mavashev or Geraldo Vandré?|Geraldo Vandré|951|['9514', '9519']|['boris mavashev', 'geraldo vandré']|True
+2wiki:952|Who is younger, Lo Hsiao-Ting or Basil Hoffman?|Lo Hsiao-Ting|952|['9527', '9529']|['basil hoffman', 'lo hsiao ting']|True
+2wiki:953|Which film was released first, Sunset In Naples or The Storm Rider?|Sunset In Naples|953|['9530', '9539']|['sunset in naples', 'the storm rider']|True
+2wiki:954|Are Ding Yaping and Johann Christian Gustav Lucae of the same nationality?|yes|954|['9540', '9547']|['ding yaping', 'johann christian gustav lucae']|True
+2wiki:955|Which film has the director who was born earlier, All About Anna or Spy Today, Die Tomorrow?|Spy Today, Die Tomorrow|955|['9550', '9552', '9554', '9555']|['all about anna', 'franz josef gottlieb', 'jessica nilsson', 'spy today die tomorrow']|True
+2wiki:956|Who was born first out of Marco Donadel and Carrie Finlay?|Marco Donadel|956|['9568', '9569']|['carrie finlay', 'marco donadel']|True
+2wiki:957|Where was the composer of song Unravel born?|Reykjavík|957|['9571', '9576']|['björk', 'unravel']|True
+2wiki:958|Where was the director of film Meet Me On Broadway born?|New York|958|['9581', '9585']|['leigh jason', 'meet me on broadway']|True
+2wiki:960|Where was the father of Eugene Fubini born?|Venice|960|['9600', '9601']|['eugene fubini', 'guido fubini']|True
+2wiki:961|Who is Alberic Ii Of Spoleto's maternal grandmother?|Theodora|961|['9611', '9615']|['alberic ii of spoleto', 'marozia']|True
+2wiki:962|Which film was released more recently, An Unreasonable Man or Lay The Favorite?|Lay The Favorite|962|['9628', '9629']|['an unreasonable man', 'lay the favorite']|True
+2wiki:963|What nationality is Ameena Begum's husband?|Indian|963|['9633', '9638']|['ameena begum', 'inayat khan']|True
+2wiki:964|Who was born later, Paolo Marcellini or Dean Evans?|Dean Evans|964|['9642', '9648']|['dean evans', 'paolo marcellini']|True
+2wiki:965|Who is the paternal grandfather of Alexandru Coconul?|Mihnea Turcitul|965|['9653', '9655']|['alexandru coconul', 'radu mihnea']|True
+2wiki:966|Where was the place of death of the director of film Judith Therpauve?|Paris|966|['9663', '9669']|['judith therpauve', 'patrice chéreau']|True
+2wiki:967|Who was born later, Richard Longstreth or Jenny Algelid-Bengtsson?|Jenny Algelid-Bengtsson|967|['9675', '9679']|['jenny algelid bengtsson', 'richard longstreth']|True
+2wiki:968|Who is the father of Auguste-Théodore-Paul De Broglie?|Victor de Broglie|968|['9680', '9682']|['albertine baroness staël von holstein', 'auguste théodore paul de broglie']|True
+2wiki:969|Which film has the director died first, Face In The Rain or Above The Rim?|Face In The Rain|969|['9694', '9695', '9696', '9697']|['above the rim', 'face in the rain', 'irvin kershner', 'jeff pollack']|True
+2wiki:970|Who is the mother-in-law of Maria Caroline Gibert De Lametz?|Louise d'Aumont|970|['9701', '9707']|['florestan i prince of monaco', 'maria caroline gibert de lametz']|True
+2wiki:971|Where was the place of death of the director of film Foma Gordeyev (Film)?|Moscow|971|['9710', '9719']|['foma gordeyev film', 'mark donskoy']|True
+2wiki:972|Which film was released earlier, The Pride And The Passion or Lamhe?|The Pride And The Passion|972|['9721', '9725']|['lamhe', 'the pride and the passion']|True
+2wiki:975|Which film has the director died earlier, The Stolen Airship or Day Of The Badman?|Day Of The Badman|975|['9750', '9755', '9756', '9759']|['day of the badman', 'harry keller', 'karel zeman', 'the stolen airship']|True
+2wiki:976|Which film whose director is younger, Kiladigalu or He'S My Girl?|Kiladigalu|976|['9761', '9763', '9764', '9767']|['dwarakish', 'gabrielle beaumont', 'he s my girl', 'kiladigalu']|True
+2wiki:979|Which film was released earlier, Yohan: The Child Wanderer or A Nightmare On Elm Street 4: The Dream Master?|A Nightmare On Elm Street 4: The Dream Master|979|['9793', '9798']|['a nightmare on elm street 4 the dream master', 'yohan the child wanderer']|True
+2wiki:980|Which film came out first, The Greatest Thing In Life or Den Of Lions?|The Greatest Thing In Life|980|['9808', '9809']|['den of lions', 'the greatest thing in life']|True
+2wiki:981|Who died earlier, Samson Occom or Imre Wampetich?|Samson Occom|981|['9813', '9819']|['imre wampetich', 'samson occom']|True
+2wiki:982|Who is the mother-in-law of Ada Of Scotland?|Sophia of Rheineck|982|['9824', '9828']|['ada of scotland', 'floris iii count of holland']|True
+2wiki:983|Where was the director of film Driftwood (2006 Film) born?|Plainfield|983|['9834', '9836']|['driftwood 2006 film', 'tim sullivan director']|True
+2wiki:984|Which magazine was published first, Graphotism or Amiga World?|Amiga World|984|['9841', '9843']|['amiga world', 'graphotism']|True
+2wiki:987|Do both Those Merry Souls and The Last Starfighter films have the directors from the same country?|no|987|['9870', '9873', '9877', '9878']|['lau kar wing', 'nick castle', 'the last starfighter', 'those merry souls']|True
+2wiki:988|Which film has the director died first, Mandela And De Klerk or The Bride Came C.O.D.?|The Bride Came C.O.D.|988|['9880', '9885', '9886', '9887']|['joseph sargent', 'mandela and de klerk', 'the bride came c o d', 'william keighley']|True
+2wiki:990|Which film has the director died earlier, Miracle Of Marcelino or The Accompanist?|Miracle Of Marcelino|990|['9902', '9903', '9906', '9908']|['claude miller', 'ladislao vajda', 'miracle of marcelino', 'the accompanist']|True
+2wiki:991|Which film has the director born earlier, Step Into Liquid or Seasons Of Our Love?|Seasons Of Our Love|991|['9911', '9915', '9917', '9919']|['dana brown', 'florestano vancini', 'seasons of our love', 'step into liquid']|True
+2wiki:992|Who is Louis X Of France's maternal grandfather?|Henry I of Navarre|992|['9920', '9922']|['joan i of navarre', 'louis x of france']|True
+2wiki:993|Who is the spouse of the performer of song Missing My Baby?|Chris Pérez|993|['9935', '9936']|['missing my baby', 'selena']|True
+2wiki:994|Where was the place of death of Nancy Kassebaum's father?|Topeka|994|['9942', '9945']|['alf landon', 'nancy kassebaum']|True
+2wiki:996|Where was the father of David Ogilvy, 12Th Earl Of Airlie born?|Florence, Italy|996|['9964', '9968']|['david ogilvy 11th earl of airlie', 'david ogilvy 12th earl of airlie']|True
+2wiki:997|Which film has the director died earlier, The Marriage Of Maria Braun or An Ache In Every Stake?|An Ache In Every Stake|997|['9971', '9974', '9976', '9977']|['an ache in every stake', 'del lord', 'rainer werner fassbinder', 'the marriage of maria braun']|True
+2wiki:999|Who is younger, Jack Mildren or Alf Hellevik?|Jack Mildren|999|['9990', '9997']|['alf hellevik', 'jack mildren']|True
